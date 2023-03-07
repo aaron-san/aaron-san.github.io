@@ -1,0 +1,188 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  background: radial-gradient(#2d2929, rgb(72, 69, 69));
+  min-height: 1000px;
+  overflow: hidden;
+}
+
+* {
+  margin: 0;
+  /* box-sizing: border-box; // not neccesary */
+  font-family: "Roboto-Regular";
+  line-height: 1.8rem;
+  font-size: large;
+ }
+
+
+@font-face {
+  font-family: "PoorStory";
+  src: local("PoorStory"), url("./fonts/PoorStory/PoorStory-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PermanentMarker";
+  src: local("PermanentMarker"), url("./fonts/Permanent_Marker/PermanentMarker-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "FingerPaint";
+  src: local("FingerPaint"), url("./fonts/Finger_Paint/FingerPaint-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PermanentMarker";
+  src: local("PermanentMarker"), url("./fonts/Permanent_Marker/PermanentMarker-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Flamenco";
+  src: local("Flamenco"), url("./fonts/Flamenco/Flamenco-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Atma-Medium";
+  src: local("Atma-Medium"), url("./fonts/Atma/Atma-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Roboto-Regular";
+  src: local("Roboto-Regular"), url("./fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+}
+
+
+
+
+ul {
+  margin-left: 25px;
+}
+
+.container ul li {
+  list-style-type: none;
+  text-align: left;
+  padding: 2px 8px;
+  margin-left: 8px;
+  margin-bottom: 8px;
+  /* background-color:rgba(171, 185, 185, 0.8); */
+  border-radius: 10px;
+  /* border: 1px solid lightgreen; */
+  width: fit-content;
+}
+
+#list-a {
+  background: none;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@layer base {
+  ul {
+    @apply list-disc;
+  }
+  /* h1 {
+    @apply text-2xl;
+  }
+  h2 {
+    @apply text-xl;
+  } */
+  /* ... */
+}
+
+hr {
+  margin: 15px 0;
+}
+@layer components {
+  .container {
+    /* @apply rounded-b-lg shadow-md; */
+    @apply bg-gradient-to-br from-stone-800 to-stone-600;
+  }
+}
+
+.container {
+  /* display: relative; */
+  width: 60%;
+  color: white;
+  z-index: 5;
+  margin: 20px auto;
+  box-shadow: 0px 10px 40px 1px lightblue;
+  border-radius: 10px;
+  padding: 15px;
+  min-height: 1000px;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    width: 96%;
+  }
+}
+
+
+a {
+  color: rgb(107, 233, 255);;
+  text-decoration: none !important;
+}
+
+/* Navigation Links */
+nav > a {
+  font-family: "PermanentMarker";
+  color: white;
+  background: none;
+}
+
+
+li a.active {
+  background: none;
+  border-radius: 50px;
+}
+
+
+
+h3 {
+  color:rgb(255, 121, 215);
+  font-family: "Flamenco";
+  text-transform: uppercase;
+  font-weight: 35px;
+  font-size: x-large
+}
+
+h4 {
+  font-family: "PoorStory";
+}
+
+h2 {
+  font-family: "FingerPaint";
+}
+
+p, li {
+  font-family: "Roboto-Regular";
+  font-size: large;
+}
+
+h3::before {
+  /* content: "\021E8"; */
+  /* font-size: 35px; */
+  /* padding-right: 10px; */
+}
+
+h2, h3, h4 {
+  font-size: x-large;
+  margin: 4px 0 6px 8px;
+}
+
+h1 {
+  font-size: x-large;
+  margin: 8px 0 12px 8px;
+}
+
+a.active,
+a:hover {
+    /* background-color: #ddd; */
+    transition: all 0.5s;
+}
+
+a.active {
+    border-radius: 5px;
+}

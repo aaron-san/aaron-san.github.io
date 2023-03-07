@@ -1,0 +1,146 @@
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    /* float: left; */
+    width: 90%;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+    
+  }
+  
+  div.desc {
+    padding: 6px;
+    text-align: center;
+    background: rgb(73, 70, 70)
+  }
+
+.banner {
+  position: relative;
+  z-index: 1;
+  mix-blend-mode:lighten;
+}
+.banner img {
+  width: 100%;
+  height: auto;
+  position: absolute; 
+}
+
+.city-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 2%;
+}
+
+.city-card {
+  padding: 12px;
+  background: rgb(103, 100, 100);
+  z-index: 10;
+  margin: 10px 5px;
+  border-radius: 10px;
+  border: 1px solid ivory;
+  width: 45%;
+}
+
+
+.city-card ul {
+  padding-left: 10px;
+}
+
+.city-card ul li {
+  margin-left: 16px;
+  padding-left: 10px;
+  list-style-type: "\25A8";
+  /* text-align: justify; */
+  /* text-justify: ; */
+}
+
+.city-card ul li::marker {
+  color:rgb(197, 203, 203);
+  font-size: 12px;
+}
+
+
+ul li#pro {
+  /* list-style-type: "\2714"; */
+}
+
+ul li#pro::marker {
+  color: rgb(100, 225, 100);
+}
+
+
+ul li#con {
+  /* list-style-type: "\2718"; */
+}
+ul li#con::marker {
+  color: red;
+}
+
+
+
+
+
+
+@media screen and (max-width: 640px) {
+  .banner img {
+    display: none;
+  }
+
+  .city-card {
+    margin: 10px 0;
+    border-radius: 0px;
+    border: 1px solid ivory;
+    border: none;
+  }
+}
+
+
+
+
+.image-set {
+    /* box-shadow: 2px 4px 12px rgba(246, 237, 237, 0.2); */
+    /* border: 2px solid rgb(77, 74, 74); */
+    border-radius: 11px;
+    width: 100%;
+}
+
+.image-set img {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+
+.features {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+
+
+@media screen and (max-width: 640px) {
+  .city-card {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 641px) and (max-width:768px) {
+    .city-card {
+      width: 50%;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .city-card {
+      width: 40%;
+    }
+}
