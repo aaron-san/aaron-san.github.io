@@ -3,7 +3,8 @@
 @tailwind utilities;
 
 #root {
-  background: radial-gradient(#2d2929, rgb(72, 69, 69));
+  --bg_color: rgb(210, 210, 210);
+  --main_font: rgb(65, 65, 65);
   min-height: 1000px;
   overflow: hidden;
 }
@@ -14,43 +15,48 @@
   font-family: "Roboto-Regular";
   line-height: 1.8rem;
   font-size: large;
- }
-
+}
 
 @font-face {
   font-family: "PoorStory";
-  src: local("PoorStory"), url("./fonts/PoorStory/PoorStory-Regular.ttf") format("truetype");
+  src: local("PoorStory"),
+    url("./fonts/PoorStory/PoorStory-Regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "PermanentMarker";
-  src: local("PermanentMarker"), url("./fonts/Permanent_Marker/PermanentMarker-Regular.ttf") format("truetype");
+  src: local("PermanentMarker"),
+    url("./fonts/Permanent_Marker/PermanentMarker-Regular.ttf")
+      format("truetype");
 }
 
 @font-face {
   font-family: "FingerPaint";
-  src: local("FingerPaint"), url("./fonts/Finger_Paint/FingerPaint-Regular.ttf") format("truetype");
+  src: local("FingerPaint"),
+    url("./fonts/Finger_Paint/FingerPaint-Regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "PermanentMarker";
-  src: local("PermanentMarker"), url("./fonts/Permanent_Marker/PermanentMarker-Regular.ttf") format("truetype");
+  src: local("PermanentMarker"),
+    url("./fonts/Permanent_Marker/PermanentMarker-Regular.ttf")
+      format("truetype");
 }
 @font-face {
   font-family: "Flamenco";
-  src: local("Flamenco"), url("./fonts/Flamenco/Flamenco-Regular.ttf") format("truetype");
+  src: local("Flamenco"),
+    url("./fonts/Flamenco/Flamenco-Regular.ttf") format("truetype");
 }
 @font-face {
   font-family: "Atma-Medium";
-  src: local("Atma-Medium"), url("./fonts/Atma/Atma-Light.ttf") format("truetype");
+  src: local("Atma-Medium"),
+    url("./fonts/Atma/Atma-Light.ttf") format("truetype");
 }
 @font-face {
   font-family: "Roboto-Regular";
-  src: local("Roboto-Regular"), url("./fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+  src: local("Roboto-Regular"),
+    url("./fonts/Roboto/Roboto-Regular.ttf") format("truetype");
 }
-
-
-
 
 ul {
   margin-left: 25px;
@@ -72,9 +78,8 @@ ul {
   background: none;
 }
 
-
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
@@ -97,17 +102,18 @@ hr {
 @layer components {
   .container {
     /* @apply rounded-b-lg shadow-md; */
-    @apply bg-gradient-to-br from-stone-800 to-stone-600;
+    /* @apply bg-stone-500; */
   }
 }
 
 .container {
   /* display: relative; */
   width: 60%;
-  color: white;
+  /* color: rgb(65, 65, 65); */
   z-index: 5;
   margin: 20px auto;
-  box-shadow: 0px 10px 40px 1px lightblue;
+  background-color: rgb(255, 252, 252);
+  box-shadow: 0px 10px 40px 1px rgb(208, 208, 209);
   border-radius: 10px;
   padding: 15px;
   min-height: 1000px;
@@ -119,33 +125,29 @@ hr {
   }
 }
 
-
 a {
-  color: rgb(107, 233, 255);;
+  color: rgb(31, 150, 172);
   text-decoration: none !important;
 }
 
 /* Navigation Links */
 nav > a {
   font-family: "PermanentMarker";
-  color: white;
+  color: var(--main_font);
   background: none;
 }
-
 
 li a.active {
   background: none;
   border-radius: 50px;
 }
 
-
-
 h3 {
-  color:rgb(255, 121, 215);
+  color: rgb(255, 121, 215);
   font-family: "Flamenco";
   text-transform: uppercase;
   font-weight: 35px;
-  font-size: x-large
+  font-size: x-large;
 }
 
 h4 {
@@ -156,7 +158,8 @@ h2 {
   font-family: "FingerPaint";
 }
 
-p, li {
+p,
+li {
   font-family: "Roboto-Regular";
   font-size: large;
 }
@@ -167,7 +170,9 @@ h3::before {
   /* padding-right: 10px; */
 }
 
-h2, h3, h4 {
+h2,
+h3,
+h4 {
   font-size: x-large;
   margin: 4px 0 6px 8px;
 }
@@ -179,10 +184,43 @@ h1 {
 
 a.active,
 a:hover {
-    /* background-color: #ddd; */
-    transition: all 0.5s;
+  /* background-color: #ddd; */
+  transition: all 0.5s;
 }
 
 a.active {
-    border-radius: 5px;
+  border-radius: 5px;
+}
+
+.modal_styles {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: var(--bg_color);
+  padding: 50px;
+  z-index: 1000;
+}
+
+.overlay_styles {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 1000;
+}
+
+.button_wrapper_styles {
+  position: relative;
+  z-index: 1;
+}
+
+.todo {
+  background-color: lightcyan;
+  border: 1px solid dodgerblue;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 20px;
 }

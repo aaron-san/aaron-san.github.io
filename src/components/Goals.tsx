@@ -6,10 +6,10 @@ function Goals() {
       <h3>Goals</h3>
       <ol>
         <li>Receive new U.S. passport</li>
-        <li>Update Residence Card</li>
         <li>Research Plano, TX</li>
-        <li>Noa's U.S. passport</li>
-        <li>Ayaka's green card application</li>
+        <li>Son's U.S. passport</li>
+        <li>Son's SS card</li>
+        <li>Wife's green card application</li>
       </ol>
     </div>
   );

@@ -11,12 +11,14 @@ import { IoIosApps } from "react-icons/io";
 const Navbar = () => {
   return (
     <>
-      <nav className="flex justify-between bg-gradient-to-br from-stone-800 to-stone-600 h-20 px-2 md:px-4">
-        <NavLink className="logo-text" to="/">
-          Aaron Hardy
-        </NavLink>
+      <nav className="flex justify-between bg-gradient-to-br from-stone-800 to-stone-600 px-2 md:px-4">
+        <div className="title">
+          <NavLink className="logo-text" to="/">
+            Aaron Hardy
+          </NavLink>
 
-        <div className="logo-art"></div>
+          <div className="logo-art"></div>
+        </div>
         <ul>
           <li>
             <NavLink to="/notes">

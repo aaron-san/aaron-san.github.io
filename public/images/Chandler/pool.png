@@ -1,0 +1,4889 @@
+<!DOCTYPE html>
+<html lang="en" >
+  <head id="drop-target-head">
+    <title> Chandler, AZ Apartments for Rent near Ocotillo | Luxe @ Ocotillo</title>
+          <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        dataLayer.push({
+  "G5_CLIENT_ID": "g5-c-icwh344r-acacia-capital-corporation-client",
+  "G5_GA4_CLIENT_TRACKING_ID": "",
+  "G5_STORE_ID": "g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az",
+  "G5_INDUSTRY_ID": "Apartments",
+  "G5_THEME_ID": "Cascade - Simple",
+  "G5_CMS_VERSION": "v8.3.16",
+  "G5_PLATFORM_ID": "Cloud",
+  "G5_CLIENT_TRACKING_ID": "UA-88174719-21"
+});
+      </script>
+      <!-- Google Tag Manager -->
+        <script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KTND');</script>
+      <!-- End Google Tag Manager -->
+
+    
+
+    <meta charset="utf-8">
+
+    <meta name="keywords" content="" />
+
+  <meta name='google-site-verification' content="cJC2S5jHJfJJVirX6NlEM5TVKTwGFiDSTYFx3MPIwDE" />
+
+
+
+
+
+  <link rel="shortcut icon" href="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_147,w_147,c_crop/q_auto,f_auto,c_fill,g_center,h_144,w_144/v1627920199/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/luxe-fav_dz6kvo.png" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script class="structured-data-widget" type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ApartmentComplex",
+  
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Chandler",
+    "addressRegion": "AZ",
+    "postalCode": "85248",
+    "streetAddress": "825 W Queen Creek Rd"
+  },
+  
+    "description": "Calling Luxe @ Ocotillo home is the first step to a life of relaxation and bliss! Located in Chandler, Arizona, our waterfront community offers convenience with unparalleled comfort. Whether you’re hosting a dinner party in your newly restyled 1, 2, or 3 bedroom apartment, or reading a book by one of the resort-style swimming pools, you’ll love spending time at home. Contemporary living meets inviting gathering spaces, with an unbeatable location close to Loop 202 and minutes from Phoenix Sky Harbor International Airport. ",
+  
+  "image": "https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,fl_lossy,c_fill,g_center,h_300,w_300/v1627918822/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/services/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-large-pond_1_kmaqof.jpg",
+  "name": "Luxe @ Ocotillo",
+  
+  "openingHoursSpecification": [{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Tuesday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Wednesday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Thursday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Saturday"],"opens":"10:00","closes":"17:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Sunday"],"opens":"00:00","closes":"00:00"}],
+  
+  
+  "hasMap": "https://www.google.com/maps?cid=15624114051236075956",
+  
+  
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "33.2604056",
+    "longitude": "-111.8557407"
+  },
+  
+  
+  "sameAs": [
+  "https://www.facebook.com/LuxeatOcotilloApts",
+  "https://www.instagram.com/luxeatocotillo"
+  ],
+  
+  
+  "telephone": "623-377-9072",
+  "url": "https://www.luxeatocotillo.com"
+}
+</script>
+
+<meta name="description" content="Luxe @ Ocotillo offers 1, 2 & 3 bedroom apartments in  Chandler, AZ! Fantastic amenities + Great location near Chandler Fashion Center. Click for more info!">
+
+    <!-- for devices that don't support viewport -->
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script type="text/javascript">
+      var hostReg = new RegExp("g5dns|g5static", "g");
+      if (hostReg.exec(location.hostname)) {
+        var meta = document.createElement('meta');
+        meta.name = "robots";
+        meta.content = "noindex";
+        document.getElementsByTagName('head')[0].appendChild(meta);
+      }
+    </script>
+
+      <script>var loaded=false;</script>
+<script src="https://js.honeybadger.io/v3.0/honeybadger.min.js" onload="loaded=true;"></script>
+
+<script type="text/javascript">
+  if (loaded) {
+    Honeybadger.configure({
+      apiKey: '202fb6a2'
+    });
+
+    // Limit error reporting to production static sites
+    Honeybadger.beforeNotify(function(notice) {
+      if (/content-management-system|g5marketingcloud|g5static/i.test(notice.url)) { return false; }
+    });
+
+    function notifyHoneyBadger(asset_path) { Honeybadger.notify("Error loading " + asset_path) }
+  }
+</script>
+
+
+  <script type="text/javascript">
+    if (!window.console)var console={log:function(){},warn:function(){},error:function(){},time:function(){},timeEnd:function(){}};
+  </script>
+
+  <style>
+  :root {
+    --theme_primary_font: futura-pt;
+    --theme_secondary_font: futura-pt;
+    --theme_base_font: ;
+    --theme_primary_color: #444444;
+    --theme_secondary_color: #cacaca;
+    --theme_tertiary_color: #8ec539;
+    --theme_footer_color: #444444;
+    --theme_footer_text_color: #ffffff;
+    --theme_header_color: #444444;
+    --theme_header_text_color: #ffffff;
+    --theme_body_link_color: #3b6100;
+    --theme_primary_color_darken_5: #373737;
+    --theme_secondary_color_darken_5: #bdbdbd;
+    --theme_tertiary_color_darken_5: #80b133;
+    --theme_footer_color_darken_5: #373737;
+    --theme_footer_text_color_darken_5: #f2f2f2;
+    --theme_header_color_darken_5: #373737;
+    --theme_header_text_color_darken_5: #f2f2f2;
+    --theme_body_link_color_darken_5: #2b4800;
+    --theme_primary_color_darken_10: #2b2b2b;
+    --theme_secondary_color_darken_10: #b1b1b1;
+    --theme_tertiary_color_darken_10: #719d2e;
+    --theme_footer_color_darken_10: #2b2b2b;
+    --theme_footer_text_color_darken_10: #e6e6e6;
+    --theme_header_color_darken_10: #2b2b2b;
+    --theme_header_text_color_darken_10: #e6e6e6;
+    --theme_body_link_color_darken_10: #1c2e00;
+    --theme_primary_color_darken_15: #1e1e1e;
+    --theme_secondary_color_darken_15: #a4a4a4;
+    --theme_tertiary_color_darken_15: #638a28;
+    --theme_footer_color_darken_15: #1e1e1e;
+    --theme_footer_text_color_darken_15: #d9d9d9;
+    --theme_header_color_darken_15: #1e1e1e;
+    --theme_header_text_color_darken_15: #d9d9d9;
+    --theme_body_link_color_darken_15: #0c1500;
+    --theme_primary_color_darken_20: #111;
+    --theme_secondary_color_darken_20: #979797;
+    --theme_tertiary_color_darken_20: #557622;
+    --theme_footer_color_darken_20: #111;
+    --theme_footer_text_color_darken_20: #ccc;
+    --theme_header_color_darken_20: #111;
+    --theme_header_text_color_darken_20: #ccc;
+    --theme_body_link_color_darken_20: #000;
+    --theme_primary_color_darken_25: #040404;
+    --theme_secondary_color_darken_25: #8a8a8a;
+    --theme_tertiary_color_darken_25: #47621c;
+    --theme_footer_color_darken_25: #040404;
+    --theme_footer_text_color_darken_25: #bfbfbf;
+    --theme_header_color_darken_25: #040404;
+    --theme_header_text_color_darken_25: #bfbfbf;
+    --theme_body_link_color_darken_25: #000;
+    --theme_primary_color_darken_30: #000;
+    --theme_secondary_color_darken_30: #7e7e7e;
+    --theme_tertiary_color_darken_30: #384e17;
+    --theme_footer_color_darken_30: #000;
+    --theme_footer_text_color_darken_30: #b3b3b3;
+    --theme_header_color_darken_30: #000;
+    --theme_header_text_color_darken_30: #b3b3b3;
+    --theme_body_link_color_darken_30: #000;
+    --theme_primary_color_darken_35: #000;
+    --theme_secondary_color_darken_35: #717171;
+    --theme_tertiary_color_darken_35: #2a3b11;
+    --theme_footer_color_darken_35: #000;
+    --theme_footer_text_color_darken_35: #a6a6a6;
+    --theme_header_color_darken_35: #000;
+    --theme_header_text_color_darken_35: #a6a6a6;
+    --theme_body_link_color_darken_35: #000;
+    --theme_primary_color_darken_40: #000;
+    --theme_secondary_color_darken_40: #646464;
+    --theme_tertiary_color_darken_40: #1c270b;
+    --theme_footer_color_darken_40: #000;
+    --theme_footer_text_color_darken_40: #999;
+    --theme_header_color_darken_40: #000;
+    --theme_header_text_color_darken_40: #999;
+    --theme_body_link_color_darken_40: #000;
+    --theme_primary_color_darken_45: #000;
+    --theme_secondary_color_darken_45: #575757;
+    --theme_tertiary_color_darken_45: #0e1305;
+    --theme_footer_color_darken_45: #000;
+    --theme_footer_text_color_darken_45: #8c8c8c;
+    --theme_header_color_darken_45: #000;
+    --theme_header_text_color_darken_45: #8c8c8c;
+    --theme_body_link_color_darken_45: #000;
+    --theme_primary_color_darken_50: #000;
+    --theme_secondary_color_darken_50: #4b4b4b;
+    --theme_tertiary_color_darken_50: #000;
+    --theme_footer_color_darken_50: #000;
+    --theme_footer_text_color_darken_50: gray;
+    --theme_header_color_darken_50: #000;
+    --theme_header_text_color_darken_50: gray;
+    --theme_body_link_color_darken_50: #000;
+    --theme_primary_color_darken_55: #000;
+    --theme_secondary_color_darken_55: #3e3e3e;
+    --theme_tertiary_color_darken_55: #000;
+    --theme_footer_color_darken_55: #000;
+    --theme_footer_text_color_darken_55: #737373;
+    --theme_header_color_darken_55: #000;
+    --theme_header_text_color_darken_55: #737373;
+    --theme_body_link_color_darken_55: #000;
+    --theme_primary_color_darken_60: #000;
+    --theme_secondary_color_darken_60: #313131;
+    --theme_tertiary_color_darken_60: #000;
+    --theme_footer_color_darken_60: #000;
+    --theme_footer_text_color_darken_60: #666;
+    --theme_header_color_darken_60: #000;
+    --theme_header_text_color_darken_60: #666;
+    --theme_body_link_color_darken_60: #000;
+    --theme_primary_color_lighten_5: #515151;
+    --theme_secondary_color_lighten_5: #d7d7d7;
+    --theme_tertiary_color_lighten_5: #99cb4c;
+    --theme_footer_color_lighten_5: #515151;
+    --theme_footer_text_color_lighten_5: #fff;
+    --theme_header_color_lighten_5: #515151;
+    --theme_header_text_color_lighten_5: #fff;
+    --theme_body_link_color_lighten_5: #4b7b00;
+    --theme_primary_color_lighten_10: #5e5e5e;
+    --theme_secondary_color_lighten_10: #e4e4e4;
+    --theme_tertiary_color_lighten_10: #a5d160;
+    --theme_footer_color_lighten_10: #5e5e5e;
+    --theme_footer_text_color_lighten_10: #fff;
+    --theme_header_color_lighten_10: #5e5e5e;
+    --theme_header_text_color_lighten_10: #fff;
+    --theme_body_link_color_lighten_10: #5a9400;
+    --theme_primary_color_lighten_15: #6a6a6a;
+    --theme_secondary_color_lighten_15: #f0f0f0;
+    --theme_tertiary_color_lighten_15: #b0d774;
+    --theme_footer_color_lighten_15: #6a6a6a;
+    --theme_footer_text_color_lighten_15: #fff;
+    --theme_header_color_lighten_15: #6a6a6a;
+    --theme_header_text_color_lighten_15: #fff;
+    --theme_body_link_color_lighten_15: #6aae00;
+    --theme_primary_color_lighten_20: #777;
+    --theme_secondary_color_lighten_20: #fdfdfd;
+    --theme_tertiary_color_lighten_20: #bbdc88;
+    --theme_footer_color_lighten_20: #777;
+    --theme_footer_text_color_lighten_20: #fff;
+    --theme_header_color_lighten_20: #777;
+    --theme_header_text_color_lighten_20: #fff;
+    --theme_body_link_color_lighten_20: #79c700;
+    --theme_primary_color_lighten_25: #848484;
+    --theme_secondary_color_lighten_25: #fff;
+    --theme_tertiary_color_lighten_25: #c6e29b;
+    --theme_footer_color_lighten_25: #848484;
+    --theme_footer_text_color_lighten_25: #fff;
+    --theme_header_color_lighten_25: #848484;
+    --theme_header_text_color_lighten_25: #fff;
+    --theme_body_link_color_lighten_25: #89e100;
+    --theme_primary_color_lighten_30: #919191;
+    --theme_secondary_color_lighten_30: #fff;
+    --theme_tertiary_color_lighten_30: #d2e8af;
+    --theme_footer_color_lighten_30: #919191;
+    --theme_footer_text_color_lighten_30: #fff;
+    --theme_header_color_lighten_30: #919191;
+    --theme_header_text_color_lighten_30: #fff;
+    --theme_body_link_color_lighten_30: #98fa00;
+    --theme_primary_color_lighten_35: #9d9d9d;
+    --theme_secondary_color_lighten_35: #fff;
+    --theme_tertiary_color_lighten_35: #ddeec3;
+    --theme_footer_color_lighten_35: #9d9d9d;
+    --theme_footer_text_color_lighten_35: #fff;
+    --theme_header_color_lighten_35: #9d9d9d;
+    --theme_header_text_color_lighten_35: #fff;
+    --theme_body_link_color_lighten_35: #a3ff15;
+    --theme_primary_color_lighten_40: #aaa;
+    --theme_secondary_color_lighten_40: #fff;
+    --theme_tertiary_color_lighten_40: #e8f3d7;
+    --theme_footer_color_lighten_40: #aaa;
+    --theme_footer_text_color_lighten_40: #fff;
+    --theme_header_color_lighten_40: #aaa;
+    --theme_header_text_color_lighten_40: #fff;
+    --theme_body_link_color_lighten_40: #adff2e;
+    --theme_primary_color_lighten_45: #b7b7b7;
+    --theme_secondary_color_lighten_45: #fff;
+    --theme_tertiary_color_lighten_45: #f3f9ea;
+    --theme_footer_color_lighten_45: #b7b7b7;
+    --theme_footer_text_color_lighten_45: #fff;
+    --theme_header_color_lighten_45: #b7b7b7;
+    --theme_header_text_color_lighten_45: #fff;
+    --theme_body_link_color_lighten_45: #b7ff48;
+    --theme_primary_color_lighten_50: #c4c4c4;
+    --theme_secondary_color_lighten_50: #fff;
+    --theme_tertiary_color_lighten_50: #fffffe;
+    --theme_footer_color_lighten_50: #c4c4c4;
+    --theme_footer_text_color_lighten_50: #fff;
+    --theme_header_color_lighten_50: #c4c4c4;
+    --theme_header_text_color_lighten_50: #fff;
+    --theme_body_link_color_lighten_50: #c1ff61;
+    --theme_primary_color_lighten_55: #d0d0d0;
+    --theme_secondary_color_lighten_55: #fff;
+    --theme_tertiary_color_lighten_55: #fff;
+    --theme_footer_color_lighten_55: #d0d0d0;
+    --theme_footer_text_color_lighten_55: #fff;
+    --theme_header_color_lighten_55: #d0d0d0;
+    --theme_header_text_color_lighten_55: #fff;
+    --theme_body_link_color_lighten_55: #cbff7b;
+    --theme_primary_color_lighten_60: #ddd;
+    --theme_secondary_color_lighten_60: #fff;
+    --theme_tertiary_color_lighten_60: #fff;
+    --theme_footer_color_lighten_60: #ddd;
+    --theme_footer_text_color_lighten_60: #fff;
+    --theme_header_color_lighten_60: #ddd;
+    --theme_header_text_color_lighten_60: #fff;
+    --theme_body_link_color_lighten_60: #d5ff94;
+  }
+</style>
+
+
+    <base href="/">
+    <script type="text/javascript">
+  function cssLoadError() {
+    this.onerror=null;
+    this.href="/stylesheets/application-dc067da5ad2115005169e2bcdf21cd36580b7c83.min.css".replace(/-[0-9a-f]+(\.min.css)/, '$1');
+    notifyHoneyBadger("/stylesheets/application-dc067da5ad2115005169e2bcdf21cd36580b7c83.min.css | g5-clw-1loql74h70-luxe-ocotillo-d1aa00c932afcd390d3b121bedb909ce");
+  };
+</script>
+
+<link rel="stylesheet" media="screen" href="/stylesheets/application-dc067da5ad2115005169e2bcdf21cd36580b7c83.min.css" onerror="cssLoadError.call(this)" />
+
+<link rel='canonical' href='https://www.luxeatocotillo.com/' /><link rel='prerender' href='https://www.luxeatocotillo.com/' />
+  </head>
+
+  <body class=" page-home web-home-template site-location shrink-logo">
+          <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KTND"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+
+
+    
+
+
+
+<!-- Updated 2023-01-31 12:28:29 PST - CMS: vv8.3.16 - DeployID: g5-clw-1loql74h70-luxe-ocotillo-d1aa00c932afcd390d3b121bedb909ce-->
+
+
+<div class="rows-layout layout">
+  <header role="banner">
+    <div class="navigation-container collapsable">
+      <div class="content">
+
+        <div class="buttons">
+          <a class="collapsable-btn btn" data-toggle="collapse" data-target=".collapsable-content"><span class="text">Menu</span><span class="bars"><span></span><span></span><span></span></span></a>
+          <span id="drop-target-btn">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="button button-list button-default button-display-default button-10434068 widget" id="button-10434068" data-id="10434068" data-name="Button" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "button-10434068",
+      "thirdPartyEnable": false,
+      "hBEnable": false,
+      "hBMobileOption": "hide",
+      "hBMobileBreakpoint": "979px"
+    }
+  </script>
+
+  <style>
+    
+    .button.button-10434068 .btn {
+      background-color: #444444 !important;
+    }
+    .button.button-10434068 .btn:hover {
+      background-color: #444444 !important;
+    }
+    
+
+    
+
+    
+
+    
+
+    @media screen and (max-width: 979px) {
+      
+    }
+
+  </style>
+  <a href="/apartments/az/chandler/residents" class="">
+    
+
+    
+      <span class="btn">
+        Resident's Corner
+      </span>
+    
+  </a>
+
+  
+</span>
+
+</span>
+          <div id="drop-target-nav" class="collapsable-content collapse">
+
+
+  <nav class="navigation widget" aria-label="navigation-v2" data-id="10434069" data-name="Navigation V2" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+    <ul class="top-nav location-nav">
+<li><a href="/apartments/az/chandler/floor-plans">Floor Plans</a></li>
+<li><a href="/apartments/az/chandler/apply">Apply</a></li>
+<li class="has-subnav">
+<a href="/apartments/az/chandler/amenities">Amenities</a><ul class="subnav">
+<li><a href="/apartments/az/chandler/amenities">Amenities</a></li>
+<li><a href="/apartments/az/chandler/pet-friendly">Pet Friendly</a></li>
+<li><a href="/apartments/az/chandler/reviews">Reviews</a></li>
+</ul>
+</li>
+<li><a href="/apartments/az/chandler/neighborhood">Neighborhood</a></li>
+<li><a href="/apartments/az/chandler/photo-gallery">Photo Gallery</a></li>
+<li><a href="/apartments/az/chandler/map-directions">Map &amp; Directions</a></li>
+</ul>
+  </nav>
+
+
+
+</div>
+        </div>
+
+      </div> <!-- end .content -->
+    </div> <!-- end .navigation-container -->
+
+    <div class="logo-container">
+      <div id="drop-target-logo" class="content">
+
+
+
+
+
+
+
+
+
+<style>
+  
+</style>
+
+<div class="h-c-ret h-card">
+  <a class="logo widget u-url" href="/" id="logo-10434067" data-id="10434067" data-name="Logo" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+		
+  <script type="application/json" class="config">
+    {
+      "widgetId": "logo-10434067",
+      "singleDomain":"false",
+      "hrefSelector": "#logo-10434067",
+      "enableMobileSpecificDisplay": false,
+      "logoAltTag": "Luxe @ Ocotillo",
+      "logoSourceUrl": "https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_0,h_215,w_560,c_crop/q_auto,f_auto,fl_lossy,c_fill,g_center,h_215,w_560/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/luxenewlogo_yibgqp.png",
+      "mobileLogoSourceUrl": "",
+      "mobileBreakpoint": "1349",
+      "mobileLogoBackgroundColor": ""
+    }
+  </script>
+
+    
+    
+
+    
+      <img class="u-logo p-name" src="https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_0,h_215,w_560,c_crop/q_auto,f_auto,fl_lossy,c_fill,g_center,h_215,w_560/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/luxenewlogo_yibgqp.png" alt="Luxe @ Ocotillo" height="215" width="560" srcset="https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_0,h_215,w_560,c_crop/q_auto,f_auto,fl_lossy,c_fill,g_center,h_134,w_350/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/luxenewlogo_yibgqp.png 350w, https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_0,h_215,w_560,c_crop/q_auto,f_auto,fl_lossy,c_fill,g_center,h_154,w_402/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/luxenewlogo_yibgqp.png 402w, https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_0,h_215,w_560,c_crop/q_auto,f_auto,fl_lossy,c_fill,g_center,h_174,w_454/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/luxenewlogo_yibgqp.png 454w, https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_0,h_215,w_560,c_crop/q_auto,f_auto,fl_lossy,c_fill,g_center,h_194,w_506/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/luxenewlogo_yibgqp.png 506w, https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_0,h_215,w_560,c_crop/q_auto,f_auto,fl_lossy,c_fill,g_center,h_214,w_558/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/luxenewlogo_yibgqp.png 558w">
+    
+  </a>
+</div>
+
+</div>
+    </div>
+  </header>
+
+  <div id="drop-target-aside-before-main">
+
+
+
+
+
+
+<!--[if IE 9]><script type="text/javascript">var noStickyNavForIE9 = true;</script><![endif]-->
+<div class="contact-info-sheet widget hidden b-left contact-info-sheet-10434070" id="contact-info-sheet-10434070" role="complementary" aria-label="Contact Info Navigation" data-id="10434070" data-name="Contact Info Sheet" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+  <script class="config contact-info-sheet-config" type="application/json">
+    {
+      "cpnsUrl": "https://call-tracking.g5marketingcloud.com/api/v1/phone_numbers",
+      "locationUrn": "g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az",
+      "fadeDelay":"20",
+      "third_party_chat":"",
+      "chat_width":"640",
+      "chat_height":"480",
+      "widgetId": "contact-info-sheet-10434070",
+      "layout": "b-left",
+      "showScroll": "yes",
+      "hideOnMobile": "false",
+      "mobileBreakpoint": "980",
+      "hideOnDesktop": "false",
+      "desktopBreakpoint": "980",
+      "showHome": "no",
+      "phoneNumber": "623-377-9072",
+      "showPhone": "yes"
+    }
+  </script>
+
+  <style>
+
+    .contact-info-sheet-10434070 .privacy-disclaimer a {
+      color: inherit;
+    }
+
+    
+    
+      .contact-info-sheet-10434070 .p-tel {
+        color: #fff;
+      }
+    
+
+    
+
+    
+  </style>
+
+  <!-- Navigation Icons -->
+  <div class="info-sheet-nav b-left">
+    
+
+    
+      <!-- use phone service for this number -->
+      <a aria-label="623-377-9072" class="number info-sheet-phone-btn info-sheet-toggle cis-btn contact-info-sheet-phone" href="tel:623-377-9072" title="Phone Number">
+        <i class="fa fa-phone" aria-hidden="true"></i>
+        <span class="p-tel">623-377-9072</span>
+      </a>
+    
+
+    
+      <a aria-label="Email Us" class="info-sheet-email-btn info-sheet-toggle cis-btn yes-toggle" href="/apartments/az/chandler/contact-us" title="Email">
+        <i class="fa fa-envelope-2" aria-hidden="true"></i>
+        <span>Email</span>
+      </a>
+    
+
+    
+
+    
+
+    
+      <div class="info-sheet-page-up info-sheet-pagination cis-btn" title="Scroll Up" aria-hidden="true">
+        <i class="fa fa-angle-up" aria-hidden="true"></i>
+        <span>UP</span>
+      </div>
+
+      <div class="info-sheet-page-down info-sheet-pagination cis-btn" title="Scroll Down" aria-hidden="true">
+        <i class="fa fa-angle-down" aria-hidden="true"></i>
+        <span>DOWN</span>
+      </div>
+    
+  </div>
+
+
+  <!-- Main Content / Fly Outs -->
+  <div class="info-sheet-content">
+    
+      <div class="info-sheet-phone">
+        <a class="number" href="tel:623-377-9072">
+          <span class="p-tel tel">623-377-9072</span>
+        </a>
+      </div> <!-- end .info-sheet-phone -->
+    
+
+    
+      <div class="info-sheet-email">
+
+        <div class="g5-enhanced-form">
+          <script class="config" type="application/json">
+            {
+              
+              "formUrl": "https://client-leads.g5marketingcloud.com/api/v1/locations/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/html_forms/contact-resident"
+            }
+          </script>
+
+          <p>
+            You are using an older, unsupported browser. Please <a href="https://client-leads.g5marketingcloud.com/api/v1/locations/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/html_forms/contact-resident.html" target="_blank">visit this link</a> to contact us.
+          </p>
+        </div> <!-- end form -->
+      </div> <!-- end .info-sheet-email -->
+    
+  </div> <!-- end .info-sheet-content -->
+</div> <!-- end .contact-info-sheet -->
+
+
+<div id="promoted-reviews-10434071" class="promoted-reviews widget" data-id="10434071" data-name="Promoted Reviews" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+  <script class="config" type="application/json">
+    {
+      
+      "reviewType": "hcard",
+      
+
+      "brandedName": "Luxe @ Ocotillo",
+      "reviewPageUrl": "/apartments/az/chandler/reviews",
+      "insertReviewSchema": ".contact-info",
+      "fullReviewContent": "false",
+      "widgetId": "promoted-reviews-10434071",
+      "apiUrlId" : "28871",
+      "useChatmeterReviews" : "true",
+      "customLocationUrn": "g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az",
+      "chatmeterApiHost": "https://g5-api-proxy.g5marketingcloud.com",
+      "reputationManagerApiHost": "https://reputation.g5search.com",
+      "chatmeterCampaignId": "",
+      "googlePlaceID": "",
+      "chatmeterFormId": "5ac69bc5d650b8c34c0d49f5",
+      "chatmeterSocialEnabled": "false",
+      "chatmeterReputationEnabled": "false",
+      "chatmeterReputationLiteEnabled": "true",
+      "chatmeterListingManagementEnabled": "true",
+      "excludedSources": "",
+      "countAllReviews": "",
+      "responseAuthor": "",
+      "ratingsToDisplay": "4star,5star,positive",
+      "maxNumberReviews": "25",
+      "countAllReviews": "",
+      "reviewsIntegration": "chatmeter"
+    }
+  </script>
+
+  
+
+  <div class="promoted-reviews-content">
+    
+  </div>
+  
+</div>
+
+<!-- CSS OVERRIDE -->
+<style type="text/css">
+  
+.button a span {
+    background-color: #8ec539;
+}
+
+Makes headings black - Brannan 11/14/18*/
+h1 {
+color: #000000!important;
+}
+h2 {
+color: #000000!important;
+}
+h3 {
+color: #000000!important;
+}
+
+/*change form text color to black*/
+::placeholder, textarea, input {
+color: #333 !important;
+}
+/*Adds colored background to links in hcard - Brannan 2/4/19*/
+.contact-info > p > a > span:before, .contact-info > p > span:before {
+        background-color:#8ec539!important;
+}
+</style>
+
+
+
+
+<div class="featured-content-pop-out widget featured-content-pop-out-16309905" id="featured-content-pop-out-16309905" role="complementary" aria-label="content pop out" data-id="16309905" data-name="Featured Content Pop Out" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "featured-content-pop-out-16309905",
+      "backgroundImageURL": "",
+      "bgColor": "#8D8C91",
+      "bgColorOpacity": "100%",
+      "bgEffect": "none",
+      "bgEffectOverlayColor": "#000000",
+      "bgEffectOverlayOpacity": "60%",
+      "bgOverlayColor": "",
+      "bgOverlayOpacity": "",
+      "bgScrolling": "true",
+      "autoRevealType": "delayed",
+      "autoRevealTimer": "cookie",
+      "cookieExpiration": "1",
+      "autoRevealDelay": "5",
+      "autoRevealDisableDesktop": "false",
+      "autoRevealDisableMobile": "false",
+      "autoRevealMobileBreakpoint": "640",
+      "autoRevealScrollDistance": "10",
+      "scrollDistanceDeskReveal": "50",
+      "scrollDistanceMobileBreakpoint": "640",
+      "scrollDistanceDisableDesktop": "false",
+      "scrollDistanceDisableMobile": "true",
+      "scrollDistanceMobileReveal": "50",
+      "startDate": "2022-08-10",
+      "endDate": "",
+      "timezone": "America/Phoenix",
+      "customName": "Auto-reveal Special",
+      "customNameClass": "auto-reveal-special",
+      "excludedPages": "",
+      "featuredContentPopOutType": "auto"
+    }
+  </script>
+
+  <style>
+    #featured-content-pop-out-16309905 p,
+    #featured-content-pop-out-16309905 h1,
+    #featured-content-pop-out-16309905 h2,
+    #featured-content-pop-out-16309905 h3,
+    #featured-content-pop-out-16309905 h4,
+    #featured-content-pop-out-16309905 h5,
+    #featured-content-pop-out-16309905 h6,
+    #featured-content-pop-out-16309905 li {
+      color: #fff;
+    }
+
+    
+
+    
+
+    
+    .featured-content-pop-out-16309905 .featured-content-pop-out-aside {
+      background-color: #8D8C91;
+
+      
+        border: solid 1em #8ec539;
+      
+
+      
+        width: 900px;
+        height: 600px;
+        min-height: unset;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      
+    }
+
+
+    .featured-content-pop-out-16309905 .featured-content-pop-out-aside.right,
+    .featured-content-pop-out-16309905 .featured-content-pop-out-aside.left {
+      modal: -360px;
+      width: 360px;
+    }
+
+    .featured-content-pop-out-16309905 .featured-content-pop-out-aside.open {
+      
+        opacity: 100%;
+        visibility: visible;
+      
+    }
+
+    .featured-content-pop-out-16309905 .featured-content-pop-out-content {
+      padding: 1em;
+
+      
+        display: flex;
+        flex-direction: column;
+      
+    }
+
+    .featured-content-pop-out-16309905 .featured-content-pop-out-content > div[class^="pop-out-row-"] {
+      position: relative;
+      
+        
+          margin-bottom: 15px;
+        
+      
+    }
+
+    .featured-content-pop-out-16309905 .close-btn {
+      color: #fff;
+    }
+
+    /* Reveal btn */
+    
+    
+
+    #featured-content-pop-out-16309905 .reveal-btn {
+      
+        bottom: calc(20px - (-3em));
+      
+    }
+
+    #featured-content-pop-out-16309905 .reveal-btn-container {
+      border: 0px solid #444444;
+    }
+
+    #featured-content-pop-out-16309905 .reveal-btn-background {
+      background-color: #8ec539;
+      opacity: 1;
+    }
+
+    .reveal-btn:hover .reveal-btn-background {
+      background: #719d2e !important;
+    }
+
+    .featured-content-pop-out-16309905 .reveal-btn-icon,
+    .featured-content-pop-out-16309905 .reveal-btn-label {
+      color: #444444;
+    }
+
+    
+
+    
+
+    
+
+    
+  </style>
+
+  
+
+  <div class="featured-content-pop-out-overlay"></div>
+
+  <div class="featured-content-pop-out-aside bg-cover modal" style="display:none">
+    <div class="featured-content-pop-out-wrapper">
+      <div class="featured-content-pop-out-wrapper-overlay"></div>
+      <span class="close-btn" tabindex="0">×</span>
+      <div class="featured-content-pop-out-content featured-content-pop-out-two child-alignment-none">
+        <div class="pop-out-row-1" id="drop-target-1-row-16309905">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure class="photo-ret photo photo-16309906  photo-block  widget h-media " id="photo-16309906" data-id="16309906" data-name="Photo" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+  <script class="config photo-config" type="application/json">
+    {
+      "widgetId": "photo-16309906",
+      "enableMobileSpecificDisplay": false,
+      "mobileBreakpoint": "736"
+      
+      
+    }
+  </script>
+
+  <style>
+
+    
+
+    
+
+    
+
+    
+
+  </style>
+
+  <div class="photo-wrapper" role="complementary" aria-label="photo-content-16309906">
+
+    
+
+    
+
+      
+
+        
+
+        <img loading="lazy" class="u-photo" src="https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_0,h_215,w_560,c_crop/q_auto,f_auto,fl_lossy,c_fill,g_center,h_215,w_560/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/luxenewlogo_yibgqp.png" alt="Luxe @ Ocotillo logo" height="215" width="560" srcset="https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_0,h_215,w_560,c_crop/q_auto,f_auto,fl_lossy,c_fill,g_center,h_134,w_350/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/luxenewlogo_yibgqp.png 350w, https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_0,h_215,w_560,c_crop/q_auto,f_auto,fl_lossy,c_fill,g_center,h_154,w_402/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/luxenewlogo_yibgqp.png 402w, https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_0,h_215,w_560,c_crop/q_auto,f_auto,fl_lossy,c_fill,g_center,h_174,w_454/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/luxenewlogo_yibgqp.png 454w, https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_0,h_215,w_560,c_crop/q_auto,f_auto,fl_lossy,c_fill,g_center,h_194,w_506/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/luxenewlogo_yibgqp.png 506w, https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_0,h_215,w_560,c_crop/q_auto,f_auto,fl_lossy,c_fill,g_center,h_214,w_558/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/luxenewlogo_yibgqp.png 558w">
+
+        
+
+      
+
+    
+
+  </div>
+
+</figure>
+</div>
+
+        
+          <div class="pop-out-row-2" id="drop-target-2-row-16309905">
+<div class="html-16309907 html widget" id="html-16309907" data-id="16309907" data-name="HTML" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+<script class="config" type="application/json">
+  {
+    "widgetId": "html-16309907",
+    "clientUrn": "g5-c-icwh344r-acacia-capital-corporation-client",
+    "cpnsUrl": "https://call-tracking.g5marketingcloud.com/api/v1/phone_numbers",
+    "locationUrn": "g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az",
+    "phoneNumber": "623-377-9072"
+  }
+</script>
+
+<style>
+  
+
+  
+
+  
+
+  
+
+  
+    .html-16309907 .html-content {
+      padding: 1em 3em 1em 3em !important;
+    }
+  
+
+  @media screen and (max-width: 767px) {
+    
+    
+  }
+
+</style>
+
+  <div class="html-content">
+    <p style="text-align: center;"><span style="font-size:28px;"><strong>Rent Today and get $1,000.00 off Move In Costs! $99.00 app/admin fee special</strong></span></p>
+
+  </div>
+</div>
+</div>
+        
+
+        
+
+        
+
+        
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+  <section role="main" id="drop-target-main">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row content-stripe-widget row-widget   no-heading-border no-padding align-center bg-cover  normal-bg  row-10434081" id="row-10434081" style="background-color: #65636A;" data-id="10434081" data-name="Content Stripe" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "row-10434081",
+      "backgroundImageURL": "",
+      "mobileSettingOption": "none",
+      "mobileReplaceImg": "",
+      "mobileHideBackgroundImageBreakpoint": "979",
+      "mobileHideBgImgFontColor": "",
+      "rowBackgroundColor": "#65636A",
+      "rowTextColor": "default",
+      "mobileRowTextColor": "default"
+    }
+  </script>
+
+  <style>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+  </style>
+
+  <div class="content row-single">
+    <div class="row-grid">
+
+      <div class="col col-1" id="drop-target-1-column-10434081">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column column-widget   column-10434083" data-id="10434083" data-name="Column" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+  <div class="column-content column-two">
+
+    <div class="row-1" id="drop-target-1-row-10434083">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure class="photo-ret photo photo-10434085  photo-block  widget h-media " id="photo-10434085" data-id="10434085" data-name="Photo" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+  <script class="config photo-config" type="application/json">
+    {
+      "widgetId": "photo-10434085",
+      "enableMobileSpecificDisplay": false,
+      "mobileBreakpoint": "736"
+      
+      
+    }
+  </script>
+
+  <style>
+
+    
+
+    
+
+    
+      
+        .photo.photo-10434085 .filter {
+          background: background: rgb(42,42,42); background: linear-gradient(176deg, rgba(42,42,42,0.8449754901960784) 16%, rgba(255,255,255,0) 51%);;
+          opacity: 0.25;
+        }
+      
+      
+    
+
+    
+
+  </style>
+
+  <div class="photo-wrapper" role="complementary" aria-label="photo-content-10434085">
+
+    
+
+    
+
+      
+
+        
+        <div class="filter"></div>
+        
+
+        <img loading="eager" class="u-photo" src="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_2400,w_4000,c_crop/q_auto,f_auto,c_fill,g_center,h_1200,w_2000/v1627925387/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-pool-furniture_1_nxybye.jpg" alt="Apartments for rent at Luxe @ Ocotillo in Chandler, Arizona" height="1200" width="2000" srcset="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_2400,w_4000,c_crop/q_auto,f_auto,c_fill,g_center,h_210,w_350/v1627925387/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-pool-furniture_1_nxybye.jpg 350w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_2400,w_4000,c_crop/q_auto,f_auto,c_fill,g_center,h_457,w_762/v1627925387/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-pool-furniture_1_nxybye.jpg 762w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_2400,w_4000,c_crop/q_auto,f_auto,c_fill,g_center,h_704,w_1174/v1627925387/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-pool-furniture_1_nxybye.jpg 1174w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_2400,w_4000,c_crop/q_auto,f_auto,c_fill,g_center,h_951,w_1586/v1627925387/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-pool-furniture_1_nxybye.jpg 1586w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_2400,w_4000,c_crop/q_auto,f_auto,c_fill,g_center,h_1198,w_1998/v1627925387/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-pool-furniture_1_nxybye.jpg 1998w">
+
+        
+
+      
+
+    
+
+  </div>
+
+</figure>
+</div>
+
+    
+      <div class="row-2" id="drop-target-2-row-10434083">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="action-calls custom-action-calls widget calls-to-action-10434087" aria-label="Calls to action 10434087" id="calls-to-action-10434087" data-id="10434087" data-name="Calls To Action" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+  <script class="config" type="application/json">
+    {
+      "previewUrl1": "g5-clw-1loql74h70-luxe-ocotillo/apartments/az/chandler/floor-plans",
+      "previewUrl2": "g5-clw-1loql74h70-luxe-ocotillo/apartments/az/chandler/virtual-tour",
+      "previewUrl3": "g5-clw-1loql74h70-luxe-ocotillo/apartments/az/chandler/floor-plans",
+      "previewUrl4": "g5-clw-1loql74h70-luxe-ocotillo/apartments/az/chandler/floor-plans",
+      "widgetId": "calls-to-action-10434087"
+    }
+  </script>
+
+  <style>
+    
+    
+
+    
+      .calls-to-action-10434087 li a {
+        color: #000 !important;
+      }
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+  </style>
+
+  
+
+  <ul>
+
+    
+
+      
+      
+      
+
+      
+      
+
+      
+      
+
+      
+        <li class="cta-item cta-item-1">
+          <a href="/apartments/az/chandler/floor-plans" class=" ">Check Availability</a>
+        </li>
+      
+
+    
+
+      
+      
+      
+
+      
+      
+
+      
+      
+
+      
+
+    
+
+      
+      
+      
+
+      
+      
+
+      
+      
+
+      
+
+    
+
+      
+      
+      
+
+      
+      
+
+      
+      
+
+      
+
+    
+
+  </ul>
+</nav>
+</div>
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</div>
+
+      
+
+      
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row content-stripe-widget row-widget  text-dark no-heading-border  bg-cover row-overlay fixed-bg  row-10434090" id="row-10434090" style="background-color: transparent;" data-id="10434090" data-name="Content Stripe" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "row-10434090",
+      "backgroundImageURL": "",
+      "mobileSettingOption": "none",
+      "mobileReplaceImg": "",
+      "mobileHideBackgroundImageBreakpoint": "979",
+      "mobileHideBgImgFontColor": "",
+      "rowBackgroundColor": "transparent",
+      "rowTextColor": "dark",
+      "mobileRowTextColor": "default"
+    }
+  </script>
+
+  <style>
+    
+      .row-10434090::before {
+        background-color: rgba(202,202,202,0.75);
+      }
+    
+
+    
+
+    
+      .row-10434090 .html a,
+      .row-10434090 .accordion-section-content a,
+      .row-10434090 .online-scheduling p.privacy-disclaimer a {
+        color:#4a7900 !important;
+      }
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+  </style>
+
+  <div class="content row-single">
+    <div class="row-grid">
+
+      <div class="col col-1" id="drop-target-1-column-10434090">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column column-widget vanilla-address-block   column-10434092" data-id="10434092" data-name="Column" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+  <div class="column-content column-two">
+
+    <div class="row-1" id="drop-target-1-row-10434092">
+<div class="html-10434093 html widget" id="html-10434093" data-id="10434093" data-name="HTML" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+<script class="config" type="application/json">
+  {
+    "widgetId": "html-10434093",
+    "clientUrn": "g5-c-icwh344r-acacia-capital-corporation-client",
+    "cpnsUrl": "https://call-tracking.g5marketingcloud.com/api/v1/phone_numbers",
+    "locationUrn": "g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az",
+    "phoneNumber": "623-377-9072"
+  }
+</script>
+
+<style>
+  
+
+  
+
+  
+
+  
+
+  
+
+  @media screen and (max-width: 767px) {
+    
+    
+  }
+
+</style>
+
+  <div class="html-content">
+    <h1 style="text-align: center;">Welcome to Luxe @ Ocotillo</h1>
+
+<p style="text-align: center;">Calling Luxe @ Ocotillo home is the first step to a life of relaxation and bliss! Located in Chandler, Arizona, our waterfront community offers convenience with unparalleled comfort. Whether you’re hosting a dinner party in your newly restyled <a href="/apartments/az/chandler/floor-plans">one, two, or three bedroom apartment,</a> or reading a book by one of the resort-style swimming pools, you’ll love spending time at home. Contemporary living meets inviting gathering spaces, with an unbeatable location near Chandler Fashion Center, close to Loop 202, and minutes from Phoenix Sky Harbor International Airport. Your lifestyle but better. Luxe @ Ocotillo.</p>
+
+  </div>
+</div>
+</div>
+
+    
+      <div class="row-2" id="drop-target-2-row-10434092">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="contact-info h-c-ret v-c-ret h-card vcard widget contact-info-10434094" id="contact-info-10434094" data-id="10434094" data-name="Contact Info" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+  <script class="config" type="application/json">
+    {
+      "clientUrn": "g5-c-icwh344r-acacia-capital-corporation-client",
+      "cpnsUrl": "https://call-tracking.g5marketingcloud.com/api/v1/phone_numbers",
+      "locationUrn": "g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az",
+      "chatUrl": "",
+      "widgetId": "contact-info-10434094",
+      "phoneNumber": "623-377-9072"
+    }
+  </script>
+
+  <style>
+      
+
+      
+
+      
+
+      
+
+  </style>
+
+  
+
+  
+  <p class="phone">
+    <a class="number contact-info-phone" aria-label="623-377-9072" href="tel:623-377-9072">
+      <span class="p-tel tel">623-377-9072</span>
+    </a>
+  </p>
+  
+
+  
+  <p class="h-adr p-adr adr-ret adr">
+    <a href="/apartments/az/chandler/map-directions" aria-label="Go to map of &lt;span class='notranslate'&gt;&lt;/span&gt;">
+      
+      <span class="p-street-address street-address">
+        <span class="notranslate">825 W Queen Creek Rd</span>
+      </span>
+      
+
+      
+      <span class="p-locality locality">
+        <span class="notranslate">Chandler</span></span>,
+      
+
+      
+      <span class="p-region region">
+        AZ
+      </span>
+      
+
+      
+      <span class="p-postal-code postal-code">
+        85248
+      </span>
+      
+
+      
+    </a>
+  </p>
+  
+
+  
+  <p class="u-email email">
+    <a href="/apartments/az/chandler/contact-us">Email Us</a>
+  </p>
+  
+
+  
+
+  
+
+
+  
+</div>
+</div>
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</div>
+
+      
+
+      
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="row-divider content center" id="row-divider-10434097">
+    <img src="https://g5-assets-cld-res.cloudinary.com/image/upload/x_2,y_0,h_623,w_623,c_crop/q_auto,f_auto,fl_lossy,g_center,o_50,h_65,w_65/v1627919481/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/working_file-11_dgxarq.png" class="divider-image" alt="Divider Image" loading="lazy">
+  </div>
+
+
+<div class="row content-stripe-widget row-widget row-divider-padding  align-left no-padding bg-cover  fixed-bg  row-10434097" id="row-10434097" style="background-color: #e4e4e4;" data-id="10434097" data-name="Content Stripe" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "row-10434097",
+      "backgroundImageURL": "",
+      "mobileSettingOption": "none",
+      "mobileReplaceImg": "",
+      "mobileHideBackgroundImageBreakpoint": "979",
+      "mobileHideBgImgFontColor": "",
+      "rowBackgroundColor": "",
+      "rowTextColor": "default",
+      "mobileRowTextColor": "default"
+    }
+  </script>
+
+  <style>
+    
+
+    
+
+    
+
+    
+      .row-10434097 {
+        padding-top: 3em !important;
+      }
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+  </style>
+
+  <div class="content row-thirds">
+    <div class="row-grid">
+
+      <div class="col col-1" id="drop-target-1-column-10434097">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column column-widget   column-10434099" data-id="10434099" data-name="Column" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+  <div class="column-content column-one">
+
+    <div class="row-1" id="drop-target-1-row-10434099">
+<div class="quote widget" data-id="10434100" data-name="Quote" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+  <blockquote>
+    <p>Living at Luxe@ Ocotillo is the best place to call home. It is super close to my place of work and there are so many places to eat and shop which makes Luxe the perfect place to live.</p>
+    
+    <cite>Tristan S.</cite>
+    
+  </blockquote>
+</div>
+</div>
+
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</div>
+
+      
+        <div class="col col-2" id="drop-target-2-column-10434097">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column column-widget   column-10434102" data-id="10434102" data-name="Column" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+  <div class="column-content column-one">
+
+    <div class="row-1" id="drop-target-1-row-10434102">
+<div class="quote widget" data-id="10434103" data-name="Quote" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+  <blockquote>
+    <p>Apartments are nice and the Maintenance Team is quick and efficient!
+</p>
+    
+    <cite>Katie M.</cite>
+    
+  </blockquote>
+</div>
+</div>
+
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</div>
+      
+
+      
+        <div class="col col-3" id="drop-target-3-column-10434097">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column column-widget   column-10434104" data-id="10434104" data-name="Column" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+  <div class="column-content column-one">
+
+    <div class="row-1" id="drop-target-1-row-10434104">
+<div class="quote widget" data-id="10434105" data-name="Quote" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+  <blockquote>
+    <p>The office team is amazing as they helped me find an apartment quickly due to selling my home. The apartments are newly updated, the location is fantastic, and I am in love with my apartment. The backsplash in the kitchen is just amazing!</p>
+    
+    <cite>Taylor A.</cite>
+    
+  </blockquote>
+</div>
+</div>
+
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</div>
+      
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row content-stripe-widget row-widget  text-light  bg-cover  normal-bg  row-10434106" id="row-10434106" style="background-color: #e4e4e4;" data-id="10434106" data-name="Content Stripe" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "row-10434106",
+      "backgroundImageURL": "",
+      "mobileSettingOption": "none",
+      "mobileReplaceImg": "",
+      "mobileHideBackgroundImageBreakpoint": "979",
+      "mobileHideBgImgFontColor": "",
+      "rowBackgroundColor": "",
+      "rowTextColor": "light",
+      "mobileRowTextColor": "default"
+    }
+  </script>
+
+  <style>
+    
+
+    
+
+    
+
+    
+
+    
+      .row-10434106 {
+        padding-bottom: 4em !important;
+      }
+    
+
+    
+
+    
+
+    
+
+    
+  </style>
+
+  <div class="content row-single">
+    <div class="row-grid">
+
+      <div class="col col-1" id="drop-target-1-column-10434106">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column column-widget   column-10434107" data-id="10434107" data-name="Column" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+  <div class="column-content column-two">
+
+    <div class="row-1" id="drop-target-1-row-10434107">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="photo-cards photo-cards-10434108 a-overlay  title-middle  title-center widget" id="photo-cards-10434108" data-id="10434108" data-name="Photo Cards" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "photo-cards-10434108"
+    }
+  </script>
+
+  <style>
+    
+
+    
+      .photo-cards-10434108 .photo-card-wrapper { padding: 1em 1em 0em 1em !important; }
+    
+
+    
+
+    
+
+    
+
+    
+
+    .photo-cards-10434108 .photo-card-back::before {
+      background-color: transparent !important;
+      opacity: 0.1;
+    }
+
+    
+
+    .photo-cards-10434108 .photo-card-wrapper {
+        margin-top: 0;
+        margin-bottom: 2em;
+      }
+
+    
+
+    @media screen and (min-width: 480px) and (max-width: 740px) {
+      .photo-cards-10434108 .photo-card-wrapper { width: 50%; }
+    }
+
+    @media screen and (min-width: 740px) {
+      .photo-cards-10434108 .photo-cards-container { flex-wrap: nowrap; }
+
+      .photo-cards-10434108 .photo-cards-wrapper { width: auto; }
+
+      .photo-cards-10434108 .photo-card-wrapper {
+        margin-top: 0;
+        margin-bottom: 2em;
+      }
+
+      
+    }
+  </style>
+
+  
+
+  
+    <div class="photo-cards-container">
+      
+
+        
+
+        
+        
+
+        
+
+        
+        
+
+        
+
+        
+        
+
+        
+
+        <div class="photo-card-wrapper">
+          <div class="photo-card">
+            
+            <a href="/apartments/az/chandler/floor-plans">
+            
+              <div class="photo-card-front">
+                <img src="https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_700,w_1000/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated_front_1-04_in3udu.png" loading="lazy" alt="Floor plan callout at Luxe @ Ocotillo in Chandler, Arizona" height="700" width="1000" srcset="https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_244,w_350/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated_front_1-04_in3udu.png 350w, https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_358,w_512/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated_front_1-04_in3udu.png 512w, https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_471,w_674/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated_front_1-04_in3udu.png 674w, https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_585,w_836/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated_front_1-04_in3udu.png 836w, https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_698,w_998/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated_front_1-04_in3udu.png 998w">
+
+                
+              </div>
+
+              <div class="photo-card-back">
+                <div class="photo-card-caption">
+                  <p><img alt="Floor plan learn more callout at Luxe @ Ocotillo in Chandler, Arizona" src="https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_700,w_1000/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated_back_1-04_je7eeq.png"></p>
+
+                </div>
+              </div>
+            
+            </a>
+            
+          </div>
+        </div>
+
+      
+
+        
+
+        
+        
+
+        
+
+        
+        
+
+        
+
+        
+        
+
+        
+
+        <div class="photo-card-wrapper">
+          <div class="photo-card">
+            
+              <div class="photo-card-front">
+                <img src="https://g5-assets-cld-res.cloudinary.com/image/upload/x_-1,y_0,h_2918,w_2918,c_crop/q_auto,f_auto,fl_lossy,g_center,h_700,w_700/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/fronts-05_nngu5g.png" loading="lazy" alt="Cat and dog playing at Luxe @ Ocotillo in Chandler, Arizona" height="700" width="700" srcset="https://g5-assets-cld-res.cloudinary.com/image/upload/x_-1,y_0,h_2918,w_2918,c_crop/q_auto,f_auto,fl_lossy,g_center,h_350,w_350/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/fronts-05_nngu5g.png 350w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_-1,y_0,h_2918,w_2918,c_crop/q_auto,f_auto,fl_lossy,g_center,h_437,w_437/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/fronts-05_nngu5g.png 437w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_-1,y_0,h_2918,w_2918,c_crop/q_auto,f_auto,fl_lossy,g_center,h_524,w_524/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/fronts-05_nngu5g.png 524w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_-1,y_0,h_2918,w_2918,c_crop/q_auto,f_auto,fl_lossy,g_center,h_611,w_611/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/fronts-05_nngu5g.png 611w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_-1,y_0,h_2918,w_2918,c_crop/q_auto,f_auto,fl_lossy,g_center,h_698,w_698/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/fronts-05_nngu5g.png 698w">
+
+                
+              </div>
+
+              <div class="photo-card-back">
+                <div class="photo-card-caption">
+                  <p><img alt="Cat and dog at Luxe @ Ocotillo in Chandler, Arizona" src="https://g5-assets-cld-res.cloudinary.com/image/upload/x_-1,y_0,h_2918,w_2918,c_crop/q_auto,f_auto,fl_lossy,g_center,h_700,w_700/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/fronts-05_nngu5g.png"></p>
+                </div>
+              </div>
+            
+          </div>
+        </div>
+
+      
+
+        
+
+        
+        
+
+        
+
+        
+        
+
+        
+
+        
+        
+
+        
+
+        <div class="photo-card-wrapper">
+          <div class="photo-card">
+            
+            <a href="/apartments/az/chandler/neighborhood">
+            
+              <div class="photo-card-front">
+                <img src="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_1460,w_1668,c_crop/q_auto,f_auto,c_fill,g_center,h_700,w_800/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated_neighborhood_graphic_front-06_i17e3e.png" loading="lazy" alt="Neighborhood callout at Luxe @ Ocotillo in Chandler, Arizona" height="700" width="800" srcset="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_1460,w_1668,c_crop/q_auto,f_auto,c_fill,g_center,h_306,w_350/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated_neighborhood_graphic_front-06_i17e3e.png 350w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_1460,w_1668,c_crop/q_auto,f_auto,c_fill,g_center,h_404,w_462/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated_neighborhood_graphic_front-06_i17e3e.png 462w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_1460,w_1668,c_crop/q_auto,f_auto,c_fill,g_center,h_502,w_574/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated_neighborhood_graphic_front-06_i17e3e.png 574w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_1460,w_1668,c_crop/q_auto,f_auto,c_fill,g_center,h_600,w_686/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated_neighborhood_graphic_front-06_i17e3e.png 686w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_1460,w_1668,c_crop/q_auto,f_auto,c_fill,g_center,h_698,w_798/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated_neighborhood_graphic_front-06_i17e3e.png 798w">
+
+                
+              </div>
+
+              <div class="photo-card-back">
+                <div class="photo-card-caption">
+                  <p><img alt="Neighborhood learn more callout at Luxe @ Ocotillo in Chandler, Arizona" src="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_1460,w_1668,c_crop/q_auto,f_auto,c_fill,g_center,h_700,w_800/v1627919482/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated_neighborhood_graphic_back-06_d27k2t.png"></p>
+
+                </div>
+              </div>
+            
+            </a>
+            
+          </div>
+        </div>
+
+      
+    </div>
+  
+</div>
+</div>
+
+    
+      <div class="row-2" id="drop-target-2-row-10434107">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="photo-cards photo-cards-10434109 a-overlay  title-middle  title-center widget" id="photo-cards-10434109" data-id="10434109" data-name="Photo Cards" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "photo-cards-10434109"
+    }
+  </script>
+
+  <style>
+    
+
+    
+      .photo-cards-10434109 .photo-card-wrapper { padding: 0em 1em 1em 1em !important; }
+    
+
+    
+
+    
+
+    
+
+    
+
+    .photo-cards-10434109 .photo-card-back::before {
+      background-color: #fff !important;
+      opacity: 1;
+    }
+
+    
+
+    .photo-cards-10434109 .photo-card-wrapper {
+        margin-top: 0;
+        margin-bottom: 2em;
+      }
+
+    
+
+    @media screen and (min-width: 480px) and (max-width: 740px) {
+      .photo-cards-10434109 .photo-card-wrapper { width: 50%; }
+    }
+
+    @media screen and (min-width: 740px) {
+      .photo-cards-10434109 .photo-cards-container { flex-wrap: nowrap; }
+
+      .photo-cards-10434109 .photo-cards-wrapper { width: auto; }
+
+      .photo-cards-10434109 .photo-card-wrapper {
+        margin-top: 0;
+        margin-bottom: 2em;
+      }
+
+      
+    }
+  </style>
+
+  
+
+  
+    <div class="photo-cards-container">
+      
+
+        
+
+        
+        
+
+        
+
+        
+        
+
+        
+
+        
+        
+
+        
+
+        <div class="photo-card-wrapper">
+          <div class="photo-card">
+            
+              <div class="photo-card-front">
+                <img src="https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_700,w_700/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated-07_lmazx0.png" loading="lazy" alt="Coffee at Luxe @ Ocotillo in Chandler, Arizona" height="700" width="700" srcset="https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_350,w_350/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated-07_lmazx0.png 350w, https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_437,w_437/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated-07_lmazx0.png 437w, https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_524,w_524/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated-07_lmazx0.png 524w, https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_611,w_611/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated-07_lmazx0.png 611w, https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_698,w_698/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated-07_lmazx0.png 698w">
+
+                
+              </div>
+
+              <div class="photo-card-back">
+                <div class="photo-card-caption">
+                  <p><img alt="Hot coffee at Luxe @ Ocotillo in Chandler, Arizona" src="https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_700,w_700/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated-07_lmazx0.png"></p>
+
+                </div>
+              </div>
+            
+          </div>
+        </div>
+
+      
+
+        
+
+        
+        
+
+        
+
+        
+        
+
+        
+
+        
+        
+
+        
+
+        <div class="photo-card-wrapper">
+          <div class="photo-card">
+            
+            <a href="/apartments/az/chandler/amenities">
+            
+              <div class="photo-card-front">
+                <img src="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_2917,w_4167,c_crop/q_auto,f_auto,fl_lossy,g_center,h_700,w_1000/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/fronts-08_seil1b.png" loading="lazy" alt="Amenities callout at Luxe @ Ocotillo in Chandler, Arizona" height="700" width="1000" srcset="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_2917,w_4167,c_crop/q_auto,f_auto,fl_lossy,g_center,h_244,w_350/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/fronts-08_seil1b.png 350w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_2917,w_4167,c_crop/q_auto,f_auto,fl_lossy,g_center,h_358,w_512/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/fronts-08_seil1b.png 512w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_2917,w_4167,c_crop/q_auto,f_auto,fl_lossy,g_center,h_471,w_674/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/fronts-08_seil1b.png 674w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_2917,w_4167,c_crop/q_auto,f_auto,fl_lossy,g_center,h_585,w_836/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/fronts-08_seil1b.png 836w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_2917,w_4167,c_crop/q_auto,f_auto,fl_lossy,g_center,h_698,w_998/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/fronts-08_seil1b.png 998w">
+
+                
+              </div>
+
+              <div class="photo-card-back">
+                <div class="photo-card-caption">
+                  <p><img alt="Amenities callout at Luxe @ Ocotillo in Chandler, Arizona" src="https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_0,h_700,w_1000,c_crop/q_auto,f_auto,fl_lossy,g_center,h_700,w_1000/g5/g5-c-icwh344r-acacia-capital-corporation-client/uploads/Amenities-bg_iddlqf.png"></p>
+                </div>
+              </div>
+            
+            </a>
+            
+          </div>
+        </div>
+
+      
+
+        
+
+        
+        
+
+        
+
+        
+        
+
+        
+
+        
+        
+
+        
+
+        <div class="photo-card-wrapper">
+          <div class="photo-card">
+            
+              <div class="photo-card-front">
+                <img src="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_1459,w_1667,c_crop/q_auto,f_auto,fl_lossy,g_center,h_700,w_800/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated-09_dwtnjv.png" loading="lazy" alt="Living room at Luxe @ Ocotillo in Chandler, Arizona" height="700" width="800" srcset="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_1459,w_1667,c_crop/q_auto,f_auto,fl_lossy,g_center,h_306,w_350/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated-09_dwtnjv.png 350w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_1459,w_1667,c_crop/q_auto,f_auto,fl_lossy,g_center,h_404,w_462/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated-09_dwtnjv.png 462w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_1459,w_1667,c_crop/q_auto,f_auto,fl_lossy,g_center,h_502,w_574/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated-09_dwtnjv.png 574w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_1459,w_1667,c_crop/q_auto,f_auto,fl_lossy,g_center,h_600,w_686/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated-09_dwtnjv.png 686w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_1459,w_1667,c_crop/q_auto,f_auto,fl_lossy,g_center,h_698,w_798/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated-09_dwtnjv.png 798w">
+
+                
+              </div>
+
+              <div class="photo-card-back">
+                <div class="photo-card-caption">
+                  <p><img alt="Model living room at Luxe @ Ocotillo in Chandler, Arizona" src="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_0,h_1459,w_1667,c_crop/q_auto,f_auto,fl_lossy,g_center,h_700,w_800/v1627919483/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/updated-09_dwtnjv.png"></p>
+
+                </div>
+              </div>
+            
+          </div>
+        </div>
+
+      
+    </div>
+  
+</div>
+</div>
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</div>
+
+      
+
+      
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row content-stripe-widget row-widget  text-dark  bg-cover  normal-bg  row-10434112" id="row-10434112" style="background-color: #ffffff;" data-id="10434112" data-name="Content Stripe" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "row-10434112",
+      "backgroundImageURL": "",
+      "mobileSettingOption": "none",
+      "mobileReplaceImg": "",
+      "mobileHideBackgroundImageBreakpoint": "979",
+      "mobileHideBgImgFontColor": "",
+      "rowBackgroundColor": "#ffffff",
+      "rowTextColor": "dark",
+      "mobileRowTextColor": "default"
+    }
+  </script>
+
+  <style>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+  </style>
+
+  <div class="content row-uneven-thirds-2">
+    <div class="row-grid">
+
+      <div class="col col-1" id="drop-target-1-column-10434112">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column column-widget   column-10434113" data-id="10434113" data-name="Column" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+  <div class="column-content column-one">
+
+    <div class="row-1" id="drop-target-1-row-10434113">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure class="photo-ret photo photo-10434114  photo-block photo-browser-edge widget h-media " id="photo-10434114" data-id="10434114" data-name="Photo" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+  <script class="config photo-config" type="application/json">
+    {
+      "widgetId": "photo-10434114",
+      "enableMobileSpecificDisplay": false,
+      "mobileBreakpoint": "736"
+      
+      
+    }
+  </script>
+
+  <style>
+
+    
+
+    
+
+    
+
+    
+
+  </style>
+
+  <div class="photo-wrapper" role="complementary" aria-label="photo-content-10434114">
+
+    
+
+    
+
+      
+
+        
+
+        <img loading="lazy" class="u-photo" src="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_1000,w_1500/v1627925507/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-stainless-steel-appliances_1_e7wfdl.jpg" alt="Well appointed kitchen at Luxe @ Ocotillo in Chandler, Arizona" height="1000" width="1500" srcset="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_233,w_350/v1627925507/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-stainless-steel-appliances_1_e7wfdl.jpg 350w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_424,w_637/v1627925507/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-stainless-steel-appliances_1_e7wfdl.jpg 637w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_616,w_924/v1627925507/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-stainless-steel-appliances_1_e7wfdl.jpg 924w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_807,w_1211/v1627925507/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-stainless-steel-appliances_1_e7wfdl.jpg 1211w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_998,w_1498/v1627925507/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-stainless-steel-appliances_1_e7wfdl.jpg 1498w">
+
+        
+
+      
+
+    
+
+  </div>
+
+</figure>
+</div>
+
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</div>
+
+      
+        <div class="col col-2" id="drop-target-2-column-10434112">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column column-widget bg-col  column-10434115" data-id="10434115" data-name="Column" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+  <div class="column-content column-two">
+
+    <div class="row-1" id="drop-target-1-row-10434115">
+<div class="html-10434116 html widget" id="html-10434116" data-id="10434116" data-name="HTML" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+<script class="config" type="application/json">
+  {
+    "widgetId": "html-10434116",
+    "clientUrn": "g5-c-icwh344r-acacia-capital-corporation-client",
+    "cpnsUrl": "https://call-tracking.g5marketingcloud.com/api/v1/phone_numbers",
+    "locationUrn": "g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az",
+    "phoneNumber": "623-377-9072"
+  }
+</script>
+
+<style>
+  
+
+  
+
+  
+
+  
+
+  
+    .html-10434116 .html-content {
+      padding: 3em !important;
+    }
+  
+
+  @media screen and (max-width: 767px) {
+    
+      .html-10434116 .html-content {
+        padding: 0 !important;
+      }
+    
+    
+  }
+
+</style>
+
+  <div class="html-content">
+    <h2 style="text-align: left; color: black;">Luxe Comfort</h2>
+
+<p>Rethink suburban luxury, with a modern one, two, or three bedroom home at Luxe @ Ocotillo. Our newly updated apartments offer deluxe kitchens, spacious floor plans, convenient in-home washer and dryers, and a private patio or balcony. More of <a href="/apartments/az/chandler/amenities">the features</a> you’ll find include:</p>
+
+<ul>
+	<li>Tile Backsplash</li>
+	<li>Oversized Closets</li>
+	<li>Cozy Fireplaces*</li>
+	<li>Programmable Thermostats</li>
+</ul>
+
+<p>* In Select Homes</p>
+
+<p>Check out our Floor Plans page to find a layout that fits your lifestyle.</p>
+
+  </div>
+</div>
+</div>
+
+    
+      <div class="row-2" id="drop-target-2-row-10434115">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="button button-list button-default button-display-default button-10434117 widget" id="button-10434117" data-id="10434117" data-name="Button" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "button-10434117",
+      "thirdPartyEnable": false,
+      "hBEnable": false,
+      "hBMobileOption": "hide",
+      "hBMobileBreakpoint": "979px"
+    }
+  </script>
+
+  <style>
+    
+    .button.button-10434117 .btn {
+      background-color: #8ec539 !important;
+    }
+    .button.button-10434117 .btn:hover {
+      background-color: #8ec539 !important;
+    }
+    
+
+    
+    .button.button-10434117 .btn {
+      color: #000 !important;
+    }
+    .button.button-10434117 .btn:hover {
+      color: #1a1a1a !important;
+    }
+    
+
+    
+
+    
+
+    @media screen and (max-width: 979px) {
+      
+    }
+
+  </style>
+  <a href="/apartments/az/chandler/floor-plans" class="">
+    
+
+    
+      <span class="btn">
+        Floor Plans
+      </span>
+    
+  </a>
+
+  
+</span>
+
+</div>
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</div>
+      
+
+      
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row content-stripe-widget row-widget  text-dark vert-align bg-cover  normal-bg  row-10434120" id="row-10434120" style="background-color: #fff;" data-id="10434120" data-name="Content Stripe" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "row-10434120",
+      "backgroundImageURL": "",
+      "mobileSettingOption": "none",
+      "mobileReplaceImg": "",
+      "mobileHideBackgroundImageBreakpoint": "979",
+      "mobileHideBgImgFontColor": "",
+      "rowBackgroundColor": "#fff",
+      "rowTextColor": "dark",
+      "mobileRowTextColor": "default"
+    }
+  </script>
+
+  <style>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+  </style>
+
+  <div class="content row-uneven-thirds-1">
+    <div class="row-grid">
+
+      <div class="col col-1" id="drop-target-1-column-10434120">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column column-widget bg-col  column-10434121" data-id="10434121" data-name="Column" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+  <div class="column-content column-two">
+
+    <div class="row-1" id="drop-target-1-row-10434121">
+<div class="html-10434122 html widget" id="html-10434122" data-id="10434122" data-name="HTML" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+<script class="config" type="application/json">
+  {
+    "widgetId": "html-10434122",
+    "clientUrn": "g5-c-icwh344r-acacia-capital-corporation-client",
+    "cpnsUrl": "https://call-tracking.g5marketingcloud.com/api/v1/phone_numbers",
+    "locationUrn": "g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az",
+    "phoneNumber": "623-377-9072"
+  }
+</script>
+
+<style>
+  
+
+  
+
+  
+
+  
+
+  
+    .html-10434122 .html-content {
+      padding: 3em !important;
+    }
+  
+
+  @media screen and (max-width: 767px) {
+    
+      .html-10434122 .html-content {
+        padding: 0 !important;
+      }
+    
+    
+  }
+
+</style>
+
+  <div class="html-content">
+    <h2 style="text-align: left; color: black;">Embrace The Luxe Life</h2>
+
+<p>You'll be delighted with our community perks, which feature high-end amenities to improve your daily routine. Because details matter, we created relaxing outdoor spaces and naturally cool gathering spots. Invite your friends to hang out by the fire pit and grill up some grub under the Arizona stars. Enjoy the view of the water features, reflective ponds, and on the manicured walking paths.</p>
+
+  </div>
+</div>
+</div>
+
+    
+      <div class="row-2" id="drop-target-2-row-10434121">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="button button-list button-default button-display-default button-10434123 widget" id="button-10434123" data-id="10434123" data-name="Button" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "button-10434123",
+      "thirdPartyEnable": false,
+      "hBEnable": false,
+      "hBMobileOption": "hide",
+      "hBMobileBreakpoint": "979px"
+    }
+  </script>
+
+  <style>
+    
+    .button.button-10434123 .btn {
+      background-color: #8ec539 !important;
+    }
+    .button.button-10434123 .btn:hover {
+      background-color: #8ec539 !important;
+    }
+    
+
+    
+    .button.button-10434123 .btn {
+      color: #000 !important;
+    }
+    .button.button-10434123 .btn:hover {
+      color: #1a1a1a !important;
+    }
+    
+
+    
+
+    
+
+    @media screen and (max-width: 979px) {
+      
+    }
+
+  </style>
+  <a href="/apartments/az/chandler/amenities" class="">
+    
+
+    
+      <span class="btn">
+        Learn More
+      </span>
+    
+  </a>
+
+  
+</span>
+
+</div>
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</div>
+
+      
+        <div class="col col-2" id="drop-target-2-column-10434120">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column column-widget photo-browser-edge  column-10434124" data-id="10434124" data-name="Column" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+  <div class="column-content column-one">
+
+    <div class="row-1" id="drop-target-1-row-10434124">
+
+
+
+
+
+
+
+<div class="gallery gallery-only widget gallery-10434125" id="gallery-10434125" data-id="10434125" data-name="Gallery" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+  <script class="config" type="application/json">
+    {
+      "show_thumbnails": "no",
+      "mini_gallery": "no",
+      "carousel": "no",
+      "slideshow_speed": "5000",
+      "widgetId": "gallery-10434125",
+      "max_height": "1000"
+    }
+  </script>
+
+  
+  
+
+  <div class="flexslider-container">
+    <div class="flexslider gallery-slideshow full-gallery">
+      <ul class="slides">
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+          <li data-thumb="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_1000,w_1500/v1627925750/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-clubhouse_1_bb2ysi.jpg">
+            <img src="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_1000,w_1500/v1627925750/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-clubhouse_1_bb2ysi.jpg" alt="Clubhouse at Luxe @ Ocotillo in Chandler, Arizona" loading="lazy" height="1000" width="1500" srcset="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_233,w_350/v1627925750/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-clubhouse_1_bb2ysi.jpg 350w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_424,w_637/v1627925750/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-clubhouse_1_bb2ysi.jpg 637w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_616,w_924/v1627925750/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-clubhouse_1_bb2ysi.jpg 924w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_807,w_1211/v1627925750/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-clubhouse_1_bb2ysi.jpg 1211w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_998,w_1498/v1627925750/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-clubhouse_1_bb2ysi.jpg 1498w">
+            
+            
+          </li>
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+          <li data-thumb="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_1000,w_1500/v1627925789/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-cardio-room_1_n7ley7.jpg">
+            <img src="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_1000,w_1500/v1627925789/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-cardio-room_1_n7ley7.jpg" alt="Fitness center at Luxe @ Ocotillo in Chandler, Arizona" loading="lazy" height="1000" width="1500" srcset="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_233,w_350/v1627925789/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-cardio-room_1_n7ley7.jpg 350w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_424,w_637/v1627925789/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-cardio-room_1_n7ley7.jpg 637w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_616,w_924/v1627925789/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-cardio-room_1_n7ley7.jpg 924w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_807,w_1211/v1627925789/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-cardio-room_1_n7ley7.jpg 1211w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_998,w_1498/v1627925789/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-cardio-room_1_n7ley7.jpg 1498w">
+            
+            
+          </li>
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+          <li data-thumb="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_1000,w_1500/v1627925829/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-fire-pit-night_1_vszjjy.jpg">
+            <img src="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_1000,w_1500/v1627925829/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-fire-pit-night_1_vszjjy.jpg" alt="Firepit seating by the pool at Luxe @ Ocotillo in Chandler, Arizona" loading="lazy" height="1000" width="1500" srcset="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_233,w_350/v1627925829/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-fire-pit-night_1_vszjjy.jpg 350w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_424,w_637/v1627925829/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-fire-pit-night_1_vszjjy.jpg 637w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_616,w_924/v1627925829/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-fire-pit-night_1_vszjjy.jpg 924w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_807,w_1211/v1627925829/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-fire-pit-night_1_vszjjy.jpg 1211w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_998,w_1498/v1627925829/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-fire-pit-night_1_vszjjy.jpg 1498w">
+            
+            
+          </li>
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+          <li data-thumb="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_1000,w_1500/v1627925871/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-pool-night_1_kp2fmq.jpg">
+            <img src="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_1000,w_1500/v1627925871/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-pool-night_1_kp2fmq.jpg" alt="Sparkling pool at Luxe @ Ocotillo in Chandler, Arizona" loading="lazy" height="1000" width="1500" srcset="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_233,w_350/v1627925871/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-pool-night_1_kp2fmq.jpg 350w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_424,w_637/v1627925871/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-pool-night_1_kp2fmq.jpg 637w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_616,w_924/v1627925871/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-pool-night_1_kp2fmq.jpg 924w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_807,w_1211/v1627925871/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-pool-night_1_kp2fmq.jpg 1211w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_998,w_1498/v1627925871/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-pool-night_1_kp2fmq.jpg 1498w">
+            
+            
+          </li>
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+          <li data-thumb="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_1000,w_1500/v1627925907/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-business-center_1_qwilko.jpg">
+            <img src="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_1000,w_1500/v1627925907/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-business-center_1_qwilko.jpg" alt="Business center and lounge at Luxe @ Ocotillo in Chandler, Arizona" loading="lazy" height="1000" width="1500" srcset="https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_233,w_350/v1627925907/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-business-center_1_qwilko.jpg 350w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_424,w_637/v1627925907/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-business-center_1_qwilko.jpg 637w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_616,w_924/v1627925907/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-business-center_1_qwilko.jpg 924w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_807,w_1211/v1627925907/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-business-center_1_qwilko.jpg 1211w, https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_7,h_2664,w_3996,c_crop/q_auto,f_auto,c_fill,g_center,h_998,w_1498/v1627925907/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/arrive-ocotillo-apartment-homes-for-rent-chandler-az-85224-business-center_1_qwilko.jpg 1498w">
+            
+            
+          </li>
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        
+
+          
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        
+
+      </ul>
+    </div>
+  </div>
+</div> <!-- end .content -->
+</div>
+
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</div>
+      
+
+      
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row content-stripe-widget row-widget  text-dark  bg-cover row-overlay fixed-bg lazy-background-images row-10434128" id="row-10434128" style="background-color: #e4e4e4;" data-id="10434128" data-name="Content Stripe" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "row-10434128",
+      "backgroundImageURL": "https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_172,h_3393,w_6169,c_crop/q_auto,f_auto,c_fill,g_center,h_1100,w_2000/v1627919486/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/GettyImages-905633812_ftknpn.jpg",
+      "mobileSettingOption": "none",
+      "mobileReplaceImg": "",
+      "mobileHideBackgroundImageBreakpoint": "979",
+      "mobileHideBgImgFontColor": "",
+      "rowBackgroundColor": "",
+      "rowTextColor": "dark",
+      "mobileRowTextColor": "default"
+    }
+  </script>
+
+  <style>
+    
+      .row-10434128::before {
+        background-color: rgba(255,255,255,0.5);
+      }
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+      
+        .row-10434128.lazy-background-images {
+          background-image: none;
+        }
+        .row-10434128:not(.lazy-background-images) {
+          background-image: url(https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_172,h_3393,w_6169,c_crop/q_auto,f_auto,c_fill,g_center,h_1100,w_2000/v1627919486/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/GettyImages-905633812_ftknpn.jpg);
+        }
+      
+    
+  </style>
+
+  <div class="content row-single">
+    <div class="row-grid">
+
+      <div class="col col-1" id="drop-target-1-column-10434128">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column column-widget bg-col  column-10434129" data-id="10434129" data-name="Column" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+  <div class="column-content column-two">
+
+    <div class="row-1" id="drop-target-1-row-10434129">
+<div class="html-10434130 html widget" id="html-10434130" data-id="10434130" data-name="HTML" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+<script class="config" type="application/json">
+  {
+    "widgetId": "html-10434130",
+    "clientUrn": "g5-c-icwh344r-acacia-capital-corporation-client",
+    "cpnsUrl": "https://call-tracking.g5marketingcloud.com/api/v1/phone_numbers",
+    "locationUrn": "g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az",
+    "phoneNumber": "623-377-9072"
+  }
+</script>
+
+<style>
+  
+
+  
+
+  
+
+  
+
+  
+    .html-10434130 .html-content {
+      padding: 3em !important;
+    }
+  
+
+  @media screen and (max-width: 767px) {
+    
+      .html-10434130 .html-content {
+        padding: 0 !important;
+      }
+    
+    
+  }
+
+</style>
+
+  <div class="html-content">
+    <h2 style="text-align: center; color: black;">Pet-Friendly Living</h2>
+
+<p style="text-align: center;">Your home, your pets. It wouldn’t be home without your best friend, which is why Luxe @ Ocotillo allows furry friends to make the move with you. They’ll love the roomy floor plans, private outdoor spaces, and close proximity to parks, vets, and pet stores. Life’s a treat, especially with your four-legged friend by your side. If you have questions about our pet policy or breed restrictions, give us a call.</p>
+
+  </div>
+</div>
+</div>
+
+    
+      <div class="row-2" id="drop-target-2-row-10434129">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="button button-list button-default button-display-default button-10434131 widget" id="button-10434131" data-id="10434131" data-name="Button" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "button-10434131",
+      "thirdPartyEnable": false,
+      "hBEnable": false,
+      "hBMobileOption": "hide",
+      "hBMobileBreakpoint": "979px"
+    }
+  </script>
+
+  <style>
+    
+    .button.button-10434131 .btn {
+      background-color: #8ec539 !important;
+    }
+    .button.button-10434131 .btn:hover {
+      background-color: #8ec539 !important;
+    }
+    
+
+    
+    .button.button-10434131 .btn {
+      color: #000 !important;
+    }
+    .button.button-10434131 .btn:hover {
+      color: #1a1a1a !important;
+    }
+    
+
+    
+
+    
+
+    @media screen and (max-width: 979px) {
+      
+    }
+
+  </style>
+  <a href="/apartments/az/chandler/pet-friendly" class="">
+    
+
+    
+      <span class="btn">
+        Learn More
+      </span>
+    
+  </a>
+
+  
+</span>
+
+</div>
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</div>
+
+      
+
+      
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row content-stripe-widget row-widget  text-dark  bg-cover  normal-bg  row-10434134" id="row-10434134" style="background-color: #fff;" data-id="10434134" data-name="Content Stripe" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "row-10434134",
+      "backgroundImageURL": "",
+      "mobileSettingOption": "none",
+      "mobileReplaceImg": "",
+      "mobileHideBackgroundImageBreakpoint": "979",
+      "mobileHideBgImgFontColor": "",
+      "rowBackgroundColor": "#fff",
+      "rowTextColor": "dark",
+      "mobileRowTextColor": "default"
+    }
+  </script>
+
+  <style>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+  </style>
+
+  <div class="content row-uneven-thirds-2">
+    <div class="row-grid">
+
+      <div class="col col-1" id="drop-target-1-column-10434134">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column column-widget   column-10434135" data-id="10434135" data-name="Column" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+  <div class="column-content column-one">
+
+    <div class="row-1" id="drop-target-1-row-10434135">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure class="photo-ret photo photo-10434136  photo-block photo-browser-edge widget h-media " id="photo-10434136" data-id="10434136" data-name="Photo" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+  <script class="config photo-config" type="application/json">
+    {
+      "widgetId": "photo-10434136",
+      "enableMobileSpecificDisplay": false,
+      "mobileBreakpoint": "736"
+      
+      
+    }
+  </script>
+
+  <style>
+
+    
+
+    
+
+    
+
+    
+
+  </style>
+
+  <div class="photo-wrapper" role="complementary" aria-label="photo-content-10434136">
+
+    
+
+    
+
+      
+
+        
+
+        <img loading="lazy" class="u-photo" src="https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_1000,w_1500/v1627919486/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/hero.jpg" alt="Nature near Luxe @ Ocotillo in Chandler, Arizona" height="1000" width="1500" srcset="https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_233,w_350/v1627919486/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/hero.jpg 350w, https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_424,w_637/v1627919486/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/hero.jpg 637w, https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_616,w_924/v1627919486/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/hero.jpg 924w, https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_807,w_1211/v1627919486/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/hero.jpg 1211w, https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_998,w_1498/v1627919486/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/hero.jpg 1498w">
+
+        
+
+      
+
+    
+
+  </div>
+
+</figure>
+</div>
+
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</div>
+
+      
+        <div class="col col-2" id="drop-target-2-column-10434134">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column column-widget bg-col  column-10434137" data-id="10434137" data-name="Column" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+  <div class="column-content column-two">
+
+    <div class="row-1" id="drop-target-1-row-10434137">
+<div class="html-10434138 html widget" id="html-10434138" data-id="10434138" data-name="HTML" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+<script class="config" type="application/json">
+  {
+    "widgetId": "html-10434138",
+    "clientUrn": "g5-c-icwh344r-acacia-capital-corporation-client",
+    "cpnsUrl": "https://call-tracking.g5marketingcloud.com/api/v1/phone_numbers",
+    "locationUrn": "g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az",
+    "phoneNumber": "623-377-9072"
+  }
+</script>
+
+<style>
+  
+
+  
+
+  
+
+  
+
+  
+    .html-10434138 .html-content {
+      padding: 3em !important;
+    }
+  
+
+  @media screen and (max-width: 767px) {
+    
+      .html-10434138 .html-content {
+        padding: 0 !important;
+      }
+    
+    
+  }
+
+</style>
+
+  <div class="html-content">
+    <h2 style="text-align: left; color: black;">Quiet Living in Chandler, AZ</h2>
+
+<p>Life at Luxe @ Ocotillo helps you stay connected to the local hot spots and shopping destinations in Chandler, Arizona. The sights and charm of <a href="/apartments/az/chandler/neighborhood">downtown Chandler</a> are close to home, and you’ll have an easy commute into the city when you need. Quick access to the 10 and Loop 202 make your drive, errands, or a day in the city a breeze. Luxury, location, and lovable – this is home.</p>
+
+  </div>
+</div>
+</div>
+
+    
+      <div class="row-2" id="drop-target-2-row-10434137">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="button button-list button-default button-display-default button-10434139 widget" id="button-10434139" data-id="10434139" data-name="Button" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "button-10434139",
+      "thirdPartyEnable": false,
+      "hBEnable": false,
+      "hBMobileOption": "hide",
+      "hBMobileBreakpoint": "979px"
+    }
+  </script>
+
+  <style>
+    
+    .button.button-10434139 .btn {
+      background-color: #8ec539 !important;
+    }
+    .button.button-10434139 .btn:hover {
+      background-color: #8ec539 !important;
+    }
+    
+
+    
+    .button.button-10434139 .btn {
+      color: #000 !important;
+    }
+    .button.button-10434139 .btn:hover {
+      color: #1a1a1a !important;
+    }
+    
+
+    
+
+    
+
+    @media screen and (max-width: 979px) {
+      
+    }
+
+  </style>
+  <a href="/apartments/az/chandler/neighborhood" class="">
+    
+
+    
+      <span class="btn">
+        Visit Neighborhood
+      </span>
+    
+  </a>
+
+  
+</span>
+
+</div>
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</div>
+      
+
+      
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row content-stripe-widget row-widget    bg-cover  normal-bg lazy-background-images row-10434142" id="row-10434142" style="background-color: #cacaca;" data-id="10434142" data-name="Content Stripe" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "row-10434142",
+      "backgroundImageURL": "https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_188,h_4584,w_8334,c_crop/q_auto,f_auto,fl_lossy,g_center,h_1100,w_2000/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1gev0omrt0-nantucket-apartments/uploads/Untitled-8-02_kbjdpu.png",
+      "mobileSettingOption": "none",
+      "mobileReplaceImg": "",
+      "mobileHideBackgroundImageBreakpoint": "979",
+      "mobileHideBgImgFontColor": "",
+      "rowBackgroundColor": "",
+      "rowTextColor": "default",
+      "mobileRowTextColor": "default"
+    }
+  </script>
+
+  <style>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+      
+        .row-10434142.lazy-background-images {
+          background-image: none;
+        }
+        .row-10434142:not(.lazy-background-images) {
+          background-image: url(https://res.cloudinary.com/g5-assets-cld/image/upload/x_0,y_188,h_4584,w_8334,c_crop/q_auto,f_auto,fl_lossy,g_center,h_1100,w_2000/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1gev0omrt0-nantucket-apartments/uploads/Untitled-8-02_kbjdpu.png);
+        }
+      
+    
+  </style>
+
+  <div class="content row-single">
+    <div class="row-grid">
+
+      <div class="col col-1" id="drop-target-1-column-10434142">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column column-widget map-browser-edge  column-10434143" data-id="10434143" data-name="Column" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+  <div class="column-content column-one">
+
+    <div class="row-1" id="drop-target-1-row-10434143">
+
+
+
+
+
+
+
+<div class="widget map neighborhood-map-plus neighborhood-map-plus-10434144 " id="neighborhood-map-plus-10434144" data-id="10434144" data-name="Neighborhood Map Plus" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+  <style>
+    .neighborhood-map-plus-10434144 {
+      --heading-font: "futura-pt";
+      --filters-color: #404040;
+      --filters-text: #fff;
+      --map-height: 800px;
+      --cat-0-color: #444444;
+      --cat-0-text: #fff;
+      --cat-1-color: #a4a4a4;
+      --cat-1-text: #fff;
+      --cat-2-color: #638a28;
+      --cat-2-text: #fff;
+      --cat-3-color: #8ec539;
+      --cat-3-text: #fff;
+      --cat-4-color: #8a8a8a;
+      --cat-4-text: #fff;
+      --cat-5-color: #557622;
+      --cat-5-text: #fff;
+    }
+  </style>
+
+  <script class="config" type="application/json">
+    {
+      "name": "Luxe @ Ocotillo",
+      "profileImage": "",
+      "streetAddress": "825 W Queen Creek Rd",
+      "cityStateZip": "Chandler, AZ 85248",
+      "widgetId": "neighborhood-map-plus-10434144",
+      "displayPoiListsOnMobile": false,
+      "mapboxStyles": "mapbox://styles/g5levibrown/ck87v99pb1jms1ijieojx1932",
+      "mapZoom": "",
+      "latitude": "33.2604056",
+      "longitude": "-111.8557407",
+      "filtersOpenDefault": true,
+      "pointsOfInterest": [{"id":22139460,"g5_updatable_location_id":23503,"place_id":"ChIJs7GftvyqK4cRM3NqzkDvR2M","name":"Chandler Municipal Airport","address":"Chandler Municipal Airport, 2380 S Stinson Way","city":"Chandler","state":"AZ","postal_code":"85286","location_type":"community","latitude":33.271614,"longitude":-111.8133,"created_at":"2021-08-02T10:07:13.856-07:00","updated_at":"2021-08-02T10:07:13.856-07:00","phone_number":"(480) 782-3540","website":"http://www.chandleraz.gov/default.aspx?pageid=318","google_map_url":"https://maps.google.com/?cid=7153949594721350451"},{"id":22139463,"g5_updatable_location_id":23503,"place_id":"ChIJw9sIroUBK4cRqdIbTLo4bSU","name":"Phoenix ER \u0026 Medical Hospital","address":"3050 S Dobson Rd","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"community","latitude":33.260978,"longitude":-111.88212,"created_at":"2021-08-02T10:07:13.853-07:00","updated_at":"2021-08-02T10:07:13.853-07:00","phone_number":"(480) 284-5867","website":"http://www.phoenixerhospital.com/","google_map_url":"https://maps.google.com/?cid=2696874124656759465"},{"id":22139464,"g5_updatable_location_id":23503,"place_id":"ChIJayFMuoCqK4cRqQTLJWPsLD4","name":"Hancock Elementary School","address":"2425 S Pleasant Dr","city":"Chandler","state":"AZ","postal_code":"85286","location_type":"community","latitude":33.2706359,"longitude":-111.8524574,"created_at":"2021-08-02T10:07:13.850-07:00","updated_at":"2021-08-02T10:07:13.850-07:00","phone_number":"(480) 883-5900","website":"http://www.mychandlerschools.org/hancock","google_map_url":"https://maps.google.com/?cid=4480215639906780329"},{"id":22139467,"g5_updatable_location_id":23503,"place_id":"ChIJgw2NyZeqK4cRXshk9OnTVfo","name":"Hamilton High School","address":"3700 S Arizona Ave","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"community","latitude":33.252997,"longitude":-111.8434998,"created_at":"2021-08-02T10:07:13.847-07:00","updated_at":"2021-08-02T10:07:13.847-07:00","phone_number":"(480) 883-5000","website":"https://www.cusd80.com/hhs","google_map_url":"https://maps.google.com/?cid=18038556884283476062"},{"id":22139469,"g5_updatable_location_id":23503,"place_id":"ChIJLYTiTWMAK4cRnbs_30Het-o","name":"Bogle Junior High School","address":"1600 W Queen Creek Rd","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"community","latitude":33.2635921,"longitude":-111.868979,"created_at":"2021-08-02T10:07:13.844-07:00","updated_at":"2021-08-02T10:07:13.844-07:00","phone_number":"(480) 883-5500","website":"https://www.cusd80.com/Domain/676","google_map_url":"https://maps.google.com/?cid=16913231300112923549"},{"id":22139470,"g5_updatable_location_id":23503,"place_id":"ChIJnXMDsXsAK4cRtWlRa6m0XT8","name":"Jacobson Elementary School","address":"1515 NW Jacaranda Pkwy","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"community","latitude":33.2601261,"longitude":-111.8681359,"created_at":"2021-08-02T10:07:13.841-07:00","updated_at":"2021-08-02T10:07:13.841-07:00","phone_number":"(480) 883-4100","website":"https://www.cusd80.com/jacobson","google_map_url":"https://maps.google.com/?cid=4566004236966521269"},{"id":22139472,"g5_updatable_location_id":23503,"place_id":"ChIJN_zi8HUAK4cRBojE4uzK2BI","name":"Basha Elementary School","address":"3535 S Basha Rd","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"community","latitude":33.2540177,"longitude":-111.8573243,"created_at":"2021-08-02T10:07:13.838-07:00","updated_at":"2021-08-02T10:07:13.838-07:00","phone_number":"(480) 883-4400","website":"https://www.cusd80.com/basha","google_map_url":"https://maps.google.com/?cid=1358058406417827846"},{"id":22139474,"g5_updatable_location_id":23503,"place_id":"ChIJ71y4yXgAK4cRmai_FxQkzHs","name":"Sprouts Farmers Market","address":"2855 S Alma School Rd","city":"Chandler","state":"AZ","postal_code":"85286","location_type":"shopping","latitude":33.26462,"longitude":-111.85641,"created_at":"2021-08-02T10:07:13.834-07:00","updated_at":"2021-08-02T10:07:13.834-07:00","phone_number":"(480) 814-2700","website":"https://sprouts.com/store/az/chandler/chandler-alma-school-rd","google_map_url":"https://maps.google.com/?cid=8920544630630492313"},{"id":22139476,"g5_updatable_location_id":23503,"place_id":"ChIJjQv2F5GqK4cROokCwp78SQ0","name":"Target","address":"3777 S Arizona Ave","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"shopping","latitude":33.2503016,"longitude":-111.8376547,"created_at":"2021-08-02T10:07:13.831-07:00","updated_at":"2021-08-02T10:07:13.831-07:00","phone_number":"(480) 612-6101","website":"https://www.target.com/sl/chandler-south/2747","google_map_url":"https://maps.google.com/?cid=957574154582919482"},{"id":22139479,"g5_updatable_location_id":23503,"place_id":"ChIJRaId1L2qK4cR9A_ZZHxLOzQ","name":"Paseo Lindo","address":"3777 S Arizona Ave","city":"Chandler","state":"AZ","postal_code":"85286","location_type":"shopping","latitude":33.2497813,"longitude":-111.8389552,"created_at":"2021-08-02T10:07:13.828-07:00","updated_at":"2021-08-02T10:07:13.828-07:00","phone_number":"","website":"","google_map_url":"https://maps.google.com/?cid=3763684911238156276"},{"id":22139482,"g5_updatable_location_id":23503,"place_id":"ChIJeX1Bb7yqK4cRrZayXzKnt9M","name":"Fulton Ranch Towne Center","address":"4040 S Arizona Ave","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"shopping","latitude":33.2455424,"longitude":-111.8434741,"created_at":"2021-08-02T10:07:13.825-07:00","updated_at":"2021-08-02T10:07:13.825-07:00","phone_number":"(480) 397-1900","website":"","google_map_url":"https://maps.google.com/?cid=15255846097536587437"},{"id":22139487,"g5_updatable_location_id":23503,"place_id":"ChIJF4J2F3kAK4cRQa_gnMRPnqc","name":"Ocotillo Plaza","address":"2860 S Alma School Rd","city":"Chandler","state":"AZ","postal_code":"85286","location_type":"shopping","latitude":33.2634073,"longitude":-111.8607131,"created_at":"2021-08-02T10:07:13.822-07:00","updated_at":"2021-08-02T10:07:13.822-07:00","phone_number":"","website":"","google_map_url":"https://maps.google.com/?cid=12078178956518403905"},{"id":22139490,"g5_updatable_location_id":23503,"place_id":"ChIJJVAO8HoBK4cRTwEaVcOFuEs","name":"ALDI","address":"2844 S Alma School Rd","city":"Chandler","state":"AZ","postal_code":"85286","location_type":"shopping","latitude":33.2641985,"longitude":-111.8604442,"created_at":"2021-08-02T10:07:13.819-07:00","updated_at":"2021-08-02T10:07:13.819-07:00","phone_number":"(855) 955-2534","website":"https://www.aldi.us/en/weekly-specials/our-weekly-ads/?utm_source=google\u0026utm_medium=local\u0026utm_campaign=brand\u0026utm_content=wklyad_webclick","google_map_url":"https://maps.google.com/?cid=5456258022552240463"},{"id":22139493,"g5_updatable_location_id":23503,"place_id":"ChIJ23q_n3gAK4cRK5ZEBYEPTis","name":"Las Tiendas Village","address":"2815 S Alma School Rd","city":"Chandler","state":"AZ","postal_code":"85286","location_type":"shopping","latitude":33.2644055,"longitude":-111.8576038,"created_at":"2021-08-02T10:07:13.816-07:00","updated_at":"2021-08-02T10:07:13.816-07:00","phone_number":"(480) 966-9338","website":"http://www.shopltv.com/","google_map_url":"https://maps.google.com/?cid=3120448638627911211"},{"id":22139497,"g5_updatable_location_id":23503,"place_id":"ChIJ_-JrCXgAK4cRV2mfbR0I2E0","name":"Albertsons","address":"3145 S Alma School Rd","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"shopping","latitude":33.260758,"longitude":-111.8569772,"created_at":"2021-08-02T10:07:13.812-07:00","updated_at":"2021-08-02T10:07:13.812-07:00","phone_number":"(480) 899-7102","website":"https://local.albertsons.com/az/chandler/3145-s-alma-school-rd.html","google_map_url":"https://maps.google.com/?cid=5609242258376190295"},{"id":22139500,"g5_updatable_location_id":23503,"place_id":"ChIJsbmCbBmqK4cReYRyVp9Ii0I","name":"Arizona Railway Museum","address":"330 E Ryan Rd","city":"Chandler","state":"AZ","postal_code":"85286","location_type":"entertainment","latitude":33.269569,"longitude":-111.836663,"created_at":"2021-08-02T10:07:13.810-07:00","updated_at":"2021-08-02T10:07:13.810-07:00","phone_number":"(480) 821-1108","website":"http://www.azrymuseum.org/","google_map_url":"https://maps.google.com/?cid=4795006077453370489"},{"id":22139504,"g5_updatable_location_id":23503,"place_id":"ChIJmwLMezRf1oARr8EJmm58J2g","name":"Hamilton Aquatic Center","address":"3838 S Arizona Ave","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"entertainment","latitude":33.2493512,"longitude":-111.842599,"created_at":"2021-08-02T10:07:13.808-07:00","updated_at":"2021-08-02T10:07:13.808-07:00","phone_number":"(480) 782-2630","website":"http://www.chandleraz.gov/aquatics","google_map_url":"https://maps.google.com/?cid=7505104118508798383"},{"id":22139510,"g5_updatable_location_id":23503,"place_id":"ChIJmfza4X0AK4cRHJfKZQN13sg","name":"Dobson Park","address":"Dobson Park, 1625 W Ryan Rd","city":"Chandler","state":"AZ","postal_code":"85286","location_type":"entertainment","latitude":33.2663821,"longitude":-111.8698494,"created_at":"2021-08-02T10:07:13.806-07:00","updated_at":"2021-08-02T10:07:13.806-07:00","phone_number":"(480) 782-2727","website":"http://www.chandleraz.gov/default.aspx?pageid=288","google_map_url":"https://maps.google.com/?cid=14474134909868480284"},{"id":22139513,"g5_updatable_location_id":23503,"place_id":"ChIJQdQCRZYBK4cRTwhOLUr-8BA","name":"Big Air Trampoline Park","address":"2840 S Alma School Rd","city":"Chandler","state":"AZ","postal_code":"85286","location_type":"entertainment","latitude":33.264413,"longitude":-111.8602657,"created_at":"2021-08-02T10:07:13.804-07:00","updated_at":"2021-08-02T10:07:13.804-07:00","phone_number":"(480) 912-5454","website":"http://bigairusa.com/chandler","google_map_url":"https://maps.google.com/?cid=1220755093558528079"},{"id":22139517,"g5_updatable_location_id":23503,"place_id":"ChIJTYphtfWqK4cR9R0Y1ch6M2U","name":"Tumbleweed Park","address":"Tumbleweed Park, 745 E Germann Rd","city":"Chandler","state":"AZ","postal_code":"85286","location_type":"entertainment","latitude":33.2730793,"longitude":-111.8304537,"created_at":"2021-08-02T10:07:13.802-07:00","updated_at":"2021-08-02T10:07:13.802-07:00","phone_number":"(480) 782-2900","website":"https://www.chandleraz.gov/explore/chandler-recreation/centers-and-facilities/tumbleweed-recreation-center","google_map_url":"https://maps.google.com/?cid=7292307224630140405"},{"id":22139520,"g5_updatable_location_id":23503,"place_id":"ChIJGWcThwgAK4cRvUfizW6pbdE","name":"Snedigar Recreation Center","address":"Snedigar Recreation Center, 4500 S Basha Rd","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"entertainment","latitude":33.2397405,"longitude":-111.859793,"created_at":"2021-08-02T10:07:13.800-07:00","updated_at":"2021-08-02T10:07:13.800-07:00","phone_number":"(480) 782-2640","website":"http://www.chandleraz.gov/default.aspx?pageid=630","google_map_url":"https://maps.google.com/?cid=15090904219754055613"},{"id":22139521,"g5_updatable_location_id":23503,"place_id":"ChIJ50MELMKqK4cRrCJ-p26ZYQ0","name":"Paseo Vista Recreation Area","address":"Paseo Vista Recreation Area, 3850 S McQueen Rd","city":"Chandler","state":"AZ","postal_code":"85286","location_type":"entertainment","latitude":33.2498925,"longitude":-111.8265268,"created_at":"2021-08-02T10:07:13.797-07:00","updated_at":"2021-08-02T10:07:13.797-07:00","phone_number":"(480) 782-2754","website":"http://www.chandleraz.gov/default.aspx?pageid=755","google_map_url":"https://maps.google.com/?cid=964220495769510572"},{"id":22139524,"g5_updatable_location_id":23503,"place_id":"ChIJ-WulxW0AK4cRTidVMac80Ug","name":"Ocotillo Golf Club","address":"3751 S Clubhouse Dr","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"entertainment","latitude":33.2514115,"longitude":-111.8708573,"created_at":"2021-08-02T10:07:13.794-07:00","updated_at":"2021-08-02T10:07:13.794-07:00","phone_number":"(480) 917-6660","website":"http://www.ocotillogolf.com/","google_map_url":"https://maps.google.com/?cid=5247041729648207694"},{"id":22139528,"g5_updatable_location_id":23503,"place_id":"ChIJafTKiHgAK4cROsjNfxdxUOM","name":"HonMachi","address":"2975 S Alma School Rd","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"food_drink","latitude":33.2628608,"longitude":-111.8563614,"created_at":"2021-08-02T10:07:13.790-07:00","updated_at":"2021-08-02T10:07:13.790-07:00","phone_number":"(480) 857-2021","website":"http://www.honmachiarizona.com/","google_map_url":"https://maps.google.com/?cid=16379716190488873018"},{"id":22139532,"g5_updatable_location_id":23503,"place_id":"ChIJ3yQH8ngAK4cRQfscR8yXyHA","name":"Sidelines Grill","address":"2980 S Alma School Rd # 2","city":"Chandler","state":"AZ","postal_code":"85286","location_type":"food_drink","latitude":33.2623262,"longitude":-111.8603425,"created_at":"2021-08-02T10:07:13.787-07:00","updated_at":"2021-08-02T10:07:13.787-07:00","phone_number":"(480) 792-6965","website":"http://www.sidelinesaz.com/","google_map_url":"https://maps.google.com/?cid=8126912431212264257"},{"id":22139534,"g5_updatable_location_id":23503,"place_id":"ChIJ_dCPnnkAK4cR0Su84Tu6WAY","name":"The Casual Pint Ocotillo","address":"1095 W Queen Creek Rd #8","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"food_drink","latitude":33.261395,"longitude":-111.861383,"created_at":"2021-08-02T10:07:13.785-07:00","updated_at":"2021-08-02T10:07:13.785-07:00","phone_number":"(480) 219-2666","website":"http://ocotillo.thecasualpint.com/","google_map_url":"https://maps.google.com/?cid=457320128531147729"},{"id":22139535,"g5_updatable_location_id":23503,"place_id":"ChIJL1GjsXkAK4cRAK74_HyHTC4","name":"Starbucks","address":"1085 W Queen Creek Rd B","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"food_drink","latitude":33.26121,"longitude":-111.860415,"created_at":"2021-08-02T10:07:13.783-07:00","updated_at":"2021-08-02T10:07:13.783-07:00","phone_number":"(480) 899-9295","website":"https://www.starbucks.com/store-locator/store/15199/","google_map_url":"https://maps.google.com/?cid=3336190394864545280"},{"id":22139538,"g5_updatable_location_id":23503,"place_id":"ChIJOess9ncAK4cR8K8RWef11l0","name":"McDonald's","address":"3185 S Alma School Rd","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"food_drink","latitude":33.2597014,"longitude":-111.8577983,"created_at":"2021-08-02T10:07:13.781-07:00","updated_at":"2021-08-02T10:07:13.781-07:00","phone_number":"(480) 857-8711","website":"https://www.mcdonalds.com/us/en-us/location/AZ/CHANDLER/3185-S-ALMA-SCHOOL/18584.html?cid=RF:YXT:GMB::Clicks","google_map_url":"https://maps.google.com/?cid=6761862264523960304"},{"id":22139541,"g5_updatable_location_id":23503,"place_id":"ChIJJ4CeBngAK4cRdob2i_5o3MM","name":"Moon China Bistro","address":"3165 S Alma School Rd #16","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"food_drink","latitude":33.260117,"longitude":-111.857102,"created_at":"2021-08-02T10:07:13.779-07:00","updated_at":"2021-08-02T10:07:13.779-07:00","phone_number":"(480) 855-8550","website":"http://www.moonchinabistro.com/","google_map_url":"https://maps.google.com/?cid=14113270774751463030"},{"id":22139543,"g5_updatable_location_id":23503,"place_id":"ChIJTUL1c3gAK4cRT9lpRK3VjTs","name":"Mikado Sushi","address":"3125 S Alma School Rd #3b","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"food_drink","latitude":33.2612279,"longitude":-111.8569133,"created_at":"2021-08-02T10:07:13.777-07:00","updated_at":"2021-08-02T10:07:13.777-07:00","phone_number":"(480) 726-0255","website":"http://www.mikadosushiaz.com/","google_map_url":"https://maps.google.com/?cid=4291320960107796815"},{"id":22139546,"g5_updatable_location_id":23503,"place_id":"ChIJp2us6IAHK4cRjN8ev5UAzfg","name":"Domino's Pizza","address":"3125 S Alma School Rd Ste 1","city":"Chandler","state":"AZ","postal_code":"85248","location_type":"food_drink","latitude":33.2613626,"longitude":-111.8565246,"created_at":"2021-08-02T10:07:13.773-07:00","updated_at":"2021-08-02T10:07:13.773-07:00","phone_number":"(480) 786-3338","website":"https://www.dominos.com/en/?utm_source=google\u0026utm_medium=loclist\u0026utm_campaign=localmaps","google_map_url":"https://maps.google.com/?cid=17927986334788411276"}],
+      "displayBusinessMarker": true,
+      "businessMarkerShape": "fa-solid-circle",
+      "businessMarkerIcon": "fa-home",
+      "businessMarkerCustomImg": "",
+      "categories": {
+        "food_drink": {
+          "label": "Food & Drink",
+          "icon": "fa-utensils",
+          "id": 1
+        },
+        "entertainment": {
+          "label": "Recreation & Entertainment",
+          "icon": "fa-ticket",
+          "id": 2
+        },
+        "shopping": {
+          "label": "Employers",
+          "icon": "fa-briefcase",
+          "id": 3
+        },
+        "activities": {
+          "label": "Activities",
+          "icon": "fa-tree",
+          "id": 4
+        },
+        "community": {
+          "label": "Local Schools",
+          "icon": "fa-school",
+          "id": 5
+        }
+      }
+    }
+  </script>
+
+  <div class="map-wrapper">
+    <div id="neighborhood-map-plus-10434144-map" class="canvas" role="application" aria-label="Map showing points of interest around neighborhood"></div>
+
+    <div class="map-filters-plus hide">
+      <div class="filters-actions">
+        <button class="show-filters toggle-filters hide-mobile ">
+          <i class="fa fa-filter-sliders"></i>
+            <span class="show-filters-text hide-mobile">View Filters</span>
+            
+        </button>
+        <button class="hide-filters toggle-filters hide-mobile  close-btn" title="Close Filters">
+          <i class="fa fa-close"></i>
+        </button>
+
+        
+          <button class="show-filters toggle-filters show-mobile">
+            <span class="show-filters-text">View Filter Names</span>
+            <i class="fa fa-chevron-down"></i>
+          </button>
+          <button class="hide-filters toggle-filters show-mobile">
+            Apply Filters
+          </button>
+          <button class="hide-filters toggle-filters show-mobile close-btn" title="Close Filters">
+            <i class="fa fa-close"></i>
+          </button>
+        
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</div>
+
+      
+
+      
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row content-stripe-widget row-widget  text-light super-padding no-heading-border bg-cover row-overlay fixed-bg lazy-background-images row-10434147" id="row-10434147" style="" data-id="10434147" data-name="Content Stripe" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+
+  <script class="config" type="application/json">
+    {
+      "widgetId": "row-10434147",
+      "backgroundImageURL": "https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_691,h_2200,w_4000,c_crop/q_auto,f_auto,c_fill,g_center,h_1100,w_2000/v1627926154/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/GettyImages-1056996116_1_mvmfot.jpg",
+      "mobileSettingOption": "none",
+      "mobileReplaceImg": "",
+      "mobileHideBackgroundImageBreakpoint": "979",
+      "mobileHideBgImgFontColor": "",
+      "rowBackgroundColor": "",
+      "rowTextColor": "light",
+      "mobileRowTextColor": "default"
+    }
+  </script>
+
+  <style>
+    
+      .row-10434147::before {
+        background-color: rgba(0,0,0,0.25);
+      }
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+      
+        .row-10434147.lazy-background-images {
+          background-image: none;
+        }
+        .row-10434147:not(.lazy-background-images) {
+          background-image: url(https://g5-assets-cld-res.cloudinary.com/image/upload/x_0,y_691,h_2200,w_4000,c_crop/q_auto,f_auto,c_fill,g_center,h_1100,w_2000/v1627926154/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az/uploads/GettyImages-1056996116_1_mvmfot.jpg);
+        }
+      
+    
+  </style>
+
+  <div class="content row-single">
+    <div class="row-grid">
+
+      <div class="col col-1" id="drop-target-1-column-10434147">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column column-widget super-padding  column-10434149" data-id="10434149" data-name="Column" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="true">
+  <div class="column-content column-one">
+
+    <div class="row-1" id="drop-target-1-row-10434149">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="action-calls custom-action-calls widget calls-to-action-10434151" aria-label="&lt;b&gt;Your Desert Oasis Awaits&lt;b&gt; 10434151" id="calls-to-action-10434151" data-id="10434151" data-name="Calls To Action" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+  <script class="config" type="application/json">
+    {
+      "previewUrl1": "g5-clw-1loql74h70-luxe-ocotillo/apartments/az/chandler/apply",
+      "previewUrl2": "",
+      "previewUrl3": "",
+      "previewUrl4": "",
+      "widgetId": "calls-to-action-10434151"
+    }
+  </script>
+
+  <style>
+    
+    
+
+    
+      .calls-to-action-10434151 li a {
+        color: #000 !important;
+      }
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+  </style>
+
+  
+    <p class="paragraph-heading-2 cta-heading cta-heading-center" style="text-align: center"><b>Your Desert Oasis Awaits<b></b></b></p>
+  
+
+  <ul>
+
+    
+
+      
+      
+      
+
+      
+      
+
+      
+      
+
+      
+        <li class="cta-item cta-item-1">
+          <a href="/apartments/az/chandler/apply" class=" ">Apply Now</a>
+        </li>
+      
+
+    
+
+      
+      
+      
+
+      
+      
+
+      
+      
+
+      
+
+    
+
+      
+      
+      
+
+      
+      
+
+      
+      
+
+      
+
+    
+
+      
+      
+      
+
+      
+      
+
+      
+      
+
+      
+
+    
+
+  </ul>
+</nav>
+</div>
+
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</div>
+
+      
+
+      
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+</section>
+
+  <aside id="drop-target-aside-after-main">
+
+<script class="g5-bot-config" type="application/json" id="g5-bot-10446579">
+  {
+    "widgetId": "g5-bot-10446579",
+    "botName": "luxeatocot",
+    "useNewCodeSnippet": true
+  }
+</script>
+
+
+
+
+<style>
+
+	:focus {
+		box-shadow: 0 0 1px 2px currentColor inset !important;
+	}
+
+</style>
+</aside>
+
+  <footer role="contentinfo">
+    <div id="drop-target-footer" class="content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="contact-info h-c-ret v-c-ret h-card vcard widget contact-info-10434074" id="contact-info-10434074" data-id="10434074" data-name="Contact Info" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+  <script class="config" type="application/json">
+    {
+      "clientUrn": "g5-c-icwh344r-acacia-capital-corporation-client",
+      "cpnsUrl": "https://call-tracking.g5marketingcloud.com/api/v1/phone_numbers",
+      "locationUrn": "g5-cl-1loql6zh1f-amc-acacia-capital-corporation-chandler-az",
+      "chatUrl": "",
+      "widgetId": "contact-info-10434074",
+      "phoneNumber": "623-377-9072"
+    }
+  </script>
+
+  <style>
+      
+
+      
+
+      
+
+      
+
+  </style>
+
+  
+    <div class="contact-header p-name"><span class="notranslate"><strong> Luxe @ Ocotillo  </strong></span></div>
+  
+
+  
+  <p class="phone">
+    <a class="number contact-info-phone" aria-label="623-377-9072" href="tel:623-377-9072">
+      <span class="p-tel tel">623-377-9072</span>
+    </a>
+  </p>
+  
+
+  
+  <p class="h-adr p-adr adr-ret adr">
+    <a href="/apartments/az/chandler/map-directions" aria-label="Go to map of &lt;span class='notranslate'&gt;&lt;strong&gt; Luxe @ Ocotillo  &lt;/strong&gt;&lt;/span&gt;">
+      
+      <span class="p-street-address street-address">
+        <span class="notranslate">825 W Queen Creek Rd</span>
+      </span>
+      
+
+      
+      <span class="p-locality locality">
+        <span class="notranslate">Chandler</span></span>,
+      
+
+      
+      <span class="p-region region">
+        AZ
+      </span>
+      
+
+      
+      <span class="p-postal-code postal-code">
+        85248
+      </span>
+      
+
+      
+    </a>
+  </p>
+  
+
+  
+  <p class="u-email email">
+    <a href="/apartments/az/chandler/contact-us">Email Us</a>
+  </p>
+  
+
+  
+
+  
+
+
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="footer-info widget" id="footer-info-10434077" data-id="10434077" data-name="Footer Info" data-beta="false" data-eol="false" data-open-design="false" data-is-layout="false">
+
+    <script class="config" type="application/json">{"widgetId":"footer-info-10434077","footerLayoutSelection":"","officeHours":[{"day_of_week":0,"status":"open","open":"2000-01-01T09:00:00.000Z","close":"2000-01-01T18:00:00.000Z"},{"day_of_week":1,"status":"open","open":"2000-01-01T09:00:00.000Z","close":"2000-01-01T18:00:00.000Z"},{"day_of_week":2,"status":"open","open":"2000-01-01T09:00:00.000Z","close":"2000-01-01T18:00:00.000Z"},{"day_of_week":3,"status":"open","open":"2000-01-01T09:00:00.000Z","close":"2000-01-01T18:00:00.000Z"},{"day_of_week":4,"status":"open","open":"2000-01-01T09:00:00.000Z","close":"2000-01-01T18:00:00.000Z"},{"day_of_week":5,"status":"open","open":"2000-01-01T10:00:00.000Z","close":"2000-01-01T17:00:00.000Z"},{"day_of_week":6,"status":"closed"}],"timezone":"America/Phoenix"}</script>
+
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none"><symbol id="footer-icon-facebook" viewbox="0 0 44.8 44.8"><path fill="#fff" d="M28.7 17.6h-4.3v-2.8c0-1.1.7-1.3 1.2-1.3h3V8.8h-4.2c-4.7 0-5.7 3.5-5.7 5.7v3.1H16v4.8h2.7V36h5.7V22.4h3.8l.5-4.8z"></path></symbol><symbol id="footer-icon-instagram" viewbox="0 0 44.8 44.8"><path fill="#fff" d="M33.9 9.4h-23c-1 0-1.8.8-1.8 1.8v22.4c0 1 .8 1.8 1.8 1.8H34c1 0 1.8-.8 1.8-1.8V11.2c-.1-1-.9-1.8-1.9-1.8zm-6.4 2.1c0-.2.2-.4.4-.4h5c.2 0 .4.2.4.4v4.9c0 .2-.2.4-.4.4h-5c-.2 0-.4-.2-.4-.4v-4.9zm.1 11.5c0 2.8-2.3 5-5.2 5-2.8 0-5.2-2.2-5.2-5v-.4c.2-2.6 2.4-4.6 5.1-4.6 2.7 0 4.9 2 5.1 4.6.2.1.2.2.2.4zm6 8.8c0 .8-.7 1.5-1.5 1.5H12.7c-.8 0-1.5-.7-1.5-1.5v-9.3h3.6v.5c0 4.1 3.4 7.5 7.6 7.5 4.2 0 7.6-3.3 7.6-7.5v-.5h3.6v9.3z"></path></symbol><symbol id="footer-icon-gmb" viewbox="-4 -6 44.8 44.8"><g fill="#fff"><path d="M 10.496094 1.9980469 A 0.50005 0.50005 0 0 0 10.421875 2.0039062 L 6.0019531 2.0039062 C 5.4477415 2.0039062 4.9645169 2.2560344 4.640625 2.6152344 C 4.3167331 2.9743344 4.1259566 3.4234187 4.015625 3.8867188 L 2.015625 12.287109 A 0.50005 0.50005 0 0 0 2.0039062 12.458984 A 0.50005006 0.50005006 0 0 0 2.0019531 12.503906 C 2.0019578 13.949406 2.760548 15.287772 3.9980469 16.013672 C 3.9993148 16.014416 4.0006846 16.014883 4.0019531 16.015625 L 4.0019531 29.503906 A 0.50005 0.50005 0 0 0 4.5019531 30.003906 L 28.501953 30.003906 A 0.50005 0.50005 0 0 0 29.001953 29.503906 L 29.001953 16.015625 C 29.002714 16.015179 29.003145 16.014118 29.003906 16.013672 C 30.241406 15.287772 31.001953 13.949406 31.001953 12.503906 A 0.50005006 0.50005006 0 0 0 31 12.464844 A 0.50005 0.50005 0 0 0 31 12.460938 A 0.50005006 0.50005006 0 0 0 31 12.453125 A 0.50005 0.50005 0 0 0 30.988281 12.287109 L 28.988281 3.8867188 C 28.877949 3.4234187 28.687173 2.9743344 28.363281 2.6152344 C 28.03939 2.2560344 27.556165 2.0039062 27.001953 2.0039062 L 22.582031 2.0039062 A 0.50005 0.50005 0 0 0 22.492188 1.9980469 A 0.50005 0.50005 0 0 0 22.421875 2.0039062 L 16.582031 2.0039062 A 0.50005 0.50005 0 0 0 16.494141 1.9980469 A 0.50005 0.50005 0 0 0 16.417969 2.0039062 L 10.580078 2.0039062 A 0.50005 0.50005 0 0 0 10.496094 1.9980469 z M 6.0019531 3.0039062 L 9.9492188 3.0039062 L 9.0390625 12.003906 L 6.0019531 12.003906 L 3.1113281 12.003906 L 4.9882812 4.1191406 C 5.0704262 3.7741406 5.2125672 3.4739562 5.3828125 3.2851562 C 5.5530578 3.0963562 5.7251551 3.0039062 6.0019531 3.0039062 z M 10.955078 3.0039062 L 16.001953 3.0039062 L 16.001953 12.003906 L 13.001953 12.003906 L 10.046875 12.003906 L 10.955078 3.0039062 z M 17.001953 3.0039062 L 22.048828 3.0039062 L 22.957031 12.003906 L 20.001953 12.003906 L 17.001953 12.003906 L 17.001953 3.0039062 z M 23.054688 3.0039062 L 27.001953 3.0039062 C 27.278751 3.0039062 27.448895 3.0968562 27.619141 3.2851562 C 27.789386 3.4739563 27.93348 3.7741406 28.015625 4.1191406 L 29.892578 12.003906 L 27.001953 12.003906 L 23.964844 12.003906 L 23.054688 3.0039062 z M 3.1328125 13.003906 L 6.0019531 13.003906 L 8.8691406 13.003906 C 8.7168677 13.888006 8.27455 14.696844 7.4980469 15.152344 C 6.5697402 15.696844 5.432213 15.696844 4.5039062 15.152344 C 3.7273048 14.696744 3.2850092 13.888206 3.1328125 13.003906 z M 10.132812 13.003906 L 13.001953 13.003906 L 15.869141 13.003906 C 15.71687 13.888006 15.27455 14.696844 14.498047 15.152344 C 13.569744 15.696844 12.432209 15.696844 11.503906 15.152344 C 10.727305 14.696744 10.285007 13.888206 10.132812 13.003906 z M 17.132812 13.003906 L 20.001953 13.003906 L 22.869141 13.003906 C 22.71687 13.888006 22.27455 14.696844 21.498047 15.152344 C 20.569743 15.696844 19.43221 15.696844 18.503906 15.152344 C 17.727305 14.696744 17.285007 13.888206 17.132812 13.003906 z M 24.132812 13.003906 L 27.001953 13.003906 L 29.869141 13.003906 C 29.71687 13.888006 29.27455 14.696844 28.498047 15.152344 C 27.569743 15.696844 26.43221 15.696844 25.503906 15.152344 C 24.727305 14.696744 24.285008 13.888206 24.132812 13.003906 z M 9.5 14.457031 C 9.8451615 15.092735 10.356058 15.63709 10.998047 16.013672 C 12.235546 16.739572 13.766407 16.739572 15.003906 16.013672 C 15.645643 15.637238 16.154337 15.092411 16.5 14.457031 C 16.845162 15.092735 17.356059 15.63709 17.998047 16.013672 C 19.235547 16.739572 20.766407 16.739572 22.003906 16.013672 C 22.645643 15.637238 23.154337 15.092411 23.5 14.457031 C 23.845162 15.092735 24.356059 15.63709 24.998047 16.013672 C 25.917851 16.553216 26.998936 16.69025 28.001953 16.427734 L 28.001953 29.003906 L 5.0019531 29.003906 L 5.0019531 16.427734 C 6.0044465 16.689591 7.0846705 16.552881 8.0039062 16.013672 C 8.6456422 15.637238 9.154337 15.092411 9.5 14.457031 z M 23.091797 21.003906 C 22.930278 20.999169 22.769104 21.008272 22.609375 21.029297 C 21.970458 21.113297 21.358195 21.401559 20.878906 21.880859 C 19.920282 22.839359 19.724505 24.329906 20.402344 25.503906 C 21.080179 26.677906 22.467923 27.251291 23.777344 26.900391 C 25.086771 26.549591 26.001934 25.359606 26.001953 24.003906 A 0.50005 0.50005 0 0 0 25.501953 23.503906 L 23.001953 23.503906 A 0.50005 0.50005 0 1 0 23.001953 24.503906 L 24.832031 24.503906 C 24.645416 25.171906 24.21622 25.748847 23.519531 25.935547 C 22.642596 26.170447 21.723468 25.790106 21.269531 25.003906 C 20.815608 24.217706 20.944011 23.229791 21.585938 22.587891 C 22.227899 21.945891 23.215728 21.817584 24.001953 22.271484 A 0.5005087 0.5005087 0 0 0 24.501953 21.404297 C 24.061697 21.150122 23.576352 21.018119 23.091797 21.003906 z"></path></g></symbol></svg><div class="social-links">
+<a href="https://www.facebook.com/LuxeatOcotilloApts" class="facebook" title="Facebook" rel="me" target="_blank" aria-label="Visit Facebook page"><svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#footer-icon-facebook"></use></svg></a><a href="https://www.instagram.com/luxeatocotillo" class="instagram" title="Instagram" rel="me" target="_blank" aria-label="Visit Instagram page"><svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#footer-icon-instagram"></use></svg></a><a href="https://www.google.com/maps?cid=15624114051236075956" class="google-my-business" title="Google My Business" rel="me" target="_blank" aria-label="Google this business"><svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#footer-icon-gmb"></use></svg></a>
+</div>
+
+    <div class="hours-wrapper office-hours"><div class="office-hours-condensed">
+<span class="label">Office Hours</span><div>
+<label>Monday - Friday:</label> <span>9:00am - 6:00pm</span>
+</div>
+<div>
+<label>Saturday:</label> <span>10:00am - 5:00pm</span>
+</div>
+<div>
+<label>Sunday:</label> <span>Closed</span>
+</div>
+</div></div>
+
+    
+    <div class="nav">
+      <a href="/apartments/az/chandler/privacy-policy">Privacy Policy</a>
+      <a href="/apartments/az/chandler/accessibility-statement">Accessibility Statement</a>
+    </div>
+    
+
+    
+
+    
+
+    <div class="footer-custom-content">
+<p><img alt="AMC corporate logo" loading="lazy" src="https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,fl_lossy/v1576012887/g5/g5-c-icwh344r-acacia-capital-corporation-client/uploads/Blue_Logo_guf5uc.png" style="width: 189px; height: 95px;">  <img alt="WCAG 2.1 AA badge for Luxe @ Ocotillo" loading="lazy" src="https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,fl_lossy/v1622051546/g5/g5-c-icwh344r-acacia-capital-corporation-client/uploads/wcag2.1AA-blue-v_hqzlmq.png" style="width: 113px; height: 40px;"></p>
+</div>
+
+    <p class="copyright">Copyright © <span class="current-year"></span> <span class="notranslate">Luxe @ Ocotillo</span></p>
+
+    <p class="housing-icons"><a href="https://www.hud.gov/program_offices/fair_housing_equal_opp" class="housing-icon access" target="_blank">Equal Opportunity Housing</a><a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/disabilities/accessibilityR" class="handicap-icon access" target="_blank">Handicap Friendly</a></p>
+
+    
+
+  </div>
+
+
+
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    var typekitScript = document.createElement('script');
+    typekitScript.type = "text/javascript";
+    typekitScript.addEventListener("load", function(event) {
+      try {
+        Typekit.isReady = false;
+        Typekit.typekitReady = function(){
+          var e = document.createEvent('Event');
+          e.initEvent('typekitReady', true, true);
+          Typekit.isReady = true;
+          return window.dispatchEvent(e);
+        }
+        Typekit.load({
+          active: function(){ Typekit.typekitReady(); },
+          inactive: function(){ Typekit.typekitReady(); }
+        });
+      } catch(e){}
+    });
+    typekitScript.src = "https://use.typekit.net/cxy6fnk.js";
+    document.getElementsByTagName('head')[0].appendChild(typekitScript);
+  </script>
+
+</div>
+  </footer>
+
+</div>
+
+
+
+
+
+      <script src="https://themes.g5dxm.com/shared/javascripts/web-theme.min.js"  onerror="notifyHoneyBadger('themes.g5dxm.com/shared/javascripts/web-theme.min.js')"></script>
+
+    <script src="https://widgets.g5dxm.com/shared/javascripts/date-time.min.js" onerror="notifyHoneyBadger('widgets.g5dxm.com/shared/javascripts/date-time.min.js')"></script>
+    <script src="https://widgets.g5dxm.com/shared/javascripts/form-enhancer.min.js" onerror="notifyHoneyBadger('widgets.g5dxm.com/shared/javascripts/form-enhancer.min.js')"></script>
+
+    <script type="text/javascript">
+  function globalJsLoadError() {
+    this.onerror=null;
+    let script = document.createElement('script');
+    script.src = "/javascripts/application-fb1b258782.min.js".replace(/-[0-9a-f]+(\.min.js)/, '$1');
+    document.body.appendChild(script);
+    notifyHoneyBadger("/javascripts/application-fb1b258782.min.js | g5-clw-1loql74h70-luxe-ocotillo-d1aa00c932afcd390d3b121bedb909ce");
+  };
+</script>
+
+<script src="/javascripts/application-fb1b258782.min.js" onerror="globalJsLoadError.call(this)"></script>
+
+
+      <script type="text/javascript">
+  function pageJsLoadError() {
+    this.onerror=null;
+    let script = document.createElement('script');
+    script.src = "/javascripts/home-72b463a2de.min.js".replace(/-[0-9a-f]+(\.min.js)/, '$1');
+    document.body.appendChild(script);
+    notifyHoneyBadger("/javascripts/home-72b463a2de.min.js | g5-clw-1loql74h70-luxe-ocotillo-d1aa00c932afcd390d3b121bedb909ce");
+  };
+</script>
+
+<script src="/javascripts/home-72b463a2de.min.js" onerror="pageJsLoadError.call(this)"></script>
+
+
+
+  <script>
+//<![CDATA[
+
+    $(function() {
+      $('base').attr('href', window.location.protocol + "//" + window.location.host);
+    });
+
+//]]>
+</script>
+
+
+      <script class="config global-cms-config" id="global-cms-config" type="application/json">
+    {
+      "clientUrn" : "g5-c-icwh344r-acacia-capital-corporation-client",
+      "cpnsUrl" : "https://call-tracking.g5marketingcloud.com/api/v1/phone_numbers",
+      "locSelector" : ".g5-phone-service-location"
+    }
+  </script>
+
+  </body>
+</html>
