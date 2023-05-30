@@ -2,7 +2,10 @@
 
 Connected to GitHub pages
 
-```bash
+```shell
+git add .
+git commit -m ""
+git push
 npm run deploy
 ```
 
@@ -19,7 +22,7 @@ npm install --save chart.js react-chartjs-2
 bash npx tailwindcss init -p
 ```
 
-```bash
+```shell
 npm run build
 
 git add .

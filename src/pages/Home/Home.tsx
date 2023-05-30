@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import Card from "../../components/Card";
 import Search from "../../components/Search";
 import VSCodeShortcuts from "../../components/VSCodeShortcuts";
@@ -11,6 +12,15 @@ const Home = () => {
   return (
     <div className="container">
       <div>
+        <h1>My Sites</h1>
+        <ul>
+          <li>
+            <Link to="https://aaron-san.github.io/spelling-game/">
+              Spelling Game
+            </Link>
+          </li>
+        </ul>
+
         <hr />
         <div
           className="button_wrapper_styles"
