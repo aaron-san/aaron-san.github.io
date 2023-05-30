@@ -1,6 +1,5 @@
 import React from "react";
 import MiscNotes from "../../components/MiscNotes";
-import BookApp from "../../components/BookApp";
 // import * as d3 from "d3";
 // import tickers_sorted_by_revenue from "../../data/tickers_sorted_by_revenue.csv";
 
@@ -56,8 +55,13 @@ import BookApp from "../../components/BookApp";
 const Services = () => {
   return (
     <div className="container">
-      <MiscNotes />
-      <BookApp />
+      {/* <MiscNotes /> */}
+      <h1>Services</h1>
+      <ul>
+        <li>- Financial Modeling</li>
+        <li>- Business Valuation</li>
+        <li>- Website Builder</li>
+      </ul>
     </div>
   );
 };

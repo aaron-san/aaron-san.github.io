@@ -1,3 +1,5 @@
+See live site at https://aaron-san.github.io/.
+
 ## Deployment
 
 Connected to GitHub pages

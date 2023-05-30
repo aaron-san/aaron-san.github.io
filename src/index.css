@@ -224,3 +224,12 @@ a.active {
   padding: 5px;
   margin-bottom: 20px;
 }
+
+.link-container {
+  display: flex;
+}
+
+.app-link {
+  text-decoration: underline red;
+  /* font-weight: bolder; */
+}
