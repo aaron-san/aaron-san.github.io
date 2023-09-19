@@ -2,7 +2,7 @@ import React from "react";
 
 const ImmigrationNotes = () => {
   return (
-    <div className="container text-dark m-1 p-1">
+    <div className="max-w-4xl text-dark m-1 p-1">
       <h1>Immigration Notes</h1>
       <hr />
       <div className="todo">

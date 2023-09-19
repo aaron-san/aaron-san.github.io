@@ -10,42 +10,44 @@ import Modal from "../../components/Modal";
 const Home = () => {
   const [isOpen, setIsOpen] = useState<boolean>(false);
   return (
-    <div className="container">
+    <section className="max-w-4xl mx-auto p-8 shadow-md">
       <div>
-        <h1>My Sites</h1>
-        <h2>GitHub Pages Hosting</h2>
-        <ul className="link-container">
-          <li>
+        <h1>My Projects</h1>
+        <h2>GitHub Pages Hosted</h2>
+        <ul className="flex flex-wrap min-w-2xl gap-2">
+          <li className="list-none">
             {custLink(
               "https://aaron-san.github.io/spelling-game/",
               "Spelling Game"
             )}
           </li>
-          <li>
+          <li className="list-none">
             {custLink(
               "https://aaron-san.github.io/react-notes/",
               "React Notes"
             )}
           </li>
-          <li>{custLink("https://aaron-san.github.io/notepad/", "Notepad")}</li>
+          <li className="list-none">
+            {custLink("https://aaron-san.github.io/notepad/", "Notepad")}
+          </li>
 
-          <li>
+          <li className="list-none">
             {custLink("https://aaron-san.github.io/dice/", "Dice Roller")}
           </li>
         </ul>
         <h2>Netlify Hosting</h2>
 
-        <ul className="link-container">
-          <li>
+        <ul className="flex flex-wrap min-w-2xl gap-2">
+          <li className="list-none">
             {custLink("https://recipe-react-app-ad1cc.web.app/", "Recipe App")}
           </li>
-          <li>
+          <li className="list-none">
             {custLink(
               "https://gracious-lovelace-b77c36.netlify.app/",
               "Notepad (model only, Netlify hosted)"
             )}
           </li>
-          <li>
+          <li className="list-none">
             {custLink(
               "https://fincoder-blog.netlify.app/",
               "FinCoder Blog (Latex not working, Netlify hosted)"
@@ -54,7 +56,13 @@ const Home = () => {
         </ul>
         <h2>Other Hosting</h2>
 
-        <ul className="link-container">
+        <ul className="flex flex-wrap min-w-2xl gap-2 list-none">
+          <li>
+            {custLink(
+              "https://aaron-san-stock-dashboard-main-i9lvpp.streamlit.app/",
+              "Streamlit Stock Dashboard"
+            )}
+          </li>
           <li>
             {custLink("https://recipe-react-app-ad1cc.web.app/", "Recipe App")}
           </li>
@@ -82,13 +90,18 @@ const Home = () => {
         <Goals />
         <Counter />
       </div>
-    </div>
+    </section>
   );
 };
 
 const custLink = (url: string, name: string) => {
   return (
-    <a className="app-link" target="_blank" rel="noreferrer" href={url}>
+    <a
+      className="app-link border border-white text-white bg-gradient-to-r from-teal-500 to-teal-400 hover:bg-blue active:translate-y-6 px-4 py-2 rounded-md shadow-md"
+      target="_blank"
+      rel="noreferrer"
+      href={url}
+    >
       {name}
     </a>
   );

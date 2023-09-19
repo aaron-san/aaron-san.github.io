@@ -12,7 +12,7 @@ nav {
   color: #fff;
   text-decoration: none;
   /* border-bottom: 1px solid white; */
-  box-shadow: 0 5px 15px 0 lightblue;
+  /* box-shadow: 0 5px 15px 0 lightblue; */
   display: flex;
   justify-content: flex-end;
 }
@@ -73,10 +73,27 @@ nav ul li svg {
   height: 3px;
   background-color: rgba(160, 241, 237, 0.957);
   position: absolute;
-  left: 40px;
+  left: 300px;
   top: 45px;
   z-index: 200;
-  transform: skewX(-45deg) rotate(-1deg);
+  animation: slidein 2s forwards;
+}
+
+@keyframes slidein {
+  0% {
+    transform: translateX(50px);
+    transform: translateY(-50px);
+  }
+
+  50% {
+    transform: skewX(-25deg) rotate(-2deg);
+  }
+
+  100% {
+    transform: translateX(0px);
+    transform: translateY(0px);
+    transform: skewX(-45deg) rotate(-1deg);
+  }
 }
 
 .checkbtn {

@@ -54,7 +54,7 @@ import MiscNotes from "../../components/MiscNotes";
 
 const Services = () => {
   return (
-    <div className="container">
+    <div className="max-w-4xl">
       {/* <MiscNotes /> */}
       <h1>Services</h1>
       <ul>

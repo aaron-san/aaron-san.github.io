@@ -10,8 +10,8 @@ import { IoIosApps } from "react-icons/io";
 
 const Navbar = () => {
   return (
-    <>
-      <nav className="flex justify-between bg-gradient-to-br from-stone-800 to-stone-600 px-2 md:px-4">
+    <header className="sticky top-0 z-10 bg-gradient-to-br from-stone-800 to-stone-600">
+      <section className="max-w-4xl mx-auto flex justify-between px-2 md:px-4">
         <div className="title">
           <NavLink className="logo-text" to="/">
             Aaron Hardy
@@ -19,39 +19,41 @@ const Navbar = () => {
 
           <div className="logo-art"></div>
         </div>
-        <ul>
-          <li>
-            <NavLink to="/notes">
-              <FaStickyNote style={{ color: "#B5B9FF" }} />
-              <p>Notes</p>
-            </NavLink>
-          </li>
-          <li>
-            <NavLink to="/about">
-              <FaUserTie style={{ color: "palegreen" }} />
-              <p>About</p>
-            </NavLink>
-          </li>
-          <li>
-            <NavLink to="/services">
-              <IoIosApps style={{ color: "peachpuff" }} />
-              <p>Services</p>
-            </NavLink>
-          </li>
-          <li>
-            <NavLink to="/contact">
-              <MdContactMail style={{ color: "palegreen" }} />
-              <p>Contact</p>
-            </NavLink>
-          </li>
-          <li>
-            <NavLink to="/login">
-              <p>Log in</p>
-            </NavLink>
-          </li>
-        </ul>
-      </nav>
-    </>
+        <nav>
+          <ul>
+            <li>
+              <NavLink to="/notes">
+                <FaStickyNote style={{ color: "#B5B9FF" }} />
+                <p>Notes</p>
+              </NavLink>
+            </li>
+            <li>
+              <NavLink to="/about">
+                <FaUserTie style={{ color: "palegreen" }} />
+                <p>About</p>
+              </NavLink>
+            </li>
+            <li>
+              <NavLink to="/services">
+                <IoIosApps style={{ color: "peachpuff" }} />
+                <p>Services</p>
+              </NavLink>
+            </li>
+            <li>
+              <NavLink to="/contact">
+                <MdContactMail style={{ color: "palegreen" }} />
+                <p>Contact</p>
+              </NavLink>
+            </li>
+            <li>
+              <NavLink to="/login">
+                <p>Log in</p>
+              </NavLink>
+            </li>
+          </ul>
+        </nav>
+      </section>
+    </header>
   );
 };
 

@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className="container">
+    <div className="max-w-4xl">
       <h2 className="text-center">About</h2>
       <p>
         I am a finance, programming, and food junkie. I have lived in Japan for

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function NotesPage() {
   return (
-    <div className="container">
+    <div className="max-w-4xl mx-auto shadow-md p-8">
       <h2>Notes</h2>
       <div className="text-xl">
         <Link to="/notes/misc-notes">Miscellaneous Notes</Link>

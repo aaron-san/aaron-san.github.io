@@ -2,7 +2,7 @@ import React from "react";
 
 function InvestingNotes() {
   return (
-    <div className="container text-dark m-1 p-1">
+    <div className="max-w-4xl text-dark m-1 p-1">
       <h3>Investing Notes</h3>
       <ol>
         <li>It is the goods and services that matters, not the money flow.</li>

@@ -21,7 +21,7 @@ function MovingNotes() {
   };
 
   return (
-    <div className="container">
+    <div className="max-w-4xl mx-auto shadow-md">
       <div className="banner">
         <img src="../images/texas-national-park.jpg" alt="Dallas skyline" />
       </div>

@@ -2,16 +2,24 @@ import React from "react";
 
 function MiscNotes() {
   return (
-    <div className="container text-dark m-1 p-1">
-      <h3>Miscellaneous Notes</h3>
+    <section className="max-w-4xl text-dark mx-auto p-8 shadow-md">
+      <h3>Interesting Sites</h3>
       <ol>
-        <li>araiye.com (capoeira)</li>
+        <li>
+          <a href="https://typing.playgram.jp" rel="noreferrer" target="_blank">
+            typing.playgram.jp
+          </a>
+        </li>
+        <li>
+          <a href="https://araiye.com" rel="noreferrer" target="_blank">
+            araiye.com (capoeira)
+          </a>
+        </li>
         <li>schwyzeroergelervomfoehrewaeldli.ch (music group)</li>
         <li>childoftheearthart.com (Phaael)</li>
         <li>altwiki.net</li>
-        <li>update* functions in Shiny use JS</li>
       </ol>
-    </div>
+    </section>
   );
 }
 
