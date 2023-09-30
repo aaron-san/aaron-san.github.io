@@ -54,7 +54,11 @@ const Project = () => {
               className="flex"
             >
               <a href={proj.href} target="_blank" rel="noreferrer">
-                <img src={proj.img_src} alt={proj.alt} className="w-[200px]" />
+                <img
+                  src={proj.img_src}
+                  alt={proj.alt}
+                  className="w-[200px] shadow-sm"
+                />
               </a>
             </motion.div>
             <div className="max-w-[90%] sm:max-w-[70%]">
@@ -66,7 +70,7 @@ const Project = () => {
               <div className="text-slate-500 text-center sm:text-start">
                 {proj.subtitle}
               </div>
-              <p className="mb-3">{proj.descr}</p>
+              <p className="hidden sm:block mb-3">{proj.descr}</p>
               <div className="flex gap-4 justify-center sm:justify-start mb-20">
                 <img
                   src="./images/icons/javascript.png"
