@@ -40,8 +40,12 @@ div.desc {
 
 #banner {
   background-color: #837960;
-  background-image: linear-gradient(to bottom, white, #59471b),
-    url("/public/images/texas-national-park.jpg");
+  background-image: linear-gradient(
+    to bottom,
+    white,
+    #59471b,
+    url("/public/images/texas-national-park.jpg")
+  );
   background-repeat: no-repeat;
 }
 
