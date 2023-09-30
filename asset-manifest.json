@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.590020e9.css",
-    "main.js": "/static/js/main.193f52a0.js",
+    "main.css": "/static/css/main.b13326e1.css",
+    "main.js": "/static/js/main.51b732c0.js",
     "static/media/PoorStory-Regular.ttf": "/static/media/PoorStory-Regular.bec8ef9a74351552c94e.ttf",
     "static/media/Atma-Light.ttf": "/static/media/Atma-Light.5ec957711b5cf9324092.ttf",
     "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/FingerPaint-Regular.ttf": "/static/media/FingerPaint-Regular.3c3a9cdbff527a1cdb37.ttf",
+    "static/media/texas-national-park.jpg": "/static/media/texas-national-park.0c0ff27018440588a947.jpg",
     "static/media/PermanentMarker-Regular.ttf": "/static/media/PermanentMarker-Regular.109a10dca0508e41aa12.ttf",
     "static/media/Flamenco-Regular.ttf": "/static/media/Flamenco-Regular.beecf6cbc9b4f478ab15.ttf",
     "index.html": "/index.html",
-    "main.590020e9.css.map": "/static/css/main.590020e9.css.map",
-    "main.193f52a0.js.map": "/static/js/main.193f52a0.js.map"
+    "main.b13326e1.css.map": "/static/css/main.b13326e1.css.map",
+    "main.51b732c0.js.map": "/static/js/main.51b732c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.590020e9.css",
-    "static/js/main.193f52a0.js"
+    "static/css/main.b13326e1.css",
+    "static/js/main.51b732c0.js"
   ]
 }
