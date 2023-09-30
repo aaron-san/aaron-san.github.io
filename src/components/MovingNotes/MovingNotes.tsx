@@ -22,7 +22,7 @@ function MovingNotes() {
 
   return (
     <div className="max-w-4xl mx-auto shadow-md p-4">
-      <div id="banner"></div>
+      <div id="banner" className="h-10 w-full"></div>
       <h2>Moving Notes</h2>
       <div className="flex flex-wrap justify-evenly">
         <div className="city-card">

@@ -42,7 +42,7 @@ div.desc {
   background: #eb01a5;
   background-image: url("/public/images/texas-national-park.jpg"); /* fallback */
   background-image: url("/public/images/texas-national-park.jpg"),
-    linear-gradient(to bottom, #eb01a5, transparent);
+    linear-gradient(#eb01a5, transparent);
   /* background-repeat: no-repeat; */
 }
 

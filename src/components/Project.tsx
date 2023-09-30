@@ -2,6 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 
 interface IProjects {
+  id: number;
   title: string;
   subtitle: string;
   alt: string;
@@ -11,6 +12,7 @@ interface IProjects {
 }
 const projects: IProjects[] = [
   {
+    id: 1,
     title: "Spelling Game",
     subtitle: "A typing game for Japanese students learning English",
     alt: "spelling-game",
@@ -20,6 +22,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/spelling-game.png",
   },
   {
+    id: 2,
     title: "Recipe App",
     subtitle: "A recipe app with CRUD functionality.",
     alt: "recipe-app",
@@ -29,6 +32,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/recipe-app.png",
   },
   {
+    id: 3,
     title: "Notepad",
     subtitle: "A note-taking app for the busy person",
     alt: "notepad",
@@ -44,7 +48,10 @@ const Project = () => {
     <section>
       {projects.map((proj) => {
         return (
-          <div className="flex flex-wrap justify-center sm:justify-start gap-2 sm:gap-8">
+          <div
+            key={proj.id}
+            className="flex flex-wrap justify-center sm:justify-start gap-2 sm:gap-8"
+          >
             <motion.div
               whileInView={{ opacity: 1 }}
               // viewport={{ once: true }}
