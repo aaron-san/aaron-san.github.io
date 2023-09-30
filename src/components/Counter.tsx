@@ -17,6 +17,7 @@ function Counter() {
   const [state, dispatch] = useReducer(reducer, initialState);
   return (
     <>
+      <p>This Counter utilizes the useReducer hook.</p>
       <span className="mr-4">Count: {state.count}</span>
       <button
         className="btn btn-primary"

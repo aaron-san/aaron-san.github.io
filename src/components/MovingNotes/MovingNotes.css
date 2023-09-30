@@ -38,6 +38,13 @@ div.desc {
   gap: 2%;
 }
 
+#banner {
+  background-color: #837960;
+  background-image: linear-gradient(to bottom, white, #59471b),
+    url("/public/images/texas-national-park.jpg");
+  background-repeat: no-repeat;
+}
+
 .city-card {
   padding: 12px;
   background: ivory;
@@ -45,16 +52,16 @@ div.desc {
   margin: 10px 5px;
   border-radius: 10px;
   border: 1px solid ivory;
-  width: 45%;
+  /* width: 45%; */
 }
 
-.city-card ul {
+/* .city-card ul {
   padding-left: 10px;
-}
+} */
 
 .city-card ul li {
-  margin-left: 16px;
-  padding-left: 10px;
+  /* margin-left: 16px; */
+  padding-left: 5px;
   list-style-type: "\25A8";
   /* text-align: justify; */
   /* text-justify: ; */
@@ -80,43 +87,43 @@ ul li#con::marker {
   color: red;
 }
 
-@media screen and (max-width: 640px) {
+/* @media screen and (max-width: 640px) {
   .banner img {
     display: none;
   }
 
-  .city-card {
+  /* .city-card {
     margin: 10px 0;
     border-radius: 0px;
     border: 1px solid ivory;
     border: none;
-  }
-}
+  } */
+/* } */
 
-.image-set {
+/* .image-set {
   /* box-shadow: 2px 4px 12px rgba(246, 237, 237, 0.2); */
-  /* border: 2px solid rgb(77, 74, 74); */
-  border-radius: 11px;
-  width: 100%;
-}
+/* border: 2px solid rgb(77, 74, 74); */
+/* border-radius: 11px; */
+/* width: 100%; */
+/* } */
 
-.image-set img {
+/* .image-set img {
   width: 100%;
   height: auto;
   margin: 0 auto;
-}
+} */
 
-.features {
+/* .features {
   display: flex;
   flex-wrap: wrap;
-}
+} */
 
-@media screen and (max-width: 640px) {
+/* @media screen and (max-width: 640px) {
   .city-card {
     width: 100%;
   }
-}
-
+} */
+/* 
 @media screen and (min-width: 641px) and (max-width: 768px) {
   .city-card {
     width: 50%;
@@ -127,4 +134,4 @@ ul li#con::marker {
   .city-card {
     width: 40%;
   }
-}
+} */

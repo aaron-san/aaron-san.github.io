@@ -1,34 +1,38 @@
 import React, { useState } from "react";
-import Card from "../../components/Card";
+
 import Search from "../../components/Search";
-import VSCodeShortcuts from "../../components/VSCodeShortcuts";
-import Goals from "../../components/Goals";
 import Counter from "../../components/Counter";
 import Modal from "../../components/Modal";
+// import { motion } from "framer-motion";
+import SpellingGame from "../../components/projects/SpellingGame";
+import NotePad from "../../components/projects/NotePad";
+import RecipeApp from "../../components/projects/RecipeApp";
+// import SpellingGame from "./  /spelling-game.png";
+
 // import "../../index.css";
 
 const Home = () => {
   const [isOpen, setIsOpen] = useState<boolean>(false);
   return (
-    <section className="max-w-4xl mx-auto p-8 shadow-md">
+    <section className="max-w-[90%] sm:max-w-4xl mx-auto">
       <div>
         <h1>My Projects</h1>
+
+        <SpellingGame />
+        <hr />
+        <NotePad />
+        <hr />
+        <RecipeApp />
+
+        <hr />
+
         <h2>GitHub Pages Hosted</h2>
         <ul className="flex flex-wrap min-w-2xl gap-2">
-          <li className="list-none">
-            {custLink(
-              "https://aaron-san.github.io/spelling-game/",
-              "Spelling Game"
-            )}
-          </li>
           <li className="list-none">
             {custLink(
               "https://aaron-san.github.io/react-notes/",
               "React Notes"
             )}
-          </li>
-          <li className="list-none">
-            {custLink("https://aaron-san.github.io/notepad/", "Notepad")}
           </li>
 
           <li className="list-none">
@@ -38,9 +42,6 @@ const Home = () => {
         <h2>Netlify Hosting</h2>
 
         <ul className="flex flex-wrap min-w-2xl gap-2">
-          <li className="list-none">
-            {custLink("https://recipe-react-app-ad1cc.web.app/", "Recipe App")}
-          </li>
           <li className="list-none">
             {custLink(
               "https://gracious-lovelace-b77c36.netlify.app/",
@@ -84,10 +85,7 @@ const Home = () => {
             Fancy Modal
           </Modal>
         </div>
-        <Card />
         <Search />
-        <VSCodeShortcuts />
-        <Goals />
         <Counter />
       </div>
     </section>

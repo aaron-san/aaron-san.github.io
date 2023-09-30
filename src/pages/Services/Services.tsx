@@ -54,15 +54,15 @@ import MiscNotes from "../../components/MiscNotes";
 
 const Services = () => {
   return (
-    <div className="max-w-4xl">
+    <section className="max-w-4xl mx-auto shadow-md p-6">
       {/* <MiscNotes /> */}
       <h1>Services</h1>
       <ul>
-        <li>- Financial Modeling</li>
-        <li>- Business Valuation</li>
-        <li>- Website Builder</li>
+        <li>Financial Modeling</li>
+        <li>Business Valuation</li>
+        <li>Website Builder</li>
       </ul>
-    </div>
+    </section>
   );
 };
 

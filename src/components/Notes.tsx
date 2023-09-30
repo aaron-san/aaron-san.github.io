@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function NotesPage() {
   return (
-    <div className="max-w-4xl mx-auto shadow-md p-8">
+    <section className="max-w-4xl mx-auto shadow-md p-6">
       <h2>Notes</h2>
       <div className="text-xl">
         <Link to="/notes/misc-notes">Miscellaneous Notes</Link>
@@ -18,7 +18,10 @@ function NotesPage() {
       <div className="text-xl">
         <Link to="/notes/immigration-notes">Immigration Notes</Link>
       </div>
-    </div>
+      <div className="text-xl">
+        <Link to="/notes/react-notes">React Notes</Link>
+      </div>
+    </section>
   );
 }
 

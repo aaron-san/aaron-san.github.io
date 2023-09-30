@@ -21,16 +21,14 @@ function MovingNotes() {
   };
 
   return (
-    <div className="max-w-4xl mx-auto shadow-md">
-      <div className="banner">
-        <img src="../images/texas-national-park.jpg" alt="Dallas skyline" />
-      </div>
+    <div className="max-w-4xl mx-auto shadow-md p-4">
+      <div id="banner"></div>
       <h2>Moving Notes</h2>
       <div className="flex flex-wrap justify-evenly">
         <div className="city-card">
           <ImageCard src="texas-map.jpg" alt="Map of Texas" />
           <h3>Texas</h3>
-          <ul className="features">
+          <ul className="features flex flex-wrap gap-x-3">
             <li id="pro">Warm Weather</li>
             <li id="pro">Lower taxes</li>
             <li id="pro">Food paradise</li>

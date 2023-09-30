@@ -12,7 +12,8 @@ import Notes from "./components/Notes";
 import MovingNotes from "./components/MovingNotes/MovingNotes";
 import Login from "./pages/Login";
 import InvestingNotes from "./components/InvestingNotes";
-import ImmigrationNotes from "./components/ImmigrationNotes/ImmigrationNotes";
+import ImmigrationNotes from "./components/ImmigrationNotes";
+import ReactNotes from "./components/ReactNotes";
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
         <Route path="/notes/misc-notes" element={<MiscNotes />} />
         <Route path="/notes/moving-notes" element={<MovingNotes />} />
         <Route path="/notes/immigration-notes" element={<ImmigrationNotes />} />
+        <Route path="/notes/react-notes" element={<ReactNotes />} />
 
         <Route path="/notes/investing-notes" element={<InvestingNotes />} />
       </Routes>

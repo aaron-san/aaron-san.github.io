@@ -2,7 +2,7 @@ import React from "react";
 
 function InvestingNotes() {
   return (
-    <div className="max-w-4xl text-dark m-1 p-1">
+    <section className="max-w-4xl text-dark m-6 p-6 mx-auto">
       <h3>Investing Notes</h3>
       <ol>
         <li>It is the goods and services that matters, not the money flow.</li>
@@ -57,7 +57,7 @@ function InvestingNotes() {
           </li>
         </ol>
       </ol>
-    </div>
+    </section>
   );
 }
 
