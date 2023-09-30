@@ -16,25 +16,24 @@
 /* display: block;
   justify-content: flex-end;
 } */
-*/ nav ul {
+/* * nav ul {
   display: flex;
   justify-content: flex-end;
   list-style-type: none;
   /* overflow: hidden; */
-  width: 100%;
-  /* margin-right: 20px; */
-  align-items: right;
-}
+/* width: 100%; */
+/* margin-right: 20px; */
+/* align-items: right; */
+/* } */
+/* nav ul li p { */
+/* display: inline; */
+/* } */
 
-nav ul li p {
-  display: inline;
-}
-
-nav ul li {
-  /* margin: 0 20px; */
-  padding: 0;
-}
-
+/* nav ul li { */
+/* margin: 0 20px; */
+/* padding: 0; */
+/* } */
+/*  */
 nav ul li a {
   /* line-height: 60px; */
   margin: 4px;
