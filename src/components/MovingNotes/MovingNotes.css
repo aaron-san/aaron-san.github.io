@@ -39,14 +39,11 @@ div.desc {
 }
 
 #banner {
-  background-color: #837960;
-  background-image: linear-gradient(
-    to bottom,
-    white,
-    #59471b,
-    url("/public/images/texas-national-park.jpg")
-  );
-  background-repeat: no-repeat;
+  background: #eb01a5;
+  background-image: url("/public/images/texas-national-park.jpg"); /* fallback */
+  background-image: url("/public/images/texas-national-park.jpg"),
+    linear-gradient(to bottom, #eb01a5, transparent);
+  /* background-repeat: no-repeat; */
 }
 
 .city-card {

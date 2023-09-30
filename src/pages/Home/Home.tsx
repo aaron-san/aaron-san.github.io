@@ -4,9 +4,10 @@ import Search from "../../components/Search";
 import Counter from "../../components/Counter";
 import Modal from "../../components/Modal";
 // import { motion } from "framer-motion";
-import SpellingGame from "../../components/projects/SpellingGame";
-import NotePad from "../../components/projects/NotePad";
-import RecipeApp from "../../components/projects/RecipeApp";
+import Project from "../../components/Project";
+// import SpellingGame from "../../components/projects/SpellingGame";
+// import NotePad from "../../components/projects/NotePad";
+// import RecipeApp from "../../components/projects/RecipeApp";
 // import SpellingGame from "./  /spelling-game.png";
 
 // import "../../index.css";
@@ -18,13 +19,14 @@ const Home = () => {
       <div>
         <h1>My Projects</h1>
 
-        <SpellingGame />
+        <Project />
+        {/* <SpellingGame /> */}
         <hr />
-        <NotePad />
-        <hr />
-        <RecipeApp />
+        {/* <NotePad /> */}
+        {/* <hr /> */}
+        {/* <RecipeApp /> */}
 
-        <hr />
+        {/* <hr /> */}
 
         <h2>GitHub Pages Hosted</h2>
         <ul className="flex flex-wrap min-w-2xl gap-2">
