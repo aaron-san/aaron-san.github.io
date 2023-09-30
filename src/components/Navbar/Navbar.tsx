@@ -41,7 +41,7 @@ const Navbar = () => {
             <FaBars className="text-white h-6 w-6 mt-1" />
           </div>
           {sideBar && (
-            <div className="sm:hidden bg-slate-700 text-black absolute left-0 top-0 w-[90%] h-screen">
+            <div className="sm:hidden bg-slate-700 text-black absolute left-0 top-0 w-[80%] h-screen">
               <ul
                 className="flex flex-col justify-center items-center list-none text-white gap-4 mt-4"
                 onClick={toggleSidebar}
