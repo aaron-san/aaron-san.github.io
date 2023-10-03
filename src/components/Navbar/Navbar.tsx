@@ -37,11 +37,61 @@ const Navbar = () => {
         </motion.div>
 
         <nav className="max-w-[50%] flex flex-wrap">
-          <div className="sm:hidden" onClick={toggleSidebar}>
-            <FaBars className="text-white h-6 w-6 mt-1" />
+          <div className="" onClick={toggleSidebar}>
+            <FaBars className="text-white h-6 w-6 mt-1 cursor-pointer" />
           </div>
+          {/* <ul
+            className="hidden sm:flex flex-col flex-nowrap justify-center items-center list-none text-white gap-4 mt-4"
+            onClick={toggleSidebar}
+          >
+            <li className="uppercase hover:underline">
+              <NavLink to="/notes" className="flex items-baseline">
+                <FaStickyNote style={{ color: "#B5B9FF" }} />
+                <p className={`${sideBar ? "inline" : "hidden"} sm:inline`}>
+                  Notes
+                </p>
+              </NavLink>
+            </li>
+            <li className="uppercase hover:underline">
+              <NavLink to="/about" className="flex items-baseline">
+                <FaUserTie style={{ color: "palegreen" }} />
+                <p className={`${sideBar ? "inline" : "hidden"} sm:inline`}>
+                  About
+                </p>
+              </NavLink>
+            </li>
+            <li className="uppercase hover:underline">
+              <NavLink to="/services" className="flex items-baseline">
+                <IoIosApps style={{ color: "peachpuff" }} />
+                <p className={`${sideBar ? "inline" : "hidden"} sm:inline`}>
+                  Services
+                </p>
+              </NavLink>
+            </li>
+            <li className="uppercase hover:underline">
+              <NavLink to="/contact" className="flex items-baseline">
+                <MdContactMail style={{ color: "palegreen" }} />
+                <p className={`${sideBar ? "inline" : "hidden"} sm:inline`}>
+                  Contact
+                </p>
+              </NavLink>
+            </li>
+            <li>
+              <NavLink to="/login" className="uppercase flex items-baseline">
+                <p className="border border-white rounded-md px-1 hover:bg-slate-600">
+                  Log in
+                </p>
+              </NavLink>
+            </li>
+          </ul> */}
           {sideBar && (
-            <div className="sm:hidden bg-slate-700 text-black absolute left-0 top-0 w-[80%] h-screen">
+            <div className=" bg-slate-700 text-black absolute left-0 top-0 w-screen h-screen">
+              <div
+                onClick={() => setSideBar(false)}
+                className="text-white font-extrabold mt-4 cursor-pointer mb-4 text-center"
+              >
+                X
+              </div>
               <ul
                 className="flex flex-col justify-center items-center list-none text-white gap-4 mt-4"
                 onClick={toggleSidebar}

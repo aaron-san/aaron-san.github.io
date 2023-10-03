@@ -6,6 +6,9 @@ function NotesPage() {
     <section className="max-w-4xl mx-auto shadow-md p-6">
       <h2>Notes</h2>
       <div className="text-xl">
+        <Link to="/notes/winter-2023-trip">Winter 2023 Notes</Link>
+      </div>
+      <div className="text-xl">
         <Link to="/notes/misc-notes">Miscellaneous Notes</Link>
       </div>
 

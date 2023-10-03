@@ -14,6 +14,7 @@ import Login from "./pages/Login";
 import InvestingNotes from "./components/InvestingNotes";
 import ImmigrationNotes from "./components/ImmigrationNotes";
 import ReactNotes from "./components/ReactNotes";
+import Winter2023Trip from "./components/Winter2023Trip";
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
         <Route path="/notes/moving-notes" element={<MovingNotes />} />
         <Route path="/notes/immigration-notes" element={<ImmigrationNotes />} />
         <Route path="/notes/react-notes" element={<ReactNotes />} />
+        <Route path="/notes/winter-2023-trip" element={<Winter2023Trip />} />
 
         <Route path="/notes/investing-notes" element={<InvestingNotes />} />
       </Routes>
