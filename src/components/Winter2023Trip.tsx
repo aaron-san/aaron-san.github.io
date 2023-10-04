@@ -7,6 +7,12 @@ const Winter2023Trip = () => {
       <ul>
         <li>Dec. 21 - Leave Japan 9:30pm </li>
         <li>Dec. 21 - Arrive Arizona 8:15pm </li>
+        <li>Dec. 25 - Hotel check-in: Hilton Garden Inn (check-in: 4:00 pm)</li>
+
+        <li>
+          Dec. 28 - Hotel check-out: Hilton Garden Inn (checkout: 11:00 am)
+        </li>
+
         <li>Jan. 1 - Stay at hotel for 3-4 days</li>
 
         <li>Jan. 10 - Leave Arizona 7:00am</li>

@@ -41,6 +41,17 @@ const projects: IProjects[] = [
     href: "https://aaron-san.github.io/notepad/",
     img_src: "./images/projects/notepad.png",
   },
+  {
+    id: 4,
+    title: "CFA Notes",
+    subtitle:
+      "A collection of financial information related to current and past CFA curriculum",
+    alt: "cfa-notes",
+    descr:
+      "This project utilizes Node, Express and EJS. It's hosted on GitHub and deployed with Heroku.",
+    href: "https://cfa-notes-587b0c5e83c0.herokuapp.com/",
+    img_src: "./images/projects/cfa-notes.png",
+  },
 ];
 
 const Project = () => {
