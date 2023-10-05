@@ -66,9 +66,9 @@ const Project = () => {
             <motion.div
               whileInView={{ opacity: 1 }}
               // viewport={{ once: true }}
-              initial={{ opacity: 0, x: "-50%" }}
+              initial={{ opacity: 0, x: "-30%" }}
               animate={{ opacity: 1, x: "0" }}
-              transition={{ duration: 2 }}
+              transition={{ duration: 3 }}
               className="flex"
             >
               <a href={proj.href} target="_blank" rel="noreferrer">
