@@ -52,6 +52,15 @@ const projects: IProjects[] = [
     href: "https://cfa-notes-587b0c5e83c0.herokuapp.com/",
     img_src: "./images/projects/cfa-notes.png",
   },
+  {
+    id: 5,
+    title: "Red News",
+    subtitle: "A collection of daily news from select sources.",
+    alt: "red-news",
+    descr: "This project utilizes Next js. It's hosted on Vercel.",
+    href: "https://red-news.vercel.app/",
+    img_src: "./images/projects/red-news.png",
+  },
 ];
 
 const Project = () => {

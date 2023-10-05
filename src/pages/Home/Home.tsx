@@ -50,12 +50,6 @@ const Home = () => {
               "Notepad (model only, Netlify hosted)"
             )}
           </li>
-          <li className="list-none">
-            {custLink(
-              "https://fincoder-blog.netlify.app/",
-              "FinCoder Blog (Latex not working, Netlify hosted)"
-            )}
-          </li>
         </ul>
         <h2>Other Hosting</h2>
 
@@ -66,9 +60,7 @@ const Home = () => {
               "Streamlit Stock Dashboard"
             )}
           </li>
-          <li>
-            {custLink("https://recipe-react-app-ad1cc.web.app/", "Recipe App")}
-          </li>
+
           <li>
             {custLink(
               "https://red-news.vercel.app/",
