@@ -31,13 +31,6 @@ const Home = () => {
         <h2>GitHub Pages Hosted</h2>
         <ul className="flex flex-wrap min-w-2xl gap-2">
           <li className="list-none">
-            {custLink(
-              "https://aaron-san.github.io/react-notes/",
-              "React Notes"
-            )}
-          </li>
-
-          <li className="list-none">
             {custLink("https://aaron-san.github.io/dice/", "Dice Roller")}
           </li>
         </ul>
@@ -58,13 +51,6 @@ const Home = () => {
             {custLink(
               "https://aaron-san-stock-dashboard-main-i9lvpp.streamlit.app/",
               "Streamlit Stock Dashboard"
-            )}
-          </li>
-
-          <li>
-            {custLink(
-              "https://red-news.vercel.app/",
-              "Red News (Vercel hosting)"
             )}
           </li>
         </ul>

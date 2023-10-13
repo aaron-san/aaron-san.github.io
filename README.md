@@ -39,3 +39,9 @@ git push origin main
 - Small: 640px
 
 - Medium: 1007px
+
+## Delete node_modules folder
+
+```bash
+rimraf --glob node_modules
+```

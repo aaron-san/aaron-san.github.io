@@ -61,6 +61,15 @@ const projects: IProjects[] = [
     href: "https://red-news.vercel.app/",
     img_src: "./images/projects/red-news.png",
   },
+  {
+    id: 6,
+    title: "React Notes",
+    subtitle: "A collection of notes about React JS.",
+    alt: "react-notes",
+    descr: "This project utilizes React js. It's hosted on GitHub Pages.",
+    href: "https://aaron-san.github.io/react-notes/",
+    img_src: "./images/projects/react-notes.png",
+  },
 ];
 
 const Project = () => {
@@ -73,12 +82,13 @@ const Project = () => {
             className="flex flex-wrap justify-center sm:justify-start gap-2 sm:gap-8"
           >
             <motion.div
-              whileInView={{ opacity: 1 }}
-              // viewport={{ once: true }}
-              initial={{ opacity: 0, x: "-30%" }}
-              animate={{ opacity: 1, x: "0" }}
-              transition={{ duration: 3 }}
-              className="flex"
+              initial="hidden"
+              whileInView="visible"
+              viewport={{ once: true }}
+              //   initial={{ opacity: 0, x: "-30%" }}
+              //   animate={{ opacity: 1, x: "0" }}
+              //   transition={{ duration: 3 }}
+              //   className="flex"
             >
               <a href={proj.href} target="_blank" rel="noreferrer">
                 <img
