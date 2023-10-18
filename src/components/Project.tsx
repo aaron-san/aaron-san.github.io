@@ -70,6 +70,16 @@ const projects: IProjects[] = [
     href: "https://aaron-san.github.io/react-notes/",
     img_src: "./images/projects/react-notes.png",
   },
+  {
+    id: 7,
+    title: "Dice Roller",
+    subtitle: "A dice rolling app for games and just pure fun.",
+    alt: "dice-roller",
+    descr:
+      "This project utilizes vanilla JavaScript. It's hosted on GitHub Pages.",
+    href: "https://aaron-san.github.io/dice/",
+    img_src: "./images/projects/dice-roller.png",
+  },
 ];
 
 const Project = () => {
@@ -79,7 +89,7 @@ const Project = () => {
         return (
           <div
             key={proj.id}
-            className="flex flex-wrap justify-center sm:justify-start gap-2 sm:gap-8"
+            className="flex flex-wrap justify-center gap-2 mb-16 sm:justify-start sm:gap-8"
           >
             <motion.div
               initial="hidden"
@@ -94,21 +104,21 @@ const Project = () => {
                 <img
                   src={proj.img_src}
                   alt={proj.alt}
-                  className="w-[200px] shadow-sm"
+                  className="w-[200px] shadow-lg"
                 />
               </a>
             </motion.div>
             <div className="max-w-[90%] sm:max-w-[70%]">
               <a href={proj.href} target="_blank" rel="noreferrer">
-                <h2 className="text-slate-700 hover:text-cyan-700 text-center sm:text-start mb-1">
+                <h2 className="mb-1 text-center text-slate-700 hover:text-cyan-700 sm:text-start">
                   {proj.title}
                 </h2>
               </a>
-              <div className="text-slate-500 text-center sm:text-start">
+              <div className="text-center text-slate-500 sm:text-start">
                 {proj.subtitle}
               </div>
-              <p className="hidden sm:block mb-3">{proj.descr}</p>
-              <div className="flex gap-4 justify-center sm:justify-start mb-20">
+              <p className="hidden mb-3 sm:block">{proj.descr}</p>
+              <div className="flex justify-center gap-4 mb-8 sm:justify-start">
                 <img
                   src="./images/icons/javascript.png"
                   alt="javascript-icon"
@@ -126,6 +136,7 @@ const Project = () => {
                 />
               </div>
             </div>
+            <div className="w-[100%] h-[1px] bg-gradient-to-r from-transparent via-slate-400 to-transparent"></div>
           </div>
         );
       })}

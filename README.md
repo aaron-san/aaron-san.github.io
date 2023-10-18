@@ -11,7 +11,7 @@ git push
 npm run deploy
 ```
 
-## Setup
+## ⚙️ Initial Setup
 
 **Starting in parent directory:**
 
@@ -32,15 +32,13 @@ git commit -m "first commit"
 git push origin main
 ```
 
-## Learn More
-
 ### Screen Size Breakpoints:
 
 - Small: 640px
 
 - Medium: 1007px
 
-## Delete node_modules folder
+## ❌ Delete node_modules folder
 
 ```bash
 rimraf --glob node_modules

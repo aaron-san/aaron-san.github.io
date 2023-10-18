@@ -2,6 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url("https://fonts.googleapis.com/css2?family=Bitter:wght@300&family=Roboto+Slab:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&display=swap");
+
+#site-logo {
+  font-family: "PT Serif", serif;
+}
+
+#home-title {
+  /* font-family: "Bitter", serif; */
+  font-family: "Roboto Slab", serif;
+}
 #root {
   --bg_color: rgb(210, 210, 210);
   --main_font: rgb(65, 65, 65);

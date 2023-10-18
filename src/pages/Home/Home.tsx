@@ -16,8 +16,13 @@ const Home = () => {
   const [isOpen, setIsOpen] = useState<boolean>(false);
   return (
     <section className="max-w-[90%] sm:max-w-4xl mx-auto">
-      <div>
-        <h1>My Projects</h1>
+      <div className="mt-16">
+        <div className="w-[50%] mx-auto text-slate-600 mb-16">
+          <h1 id="home-title" className="text-3xl text-center">
+            My Projects
+          </h1>
+          <div className="w-[100%] h-[1px] bg-gradient-to-r from-transparent via-slate-400 to-transparent"></div>
+        </div>
 
         <Project />
         {/* <SpellingGame /> */}
@@ -28,15 +33,7 @@ const Home = () => {
 
         {/* <hr /> */}
 
-        <h2>GitHub Pages Hosted</h2>
-        <ul className="flex flex-wrap min-w-2xl gap-2">
-          <li className="list-none">
-            {custLink("https://aaron-san.github.io/dice/", "Dice Roller")}
-          </li>
-        </ul>
-        <h2>Netlify Hosting</h2>
-
-        <ul className="flex flex-wrap min-w-2xl gap-2">
+        {/* <ul className="flex flex-wrap gap-2 min-w-2xl">
           <li className="list-none">
             {custLink(
               "https://gracious-lovelace-b77c36.netlify.app/",
@@ -46,16 +43,16 @@ const Home = () => {
         </ul>
         <h2>Other Hosting</h2>
 
-        <ul className="flex flex-wrap min-w-2xl gap-2 list-none">
+        <ul className="flex flex-wrap gap-2 list-none min-w-2xl">
           <li>
             {custLink(
               "https://aaron-san-stock-dashboard-main-i9lvpp.streamlit.app/",
               "Streamlit Stock Dashboard"
             )}
           </li>
-        </ul>
+        </ul> */}
 
-        <hr />
+        {/* <hr />
         <div
           className="button_wrapper_styles"
           onClick={() => console.log("clicked")}
@@ -65,23 +62,10 @@ const Home = () => {
             Fancy Modal
           </Modal>
         </div>
-        <Search />
-        <Counter />
+        <Search /> */}
+        {/* <Counter /> */}
       </div>
     </section>
-  );
-};
-
-const custLink = (url: string, name: string) => {
-  return (
-    <a
-      className="app-link border border-white text-white bg-gradient-to-r from-teal-500 to-teal-400 hover:bg-blue active:translate-y-6 px-4 py-2 rounded-md shadow-md"
-      target="_blank"
-      rel="noreferrer"
-      href={url}
-    >
-      {name}
-    </a>
   );
 };
 

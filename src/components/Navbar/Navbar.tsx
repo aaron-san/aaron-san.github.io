@@ -18,7 +18,7 @@ const Navbar = () => {
   };
 
   return (
-    <header className="sticky top-0 z-10 bg-gradient-to-br from-stone-800 to-stone-500 flex p-2">
+    <header className="sticky top-0 z-10 flex p-3 bg-gradient-to-br from-stone-800 to-stone-500">
       <div className="flex justify-between w-[1000px] mx-auto px-2 md:px-4">
         <motion.div
           initial={{ opacity: 0, scale: 0.5 }}
@@ -27,21 +27,22 @@ const Navbar = () => {
           className="flex"
         >
           <NavLink
-            className="w-content text-2xl bg-gradient-to-r from-orange-500 to-yellow-500 text-transparent bg-clip-text "
+            id="site-logo"
+            className="text-3xl text-transparent w-content bg-gradient-to-r from-slate-200 via-slate-100 to-slate-200 bg-clip-text "
             to="/"
           >
             Aaron Hardy
           </NavLink>
 
-          <div className="absolute md:left-[280px] top-[45px] z-400 w-[165px] h-[1px] bg-gradient-to-r from-cyan-500 to-cyan-300"></div>
+          <div className="absolute md:left-[275px] top-[55px] z-400 w-[165px] h-[2px] bg-gradient-to-r from-transparent via-cyan-500 to-transparent"></div>
         </motion.div>
 
         <nav className="max-w-[50%] flex flex-wrap">
           <div className="" onClick={toggleSidebar}>
-            <FaBars className="text-white h-6 w-6 mt-1 cursor-pointer" />
+            <FaBars className="z-50 w-6 h-6 mt-1 text-white cursor-pointer" />
           </div>
           {/* <ul
-            className="hidden sm:flex flex-col flex-nowrap justify-center items-center list-none text-white gap-4 mt-4"
+            className="flex-col items-center justify-center hidden gap-4 mt-4 text-white list-none sm:flex flex-nowrap"
             onClick={toggleSidebar}
           >
             <li className="uppercase hover:underline">
@@ -77,23 +78,23 @@ const Navbar = () => {
               </NavLink>
             </li>
             <li>
-              <NavLink to="/login" className="uppercase flex items-baseline">
-                <p className="border border-white rounded-md px-1 hover:bg-slate-600">
+              <NavLink to="/login" className="flex items-baseline uppercase">
+                <p className="px-1 border border-white rounded-md hover:bg-slate-600">
                   Log in
                 </p>
               </NavLink>
             </li>
           </ul> */}
           {sideBar && (
-            <div className=" bg-slate-700 text-black absolute left-0 top-0 w-screen h-screen">
+            <div className="absolute top-0 left-0 w-screen h-screen text-black bg-slate-700">
               <div
                 onClick={() => setSideBar(false)}
-                className="text-white font-extrabold mt-4 cursor-pointer mb-4 text-center"
+                className="mt-4 mb-4 font-extrabold text-center text-white cursor-pointer"
               >
                 X
               </div>
               <ul
-                className="flex flex-col justify-center items-center list-none text-white gap-4 mt-4"
+                className="flex flex-col items-center justify-center gap-4 mt-4 text-white list-none"
                 onClick={toggleSidebar}
               >
                 <li className="uppercase hover:underline">
@@ -131,9 +132,9 @@ const Navbar = () => {
                 <li>
                   <NavLink
                     to="/login"
-                    className="uppercase flex items-baseline"
+                    className="flex items-baseline uppercase"
                   >
-                    <p className="border border-white rounded-md px-1 hover:bg-slate-600">
+                    <p className="px-1 border border-white rounded-md hover:bg-slate-600">
                       Log in
                     </p>
                   </NavLink>
