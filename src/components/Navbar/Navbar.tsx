@@ -11,10 +11,10 @@ import { motion } from "framer-motion";
 import { FaBars } from "react-icons/fa";
 
 const Navbar = () => {
-  const [sideBar, setSideBar] = useState(false);
+  const [showSideBar, setShowSideBar] = useState<boolean>(false);
 
   const toggleSidebar = () => {
-    setSideBar(!sideBar);
+    setShowSideBar(!showSideBar);
   };
 
   return (
@@ -85,10 +85,10 @@ const Navbar = () => {
               </NavLink>
             </li>
           </ul> */}
-          {sideBar && (
+          {showSideBar && (
             <div className="absolute top-0 left-0 w-screen h-screen text-black bg-slate-700">
               <div
-                onClick={() => setSideBar(false)}
+                onClick={() => setShowSideBar(false)}
                 className="mt-4 mb-4 font-extrabold text-center text-white cursor-pointer"
               >
                 X
@@ -100,7 +100,11 @@ const Navbar = () => {
                 <li className="uppercase hover:underline">
                   <NavLink to="/notes" className="flex items-baseline">
                     <FaStickyNote style={{ color: "#B5B9FF" }} />
-                    <p className={`${sideBar ? "inline" : "hidden"} sm:inline`}>
+                    <p
+                      className={`${
+                        showSideBar ? "inline" : "hidden"
+                      } sm:inline`}
+                    >
                       Notes
                     </p>
                   </NavLink>
@@ -108,7 +112,11 @@ const Navbar = () => {
                 <li className="uppercase hover:underline">
                   <NavLink to="/about" className="flex items-baseline">
                     <FaUserTie style={{ color: "palegreen" }} />
-                    <p className={`${sideBar ? "inline" : "hidden"} sm:inline`}>
+                    <p
+                      className={`${
+                        showSideBar ? "inline" : "hidden"
+                      } sm:inline`}
+                    >
                       About
                     </p>
                   </NavLink>
@@ -116,7 +124,11 @@ const Navbar = () => {
                 <li className="uppercase hover:underline">
                   <NavLink to="/services" className="flex items-baseline">
                     <IoIosApps style={{ color: "peachpuff" }} />
-                    <p className={`${sideBar ? "inline" : "hidden"} sm:inline`}>
+                    <p
+                      className={`${
+                        showSideBar ? "inline" : "hidden"
+                      } sm:inline`}
+                    >
                       Services
                     </p>
                   </NavLink>
@@ -124,7 +136,11 @@ const Navbar = () => {
                 <li className="uppercase hover:underline">
                   <NavLink to="/contact" className="flex items-baseline">
                     <MdContactMail style={{ color: "palegreen" }} />
-                    <p className={`${sideBar ? "inline" : "hidden"} sm:inline`}>
+                    <p
+                      className={`${
+                        showSideBar ? "inline" : "hidden"
+                      } sm:inline`}
+                    >
                       Contact
                     </p>
                   </NavLink>
@@ -134,7 +150,7 @@ const Navbar = () => {
                     to="/login"
                     className="flex items-baseline uppercase"
                   >
-                    <p className="px-1 border border-white rounded-md hover:bg-slate-600">
+                    <p className="mx-auto w-[200px] border border-white rounded-md hover:bg-slate-600">
                       Log in
                     </p>
                   </NavLink>

@@ -13,6 +13,15 @@ interface IProjects {
 const projects: IProjects[] = [
   {
     id: 1,
+    title: "My Blog",
+    subtitle: "A blog of Aaron's family adventures",
+    alt: "Aaron's blog",
+    descr: "This project utilizes Next JS. It's hosted on Netlify.",
+    href: "https://chic-kelpie-0af57a.netlify.app/",
+    img_src: "./images/projects/my-blog.png",
+  },
+  {
+    id: 2,
     title: "Spelling Game",
     subtitle: "A typing game for Japanese students learning English",
     alt: "spelling-game",
@@ -22,7 +31,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/spelling-game.png",
   },
   {
-    id: 2,
+    id: 3,
     title: "Recipe App",
     subtitle: "A recipe app with CRUD functionality.",
     alt: "recipe-app",
@@ -32,7 +41,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/recipe-app.png",
   },
   {
-    id: 3,
+    id: 4,
     title: "Notepad",
     subtitle: "A note-taking app for the busy person",
     alt: "notepad",
@@ -42,7 +51,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/notepad.png",
   },
   {
-    id: 4,
+    id: 5,
     title: "CFA Notes",
     subtitle:
       "A collection of financial information related to current and past CFA curriculum",
@@ -53,7 +62,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/cfa-notes.png",
   },
   {
-    id: 5,
+    id: 6,
     title: "Red News",
     subtitle: "A collection of daily news from select sources.",
     alt: "red-news",
@@ -62,7 +71,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/red-news.png",
   },
   {
-    id: 6,
+    id: 7,
     title: "React Notes",
     subtitle: "A collection of notes about React JS.",
     alt: "react-notes",
@@ -71,7 +80,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/react-notes.png",
   },
   {
-    id: 7,
+    id: 8,
     title: "Dice Roller",
     subtitle: "A dice rolling app for games and just pure fun.",
     alt: "dice-roller",
