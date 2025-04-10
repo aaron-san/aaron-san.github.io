@@ -13,6 +13,16 @@ interface IProjects {
 const projects: IProjects[] = [
   {
     id: 1,
+    title: "Word App",
+    subtitle: "An app to search to search for words and their definitions",
+    alt: "Word App",
+    descr:
+      "This project utilizes Typescript, React and Vite. It's hosted on Github Pages.",
+    href: "https://aaron-san.github.io/word-app/",
+    img_src: "./images/projects/word-app.png",
+  },
+  {
+    id: 2,
     title: "My Blog",
     subtitle: "A blog of Aaron's family adventures",
     alt: "Aaron's blog",
@@ -21,7 +31,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/my-blog.png",
   },
   {
-    id: 2,
+    id: 3,
     title: "Spelling Game",
     subtitle: "A typing game for Japanese students learning English",
     alt: "spelling-game",
@@ -31,7 +41,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/spelling-game.png",
   },
   {
-    id: 3,
+    id: 4,
     title: "Recipe App",
     subtitle: "A recipe app with CRUD functionality.",
     alt: "recipe-app",
@@ -41,7 +51,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/recipe-app.png",
   },
   {
-    id: 4,
+    id: 5,
     title: "Notepad",
     subtitle: "A note-taking app for the busy person",
     alt: "notepad",
@@ -51,7 +61,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/notepad.png",
   },
   {
-    id: 5,
+    id: 6,
     title: "CFA Notes",
     subtitle:
       "A collection of financial information related to current and past CFA curriculum",
@@ -62,7 +72,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/cfa-notes.png",
   },
   {
-    id: 6,
+    id: 7,
     title: "Red News",
     subtitle: "A collection of daily news from select sources.",
     alt: "red-news",
@@ -71,7 +81,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/red-news.png",
   },
   {
-    id: 7,
+    id: 8,
     title: "React Notes",
     subtitle: "A collection of notes about React JS.",
     alt: "react-notes",
@@ -80,7 +90,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/react-notes.png",
   },
   {
-    id: 8,
+    id: 9,
     title: "Dice Roller",
     subtitle: "A dice rolling app for games and just pure fun.",
     alt: "dice-roller",
@@ -96,9 +106,10 @@ const Project = () => {
     <section>
       {projects.map((proj) => {
         return (
+          <>
           <div
             key={proj.id}
-            className="flex flex-wrap justify-center gap-2 mb-16 sm:justify-start sm:gap-8"
+            className="flex flex-col lg:flex-row mx-auto flex-wrap lg:flex-nowrap gap-2 mb-16 sm:gap-8 lg:justify-center lg:w-fit"
           >
             <motion.div
               initial="hidden"
@@ -107,27 +118,30 @@ const Project = () => {
               //   initial={{ opacity: 0, x: "-30%" }}
               //   animate={{ opacity: 1, x: "0" }}
               //   transition={{ duration: 3 }}
-              //   className="flex"
+              className="mx-auto text-center py-4"
             >
-              <a href={proj.href} target="_blank" rel="noreferrer">
+              <a href={proj.href} target="_blank" rel="noreferrer" className="">
                 <img
                   src={proj.img_src}
                   alt={proj.alt}
-                  className="w-[200px] shadow-lg"
+                  className="max-w-[200px] shadow-lg"
                 />
               </a>
             </motion.div>
-            <div className="max-w-[90%] sm:max-w-[70%]">
-              <a href={proj.href} target="_blank" rel="noreferrer">
-                <h2 className="mb-1 text-center text-slate-700 hover:text-cyan-700 sm:text-start">
+            <div className="mx-auto lg:mx-4 sm:w-[500px] text-center">
+              <a
+                href={proj.href}
+                target="_blank"
+                rel="noreferrer"
+                className="text-center"
+              >
+                <h2 className="mb-1 text-center text-slate-700 hover:text-cyan-700 ">
                   {proj.title}
                 </h2>
               </a>
-              <div className="text-center text-slate-500 sm:text-start">
-                {proj.subtitle}
-              </div>
+              <div className="text-center text-slate-500">{proj.subtitle}</div>
               <p className="hidden mb-3 sm:block">{proj.descr}</p>
-              <div className="flex justify-center gap-4 mb-8 sm:justify-start">
+              <div className="flex justify-center gap-4 mb-8 sm:justify-center">
                 <img
                   src="./images/icons/javascript.png"
                   alt="javascript-icon"
@@ -145,8 +159,9 @@ const Project = () => {
                 />
               </div>
             </div>
-            <div className="w-[100%] h-[1px] bg-gradient-to-r from-transparent via-slate-400 to-transparent"></div>
           </div>
+            <div className="w-[100%] h-[1px] bg-gradient-to-r from-transparent via-slate-400 to-transparent lg:mb-12"></div>
+            </>
         );
       })}
     </section>

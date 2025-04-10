@@ -15,13 +15,13 @@ import Project from "../../components/Project";
 const Home = () => {
   const [isOpen, setIsOpen] = useState<boolean>(false);
   return (
-    <section className="max-w-[90%] sm:max-w-4xl mx-auto">
+    <section className="max-w-[90%] sm:max-w-[95%] mx-auto">
       <div className="mt-16">
         <div className="w-[50%] mx-auto text-slate-600 mb-16">
           <h1 id="home-title" className="text-3xl text-center">
             My Projects
           </h1>
-          <div className="w-[100%] h-[1px] bg-gradient-to-r from-transparent via-slate-400 to-transparent"></div>
+          <div className="w-full h-[1px] bg-gradient-to-r from-transparent via-slate-400 to-transparent"></div>
         </div>
 
         <Project />

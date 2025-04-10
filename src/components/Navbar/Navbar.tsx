@@ -3,7 +3,7 @@ import "./Navbar.css";
 import { NavLink } from "react-router-dom";
 import "../../fonts/PoorStory/PoorStory-Regular.ttf";
 import "../../fonts/Permanent_Marker/PermanentMarker-Regular.ttf";
-import { FaStickyNote, FaUserTie } from "react-icons/fa";
+import { FaHome, FaStickyNote, FaUserTie } from "react-icons/fa";
 // import { FcAbout } from "react-icons/fc";
 import { MdContactMail } from "react-icons/md";
 import { IoIosApps } from "react-icons/io";
@@ -32,9 +32,8 @@ const Navbar = () => {
             to="/"
           >
             Aaron Hardy
+            <div className="w-[165px] h-[2px] bg-gradient-to-r from-transparent via-cyan-500 to-transparent"></div>
           </NavLink>
-
-          <div className="absolute md:left-[275px] top-[55px] z-400 w-[165px] h-[2px] bg-gradient-to-r from-transparent via-cyan-500 to-transparent"></div>
         </motion.div>
 
         <nav className="max-w-[50%] flex flex-wrap">
@@ -87,22 +86,34 @@ const Navbar = () => {
           </ul> */}
           {showSideBar && (
             <div className="absolute top-0 left-0 w-screen h-screen text-black bg-slate-700">
-              <div
-                onClick={() => setShowSideBar(false)}
-                className="mt-4 mb-4 font-extrabold text-center text-white cursor-pointer"
-              >
-                X
-              </div>
               <ul
-                className="flex flex-col items-center justify-center gap-4 mt-4 text-white list-none"
+                className="flex flex-col gap-4 mt-4 text-white list-none w-[160px] mx-auto "
                 onClick={toggleSidebar}
               >
+                <li
+                  onClick={() => setShowSideBar(false)}
+                  className="mt-4 mb-4 text-right text-white text-xl font-sans-serif cursor-pointer"
+                >
+                  X
+                </li>
+                <li className="uppercase hover:underline">
+                  <NavLink to="/" className="flex items-baseline">
+                    <FaHome style={{ color: "#B5B9FF" }} />
+                    <p
+                      className={`${
+                        showSideBar ? "inline text-white" : "hidden"
+                      } sm:inline`}
+                    >
+                      Home
+                    </p>
+                  </NavLink>
+                </li>
                 <li className="uppercase hover:underline">
                   <NavLink to="/notes" className="flex items-baseline">
                     <FaStickyNote style={{ color: "#B5B9FF" }} />
                     <p
                       className={`${
-                        showSideBar ? "inline" : "hidden"
+                        showSideBar ? "inline text-white" : "hidden"
                       } sm:inline`}
                     >
                       Notes
@@ -114,7 +125,7 @@ const Navbar = () => {
                     <FaUserTie style={{ color: "palegreen" }} />
                     <p
                       className={`${
-                        showSideBar ? "inline" : "hidden"
+                        showSideBar ? "inline text-white" : "hidden"
                       } sm:inline`}
                     >
                       About
@@ -126,7 +137,7 @@ const Navbar = () => {
                     <IoIosApps style={{ color: "peachpuff" }} />
                     <p
                       className={`${
-                        showSideBar ? "inline" : "hidden"
+                        showSideBar ? "inline text-white" : "hidden"
                       } sm:inline`}
                     >
                       Services
@@ -138,23 +149,20 @@ const Navbar = () => {
                     <MdContactMail style={{ color: "palegreen" }} />
                     <p
                       className={`${
-                        showSideBar ? "inline" : "hidden"
+                        showSideBar ? "inline text-white" : "hidden"
                       } sm:inline`}
                     >
                       Contact
                     </p>
                   </NavLink>
                 </li>
-                <li>
-                  <NavLink
-                    to="/login"
-                    className="flex items-baseline uppercase"
-                  >
-                    <p className="mx-auto w-[200px] border border-white rounded-md hover:bg-slate-600">
-                      Log in
+                {/* <li>
+                  <NavLink to="/login" className="uppercase">
+                    <p className="py-1 bg-gradient-to-r from-green-300 border-2 border-slate-100 to-slate-100 text-slate-800 text-center rounded-md hover:bg-slate-600">
+                      Login
                     </p>
                   </NavLink>
-                </li>
+                </li> */}
               </ul>
             </div>
           )}
