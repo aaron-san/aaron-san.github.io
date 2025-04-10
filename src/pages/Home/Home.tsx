@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 
-import Search from "../../components/Search";
-import Counter from "../../components/Counter";
-import Modal from "../../components/Modal";
+// import Search from "../../components/Search";
+// import Counter from "../../components/Counter";
+// import Modal from "../../components/Modal";
 // import { motion } from "framer-motion";
 import Project from "../../components/Project";
 // import SpellingGame from "../../components/projects/SpellingGame";
@@ -13,11 +13,33 @@ import Project from "../../components/Project";
 // import "../../index.css";
 
 const Home = () => {
-  const [isOpen, setIsOpen] = useState<boolean>(false);
+  // const [isOpen, setIsOpen] = useState<boolean>(false);
   return (
     <section className="max-w-[90%] sm:max-w-[95%] mx-auto">
       <div className="mt-16">
-        <div className="w-[50%] mx-auto text-slate-600 mb-16">
+        <img
+          src="./images/profile.png"
+          alt="profile picture of Aaron Hardy"
+          className="w-[260px] mx-auto"
+        />
+
+        <div className="max-w-[600px] text-slate-600 mx-auto my-4 text-center">
+          <div className="mx-auto w-fit inline sm:block">
+            Hello! I'm Aaron Hardy and I am a <b>front-end developer</b>.
+          </div>
+          <div className="mx-auto w-fit inline sm:block">
+            I specialize in React and TypeScript and use Tailwind in my
+            projects.
+            <div className="mx-auto w-fit inline sm:block">
+              I have experience in finance and have passed all CFA Exams.
+            </div>
+            <div className="mx-auto w-fit inline sm:block">
+              I enjoy making apps and analyzing data.
+            </div>
+          </div>
+        </div>
+
+        <div className="w-[50%] mx-auto text-slate-600 mb-16 mt-20">
           <h1 id="home-title" className="text-3xl text-center">
             My Projects
           </h1>
