@@ -25,7 +25,7 @@ const Home = () => {
 
         <div className="max-w-[600px] text-slate-600 mx-auto my-4 text-center">
           <div className="mx-auto w-fit inline sm:block">
-            Hello! I'm Aaron Hardy and I am a <b>front-end developer</b>.
+            Hello! I'm Aaron Hardy, a <b>front-end developer</b>.
           </div>
           <div className="mx-auto w-fit inline sm:block">
             I specialize in React and TypeScript and use Tailwind in my

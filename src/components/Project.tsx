@@ -13,6 +13,17 @@ interface IProjects {
 const projects: IProjects[] = [
   {
     id: 1,
+    title: "CFA Notes",
+    subtitle:
+      "A collection of financial information related to current and past CFA curriculum",
+    alt: "cfa-notes",
+    descr:
+      "This project is a static Next js website that utilizes Tailwind CSS.",
+    href: "https://aaron-san.github.io/cfa-notes",
+    img_src: "./images/projects/cfa-notes.png",
+  },
+  {
+    id: 2,
     title: "Word App",
     subtitle: "An app to search to search for words and their definitions",
     alt: "Word App",
@@ -22,7 +33,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/word-app.png",
   },
   {
-    id: 2,
+    id: 3,
     title: "My Blog",
     subtitle: "A blog of Aaron's family adventures",
     alt: "Aaron's blog",
@@ -31,7 +42,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/my-blog.png",
   },
   {
-    id: 3,
+    id: 4,
     title: "Spelling Game",
     subtitle: "A typing game for Japanese students learning English",
     alt: "spelling-game",
@@ -41,7 +52,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/spelling-game.png",
   },
   {
-    id: 4,
+    id: 5,
     title: "Recipe App",
     subtitle: "A recipe app with CRUD functionality.",
     alt: "recipe-app",
@@ -51,7 +62,7 @@ const projects: IProjects[] = [
     img_src: "./images/projects/recipe-app.png",
   },
   {
-    id: 5,
+    id: 6,
     title: "Notepad",
     subtitle: "A note-taking app for the busy person",
     alt: "notepad",
@@ -60,17 +71,7 @@ const projects: IProjects[] = [
     href: "https://aaron-san.github.io/notepad/",
     img_src: "./images/projects/notepad.png",
   },
-  {
-    id: 6,
-    title: "CFA Notes",
-    subtitle:
-      "A collection of financial information related to current and past CFA curriculum",
-    alt: "cfa-notes",
-    descr:
-      "This project utilizes Node, Express and EJS. It's hosted on GitHub and deployed with Heroku.",
-    href: "https://cfa-notes-587b0c5e83c0.herokuapp.com/",
-    img_src: "./images/projects/cfa-notes.png",
-  },
+  
   {
     id: 7,
     title: "Red News",
@@ -109,7 +110,7 @@ const Project = () => {
           <>
           <div
             key={proj.id}
-            className="flex flex-col lg:flex-row mx-auto flex-wrap lg:flex-nowrap gap-2 mb-16 sm:gap-8 lg:justify-center lg:w-fit"
+            className="flex lg:flex-row flex-col flex-wrap lg:flex-nowrap lg:justify-center gap-2 sm:gap-8 mx-auto mb-16 lg:w-fit"
           >
             <motion.div
               initial="hidden"
@@ -118,13 +119,13 @@ const Project = () => {
               //   initial={{ opacity: 0, x: "-30%" }}
               //   animate={{ opacity: 1, x: "0" }}
               //   transition={{ duration: 3 }}
-              className="mx-auto text-center py-4"
+              className="mx-auto py-4 text-center"
             >
               <a href={proj.href} target="_blank" rel="noreferrer" className="">
                 <img
                   src={proj.img_src}
                   alt={proj.alt}
-                  className="max-w-[200px] shadow-lg"
+                  className="shadow-lg max-w-[200px]"
                 />
               </a>
             </motion.div>
@@ -135,13 +136,13 @@ const Project = () => {
                 rel="noreferrer"
                 className="text-center"
               >
-                <h2 className="mb-1 text-center text-slate-700 hover:text-cyan-700 ">
+                <h2 className="mb-1 text-slate-700 hover:text-cyan-700 text-center">
                   {proj.title}
                 </h2>
               </a>
-              <div className="text-center text-slate-500">{proj.subtitle}</div>
-              <p className="hidden mb-3 sm:block">{proj.descr}</p>
-              <div className="flex justify-center gap-4 mb-8 sm:justify-center">
+              <div className="text-slate-500 text-center">{proj.subtitle}</div>
+              <p className="hidden sm:block mb-3">{proj.descr}</p>
+              <div className="flex justify-center sm:justify-center gap-4 mb-8">
                 <img
                   src="./images/icons/javascript.png"
                   alt="javascript-icon"
@@ -160,7 +161,7 @@ const Project = () => {
               </div>
             </div>
           </div>
-            <div className="w-[100%] h-[1px] bg-gradient-to-r from-transparent via-slate-400 to-transparent lg:mb-12"></div>
+            <div className="bg-gradient-to-r from-transparent via-slate-400 to-transparent lg:mb-12 w-[100%] h-[1px]"></div>
             </>
         );
       })}
