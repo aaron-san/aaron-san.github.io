@@ -10,9 +10,16 @@ interface IProjects {
   href: string;
   img_src: string;
 }
-const projects: IProjects[] = [
+const projectList = [
   {
-    id: 1,
+    title: "Investor Dashboard",
+    subtitle: "A dashboard for investors to track their portfolio and news.",
+    alt: "investor-dashboard",
+    descr: "This project is a Next website that utilizes Tailwind CSS.",
+    href: "https://investor-dashboard-lilac.vercel.app/",
+    img_src: "./images/projects/investor-dashboard.png",
+  },
+  {
     title: "CFA Notes",
     subtitle:
       "A collection of financial information related to current and past CFA curriculum",
@@ -23,7 +30,6 @@ const projects: IProjects[] = [
     img_src: "./images/projects/cfa-notes.png",
   },
   {
-    id: 2,
     title: "Word App",
     subtitle: "An app to search to search for words and their definitions",
     alt: "Word App",
@@ -33,7 +39,6 @@ const projects: IProjects[] = [
     img_src: "./images/projects/word-app.png",
   },
   {
-    id: 3,
     title: "My Blog",
     subtitle: "A blog of Aaron's family adventures",
     alt: "Aaron's blog",
@@ -42,7 +47,6 @@ const projects: IProjects[] = [
     img_src: "./images/projects/my-blog.png",
   },
   {
-    id: 4,
     title: "Spelling Game",
     subtitle: "A typing game for Japanese students learning English",
     alt: "spelling-game",
@@ -52,7 +56,6 @@ const projects: IProjects[] = [
     img_src: "./images/projects/spelling-game.png",
   },
   {
-    id: 5,
     title: "Recipe App",
     subtitle: "A recipe app with CRUD functionality.",
     alt: "recipe-app",
@@ -62,7 +65,6 @@ const projects: IProjects[] = [
     img_src: "./images/projects/recipe-app.png",
   },
   {
-    id: 6,
     title: "Notepad",
     subtitle: "A note-taking app for the busy person",
     alt: "notepad",
@@ -71,9 +73,8 @@ const projects: IProjects[] = [
     href: "https://aaron-san.github.io/notepad/",
     img_src: "./images/projects/notepad.png",
   },
-  
+
   {
-    id: 7,
     title: "Red News",
     subtitle: "A collection of daily news from select sources.",
     alt: "red-news",
@@ -82,7 +83,6 @@ const projects: IProjects[] = [
     img_src: "./images/projects/red-news.png",
   },
   {
-    id: 8,
     title: "React Notes",
     subtitle: "A collection of notes about React JS.",
     alt: "react-notes",
@@ -91,7 +91,6 @@ const projects: IProjects[] = [
     img_src: "./images/projects/react-notes.png",
   },
   {
-    id: 9,
     title: "Dice Roller",
     subtitle: "A dice rolling app for games and just pure fun.",
     alt: "dice-roller",
@@ -102,67 +101,86 @@ const projects: IProjects[] = [
   },
 ];
 
+const projects: IProjects[] = projectList.map((proj, index) => {
+  return {
+    id: index,
+    title: proj.title,
+    subtitle: proj.subtitle,
+    alt: proj.alt,
+    descr: proj.descr,
+    href: proj.href,
+    img_src: proj.img_src,
+  };
+});
+
 const Project = () => {
   return (
     <section>
       {projects.map((proj) => {
         return (
           <>
-          <div
-            key={proj.id}
-            className="flex lg:flex-row flex-col flex-wrap lg:flex-nowrap lg:justify-center gap-2 sm:gap-8 mx-auto mb-16 lg:w-fit"
-          >
-            <motion.div
-              initial="hidden"
-              whileInView="visible"
-              viewport={{ once: true }}
-              //   initial={{ opacity: 0, x: "-30%" }}
-              //   animate={{ opacity: 1, x: "0" }}
-              //   transition={{ duration: 3 }}
-              className="mx-auto py-4 text-center"
+            <div
+              key={proj.id}
+              className="flex lg:flex-row flex-col flex-wrap lg:flex-nowrap lg:justify-center gap-2 sm:gap-8 mx-auto mb-16 lg:w-fit"
             >
-              <a href={proj.href} target="_blank" rel="noreferrer" className="">
-                <img
-                  src={proj.img_src}
-                  alt={proj.alt}
-                  className="shadow-lg max-w-[200px]"
-                />
-              </a>
-            </motion.div>
-            <div className="mx-auto lg:mx-4 sm:w-[500px] text-center">
-              <a
-                href={proj.href}
-                target="_blank"
-                rel="noreferrer"
-                className="text-center"
+              <motion.div
+                initial="hidden"
+                whileInView="visible"
+                viewport={{ once: true }}
+                //   initial={{ opacity: 0, x: "-30%" }}
+                //   animate={{ opacity: 1, x: "0" }}
+                //   transition={{ duration: 3 }}
+                className="mx-auto py-4 text-center"
               >
-                <h2 className="mb-1 text-slate-700 hover:text-cyan-700 text-center">
-                  {proj.title}
-                </h2>
-              </a>
-              <div className="text-slate-500 text-center">{proj.subtitle}</div>
-              <p className="hidden sm:block mb-3">{proj.descr}</p>
-              <div className="flex justify-center sm:justify-center gap-4 mb-8">
-                <img
-                  src="./images/icons/javascript.png"
-                  alt="javascript-icon"
-                  className="w-[50px] h-[40px]"
-                />
-                <img
-                  src="./images/icons/html5.png"
-                  alt="html-icon"
-                  className="w-[50px] h-[40px]"
-                />
-                <img
-                  src="./images/icons/css.png"
-                  alt="css-icon"
-                  className="w-[50px] h-[40px]"
-                />
+                <a
+                  href={proj.href}
+                  target="_blank"
+                  rel="noreferrer"
+                  className=""
+                >
+                  <img
+                    src={proj.img_src}
+                    alt={proj.alt}
+                    className="shadow-lg max-w-[200px]"
+                  />
+                </a>
+              </motion.div>
+              <div className="mx-auto lg:mx-4 sm:w-[500px] text-center">
+                <a
+                  href={proj.href}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-center"
+                >
+                  <h2 className="mb-1 text-slate-700 hover:text-cyan-700 text-center">
+                    {proj.title}
+                  </h2>
+                </a>
+                <div className="text-slate-500 text-center">
+                  {proj.subtitle}
+                </div>
+                <p className="hidden sm:block mb-3">{proj.descr}</p>
+                <div className="flex justify-center sm:justify-center gap-4 mb-8">
+                  <img
+                    src="./images/icons/javascript.png"
+                    alt="javascript-icon"
+                    className="w-[50px] h-[40px]"
+                  />
+                  <img
+                    src="./images/icons/html5.png"
+                    alt="html-icon"
+                    className="w-[50px] h-[40px]"
+                  />
+                  <img
+                    src="./images/icons/css.png"
+                    alt="css-icon"
+                    className="w-[50px] h-[40px]"
+                  />
+                </div>
               </div>
             </div>
-          </div>
             <div className="bg-gradient-to-r from-transparent via-slate-400 to-transparent lg:mb-12 w-[100%] h-[1px]"></div>
-            </>
+          </>
         );
       })}
     </section>
