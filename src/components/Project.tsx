@@ -26,7 +26,7 @@ const projectList = [
     alt: "cfa-notes",
     descr:
       "This project is a static Next js website that utilizes Tailwind CSS.",
-    href: "https://aaron-san.github.io/cfa-notes",
+    href: "https://free-analyst-notes.netlify.app",
     img_src: "./images/projects/cfa-notes.png",
   },
   {
@@ -38,14 +38,16 @@ const projectList = [
     href: "https://aaron-san.github.io/word-app/",
     img_src: "./images/projects/word-app.png",
   },
-  {
-    title: "My Blog",
-    subtitle: "A blog of Aaron's family adventures",
-    alt: "Aaron's blog",
-    descr: "This project utilizes Next JS. It's hosted on Netlify.",
-    href: "https://chic-kelpie-0af57a.netlify.app/",
-    img_src: "./images/projects/my-blog.png",
-  },
+  
+  // {
+  //   title: "My Blog",
+  //   subtitle: "A blog of Aaron's family adventures",
+  //   alt: "Aaron's blog",
+  //   descr: "This project utilizes Next JS. It's hosted on Netlify.",
+  //   href: "https://chic-kelpie-0af57a.netlify.app/",
+  //   img_src: "./images/projects/my-blog.png",
+  // },
+  
   {
     title: "Spelling Game",
     subtitle: "A typing game for Japanese students learning English",
