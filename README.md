@@ -16,7 +16,7 @@ git push
 
 ```bash
 npm run build # compile the source code
-npm run deploy # runs `gh-pages -d build`
+npm run deploy # runs `gh-pages -d dist`
 ```
 
 

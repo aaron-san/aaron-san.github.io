@@ -1,91 +1,78 @@
 import React, { useState } from "react";
+import type { JSX } from "react";
+import { motion } from "framer-motion"
 
-// import Search from "../../components/Search";
-// import Counter from "../../components/Counter";
-// import Modal from "../../components/Modal";
-// import { motion } from "framer-motion";
 import Project from "../../components/Project";
-// import SpellingGame from "../../components/projects/SpellingGame";
-// import NotePad from "../../components/projects/NotePad";
-// import RecipeApp from "../../components/projects/RecipeApp";
-// import SpellingGame from "./  /spelling-game.png";
 
-// import "../../index.css";
 
-const Home = () => {
-  // const [isOpen, setIsOpen] = useState<boolean>(false);
+const Home = (): JSX.Element =>
+{
   return (
-    <section className="max-w-[90%] sm:max-w-[95%] mx-auto">
-      <div className="mt-16">
-        <img
-          src="./images/profile.png"
-          alt="profile picture of Aaron Hardy"
-          className="w-[260px] mx-auto"
-        />
+    <section className="mx-auto max-w-[90%] sm:max-w-[95%]">
+      <div className="mt-12">
+        <div className="md:flex items-center gap-4">
+          <motion.img
+            src="./images/profile.png"
+            alt="Profile picture of Aaron Hardy"
+            className="mx-auto w-[260px]"
+            initial={{ opacity: 0, y: 20 }} // Start invisible and slightly below
+            animate={{ opacity: 1, y: 0 }}  // Animate to visible and in place
+            transition={{ duration: 0.6 }}  // Duration of animation in seconds
+          />
 
-        <div className="max-w-[600px] text-slate-600 mx-auto my-4 text-center">
-          <div className="mx-auto w-fit inline sm:block">
-            Hello! I'm Aaron Hardy, a <b>front-end developer</b>.
-          </div>
-          <div className="mx-auto w-fit inline sm:block">
-            I specialize in React and TypeScript and use Tailwind in my
-            projects.
-            <div className="mx-auto w-fit inline sm:block">
-              I have experience in finance and have passed all CFA Exams.
+          <div className="mx-auto my-4 max-w-[400px] text-slate-600 text-center">
+            <div className="sm:block inline mx-auto w-fit">
+              Hello! I'm Aaron Hardy,</div>
+            <div className="mx-auto mt-2 border-stone-300 border-b w-fit text-lg italic"> <b>financial analyst</b> and <b>web developer</b>
             </div>
-            <div className="mx-auto w-fit inline sm:block">
-              I enjoy making apps and analyzing data.
+            <div
+
+              className="sm:block inline mt-4 w-fit">
+              <div className="inline mr-1">
+                I specialize in
+              </div>
+
+
+              <a
+                href="https://aaron-san.github.io/cfa-notes/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline bold">financial analysis</a> and
+              <a
+                href="https://react.dev"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline mr-2 ml-1 w-fit bold"
+              >
+                React
+              </a>.
+
+              <div className="sm:block inline mx-auto w-fit">
+                <span>
+                  I have experience in finance and have passed all</span> <a
+                    href="https://www.cfainstitute.org"
+                    target="_blank"
+                    rel="noopener noreferrer"
+
+                  > CFA® exams</a> and <a href="https://caia.org"
+
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >CAIA exams
+                </a>.
+              </div>
+              <div className="sm:block inline mx-auto w-fit">
+                Contact me on <a href="https://www.linkedin.com/in/aaron-hardy-651b2410/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+              </div>
             </div>
           </div>
         </div>
-
-        <div className="w-[50%] mx-auto text-slate-600 mb-16 mt-20">
+        <div className="mx-auto mt-16 mb-8 w-[50%] text-slate-600">
           <h1 id="home-title" className="text-3xl text-center">
-            My Projects
+            Projects
           </h1>
-          <div className="w-full h-[1px] bg-gradient-to-r from-transparent via-slate-400 to-transparent"></div>
         </div>
-
         <Project />
-        {/* <SpellingGame /> */}
-        <hr />
-        {/* <NotePad /> */}
-        {/* <hr /> */}
-        {/* <RecipeApp /> */}
-
-        {/* <hr /> */}
-
-        {/* <ul className="flex flex-wrap gap-2 min-w-2xl">
-          <li className="list-none">
-            {custLink(
-              "https://gracious-lovelace-b77c36.netlify.app/",
-              "Notepad (model only, Netlify hosted)"
-            )}
-          </li>
-        </ul>
-        <h2>Other Hosting</h2>
-
-        <ul className="flex flex-wrap gap-2 list-none min-w-2xl">
-          <li>
-            {custLink(
-              "https://aaron-san-stock-dashboard-main-i9lvpp.streamlit.app/",
-              "Streamlit Stock Dashboard"
-            )}
-          </li>
-        </ul> */}
-
-        {/* <hr />
-        <div
-          className="button_wrapper_styles"
-          onClick={() => console.log("clicked")}
-        >
-          <button onClick={() => setIsOpen(true)}>Open Modal</button>
-          <Modal open={isOpen} onClose={() => setIsOpen(false)}>
-            Fancy Modal
-          </Modal>
-        </div>
-        <Search /> */}
-        {/* <Counter /> */}
       </div>
     </section>
   );

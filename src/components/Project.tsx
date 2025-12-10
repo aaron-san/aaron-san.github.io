@@ -1,7 +1,8 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-interface IProjects {
+interface IProjects
+{
   id: number;
   title: string;
   subtitle: string;
@@ -38,7 +39,8 @@ const projectList = [
     href: "https://aaron-san.github.io/word-app/",
     img_src: "./images/projects/word-app.png",
   },
-  
+
+
   // {
   //   title: "My Blog",
   //   subtitle: "A blog of Aaron's family adventures",
@@ -47,7 +49,7 @@ const projectList = [
   //   href: "https://chic-kelpie-0af57a.netlify.app/",
   //   img_src: "./images/projects/my-blog.png",
   // },
-  
+
   {
     title: "Spelling Game",
     subtitle: "A typing game for Japanese students learning English",
@@ -103,89 +105,84 @@ const projectList = [
   },
 ];
 
-const projects: IProjects[] = projectList.map((proj, index) => {
-  return {
-    id: index,
-    title: proj.title,
-    subtitle: proj.subtitle,
-    alt: proj.alt,
-    descr: proj.descr,
-    href: proj.href,
-    img_src: proj.img_src,
-  };
-});
+const projects: IProjects[] = projectList.map((proj, index) => (
+  {
 
-const Project = () => {
+    id: index,
+    ...proj
+
+  }));
+
+const Project = () =>
+{
   return (
     <section>
-      {projects.map((proj) => {
+      {projects.map((proj) =>
+      {
         return (
-          <>
-            <div
-              key={proj.id}
-              className="flex lg:flex-row flex-col flex-wrap lg:flex-nowrap lg:justify-center gap-2 sm:gap-8 mx-auto mb-16 lg:w-fit"
+          <div
+            key={proj.id}>
+            <a
+              href={proj.href}
+              target="_blank"
+              rel="noreferrer"
+              className="block bg-stone-100 shadow-lg my-4 p-6 border-2 border-stone-300 hover:border-1 hover:border-cyan-100 rounded"
             >
-              <motion.div
-                initial="hidden"
-                whileInView="visible"
-                viewport={{ once: true }}
-                //   initial={{ opacity: 0, x: "-30%" }}
-                //   animate={{ opacity: 1, x: "0" }}
-                //   transition={{ duration: 3 }}
-                className="mx-auto py-4 text-center"
+              <div
+                className="flex lg:flex-row flex-col flex-wrap lg:flex-nowrap lg:justify-center gap-2 sm:gap-8 mx-auto lg:w-fit"
               >
-                <a
-                  href={proj.href}
-                  target="_blank"
-                  rel="noreferrer"
-                  className=""
+                <motion.div
+                  initial="hidden"
+                  whileInView="visible"
+                  viewport={{ once: true }}
+                  //   initial={{ opacity: 0, x: "-30%" }}
+                  //   animate={{ opacity: 1, x: "0" }}
+                  //   transition={{ duration: 3 }}
+                  className="mx-auto py-4"
                 >
+
                   <img
                     src={proj.img_src}
                     alt={proj.alt}
-                    className="shadow-lg max-w-[200px]"
+                    className="shadow-xl border-2 border-stone-50 rounded max-w-[200px]"
                   />
-                </a>
-              </motion.div>
-              <div className="mx-auto lg:mx-4 sm:w-[500px] text-center">
-                <a
-                  href={proj.href}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-center"
-                >
-                  <h2 className="mb-1 text-slate-700 hover:text-cyan-700 text-center">
+
+                </motion.div>
+                <div className="mx-auto lg:mx-4 sm:w-[500px]">
+
+                  <h2 className="mb-1 text-stone-800">
                     {proj.title}
                   </h2>
-                </a>
-                <div className="text-slate-500 text-center">
-                  {proj.subtitle}
-                </div>
-                <p className="hidden sm:block mb-3">{proj.descr}</p>
-                <div className="flex justify-center sm:justify-center gap-4 mb-8">
-                  <img
-                    src="./images/icons/javascript.png"
-                    alt="javascript-icon"
-                    className="w-[50px] h-[40px]"
-                  />
-                  <img
-                    src="./images/icons/html5.png"
-                    alt="html-icon"
-                    className="w-[50px] h-[40px]"
-                  />
-                  <img
-                    src="./images/icons/css.png"
-                    alt="css-icon"
-                    className="w-[50px] h-[40px]"
-                  />
+
+                  <div className="text-slate-500">
+                    {proj.subtitle}
+                  </div>
+                  <p className="hidden sm:block mb-3">{proj.descr}</p>
+                  <div className="flex justify-center sm:justify-center gap-4 mb-4">
+                    <img
+                      src="./images/icons/javascript.png"
+                      alt="javascript-icon"
+                      className="w-[50px] h-[40px]"
+                    />
+                    <img
+                      src="./images/icons/html5.png"
+                      alt="html-icon"
+                      className="w-[50px] h-[40px]"
+                    />
+                    <img
+                      src="./images/icons/css.png"
+                      alt="css-icon"
+                      className="w-[50px] h-[40px]"
+                    />
+                  </div>
                 </div>
               </div>
-            </div>
-            <div className="bg-gradient-to-r from-transparent via-slate-400 to-transparent lg:mb-12 w-[100%] h-[1px]"></div>
-          </>
+
+            </a>
+          </div>
         );
       })}
-    </section>
+    </section >
   );
 };
 
