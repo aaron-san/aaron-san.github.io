@@ -12,23 +12,35 @@ interface IProjects
   img_src: string;
 }
 const projectList = [
+  // {
+  //   title: "Investor Dashboard",
+  //   subtitle: "A dashboard for investors to track their portfolio and news.",
+  //   alt: "investor-dashboard",
+  //   descr: "This project is a Next website that utilizes Tailwind CSS.",
+  //   href: "https://investor-dashboard-lilac.vercel.app/",
+  //   img_src: "./images/projects/investor-dashboard.png",
+  // },
   {
-    title: "Investor Dashboard",
-    subtitle: "A dashboard for investors to track their portfolio and news.",
-    alt: "investor-dashboard",
-    descr: "This project is a Next website that utilizes Tailwind CSS.",
-    href: "https://investor-dashboard-lilac.vercel.app/",
-    img_src: "./images/projects/investor-dashboard.png",
-  },
-  {
-    title: "CFA Notes",
+    title: "Free Analyst Notes",
     subtitle:
-      "A collection of financial information related to current and past CFA curriculum",
-    alt: "cfa-notes",
+      "A collection of financial information related to CFA, CAIA, and more",
+    alt: "free-analyst-notes",
     descr:
       "This project is a static Next js website that utilizes Tailwind CSS.",
-    href: "https://free-analyst-notes.netlify.app",
+    href: "https://aaron-san.github.io/cfa-notes/",
+    // href: "https://free-analyst-notes.netlify.app",
     img_src: "./images/projects/cfa-notes.png",
+  },
+  {
+    title: "Fincoder Blog",
+    subtitle:
+      "A collection of financial articles",
+    alt: "fincoder-blog",
+    descr:
+      "This project is a static Next js website that utilizes Tailwind CSS.",
+    href: "https://aaron-san.github.io/fincoder-blog/",
+    
+    img_src: "./images/projects/fincoder-blog.png",
   },
   {
     title: "Word App",
@@ -126,7 +138,7 @@ const Project = () =>
               href={proj.href}
               target="_blank"
               rel="noreferrer"
-              className="block bg-stone-100 shadow-lg my-4 p-6 border-2 border-stone-300 hover:border-1 hover:border-cyan-100 rounded"
+              className="block bg-stone-100 shadow-lg my-4 p-6 border-2 border-stone-300 hover:border-1 hover:border-cyan-100 rounded text-stone-800"
             >
               <div
                 className="flex lg:flex-row flex-col flex-wrap lg:flex-nowrap lg:justify-center gap-2 sm:gap-8 mx-auto lg:w-fit"
@@ -157,7 +169,7 @@ const Project = () =>
                   <div className="text-slate-500">
                     {proj.subtitle}
                   </div>
-                  <p className="hidden sm:block mb-3">{proj.descr}</p>
+                  <p className="hidden sm:block mb-3 text-sm">{proj.descr}</p>
                   <div className="flex justify-center sm:justify-center gap-4 mb-4">
                     <img
                       src="./images/icons/javascript.png"

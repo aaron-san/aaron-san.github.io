@@ -1,17 +1,12 @@
 import React, { useState } from "react";
-import "./Navbar.css";
-import type { JSX } from "react";
 import { NavLink } from "react-router-dom";
-import "../../fonts/PoorStory/PoorStory-Regular.ttf";
-import "../../fonts/Permanent_Marker/PermanentMarker-Regular.ttf";
 import { FaHome, FaStickyNote, FaUserTie } from "react-icons/fa";
-// import { FcAbout } from "react-icons/fc";
 import { MdContactMail } from "react-icons/md";
 import { IoIosApps } from "react-icons/io";
 import { motion } from "framer-motion";
 import { FaBars } from "react-icons/fa";
 
-const Navbar = () =>
+const Header = () =>
 {
   const [showSideBar, setShowSideBar] = useState<boolean>(false);
 
@@ -172,4 +167,4 @@ const Navbar = () =>
   );
 };
 
-export default Navbar;
+export default Header;

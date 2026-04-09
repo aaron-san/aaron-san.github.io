@@ -9,7 +9,7 @@ See live site at https://aaron-san.github.io/.
 ```bash
 git add .
 git commit -m "message"
-git push
+git push origin main
 ```
 
 ### Deployment
@@ -19,13 +19,3 @@ npm run build # compile the source code
 npm run deploy # runs `gh-pages -d dist`
 ```
 
-
-
-
-
-```shell
-
-git add .
-git commit -m "first commit"
-git push origin main
-```
