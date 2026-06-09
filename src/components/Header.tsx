@@ -29,7 +29,7 @@ const Header = () => {
               to="/"
             >
               Aaron Hardy, CFA
-              <div className="absolute -left-[60px] bg-gradient-to-r from-transparent via-cyan-500 to-transparent w-[360px] h-[2px]"></div>
+              <div className="hidden sm:block absolute -left-[20px] bg-gradient-to-r from-transparent via-cyan-500 to-transparent w-[260px] h-[1px]"></div>
             </NavLink>
           </motion.div>
 

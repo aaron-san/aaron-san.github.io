@@ -123,7 +123,7 @@ const Project = () => {
 
                   <div className="text-slate-500">{proj.subtitle}</div>
                   <p className="hidden sm:block mb-3 text-sm">{proj.descr}</p>
-                  <div className="flex justify-center sm:justify-center gap-4 mb-4">
+                  <div className="flex gap-4 mb-4 overflow-x-auto scrollbar-thin scrollbar-thumb-stone-300 scrollbar-track-stone-100 p-2">
                     {(proj.tools ?? []).map((tool) => {
                       const icon = toolIcons[tool];
                       if (!icon) return null;
@@ -132,7 +132,7 @@ const Project = () => {
                           key={tool}
                           src={icon.src}
                           alt={icon.alt}
-                          className="h-[30px]"
+                          className="h-[30px] flex-shrink-0"
                         />
                       );
                     })}
