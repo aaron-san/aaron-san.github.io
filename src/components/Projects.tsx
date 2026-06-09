@@ -132,7 +132,7 @@ const Project = () => {
                           key={tool}
                           src={icon.src}
                           alt={icon.alt}
-                          className="h-[40px]"
+                          className="h-[30px]"
                         />
                       );
                     })}
