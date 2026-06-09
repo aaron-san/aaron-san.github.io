@@ -12,47 +12,7 @@ interface IProjects
   img_src: string;
 }
 const projectList = [
-  // {
-  //   title: "Investor Dashboard",
-  //   subtitle: "A dashboard for investors to track their portfolio and news.",
-  //   alt: "investor-dashboard",
-  //   descr: "This project is a Next website that utilizes Tailwind CSS.",
-  //   href: "https://investor-dashboard-lilac.vercel.app/",
-  //   img_src: "./images/projects/investor-dashboard.png",
-  // },
-  {
-    title: "Free Analyst Notes",
-    subtitle:
-      "A collection of financial information related to CFA, CAIA, and more",
-    alt: "free-analyst-notes",
-    descr:
-      "This project is a static Next js website that utilizes Tailwind CSS.",
-    href: "https://aaron-san.github.io/cfa-notes/",
-    // href: "https://free-analyst-notes.netlify.app",
-    img_src: "./images/projects/cfa-notes.png",
-  },
-  {
-    title: "Fincoder Blog",
-    subtitle:
-      "A collection of financial articles",
-    alt: "fincoder-blog",
-    descr:
-      "This project is a static Next js website that utilizes Tailwind CSS.",
-    href: "https://aaron-san.github.io/fincoder-blog/",
-    
-    img_src: "./images/projects/fincoder-blog.png",
-  },
-  {
-    title: "Word App",
-    subtitle: "An app to search to search for words and their definitions",
-    alt: "Word App",
-    descr:
-      "This project utilizes Typescript, React and Vite. It's hosted on Github Pages.",
-    href: "https://aaron-san.github.io/word-app/",
-    img_src: "./images/projects/word-app.png",
-  },
-
-
+  
   // {
   //   title: "My Blog",
   //   subtitle: "A blog of Aaron's family adventures",

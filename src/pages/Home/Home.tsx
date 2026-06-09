@@ -2,7 +2,8 @@ import React, { useState } from "react";
 import type { JSX } from "react";
 import { motion } from "framer-motion"
 
-import Project from "../../components/Project";
+import Projects from "../../components/Projects";
+import OtherProjects from "../../components/OtherProjects";
 
 
 const Home = (): JSX.Element =>
@@ -22,8 +23,8 @@ const Home = (): JSX.Element =>
 
           <div className="mx-auto my-4 max-w-[400px] text-slate-600 text-center">
             <div className="sm:block inline mx-auto w-fit">
-              Hello! I'm Aaron Hardy,</div>
-            <div className="mx-auto mt-2 border-stone-300 border-b w-fit text-lg italic"> <b>financial specialist</b> and <b>web developer</b>
+              Hello! I'm Aaron Hardy, <span className="italic">CFA</span>, </div>
+            <div className="mx-auto mt-2 border-stone-300 border-b w-fit text-lg italic"> <b>financial analyst</b> and <b>web developer</b>
             </div>
             <div
 
@@ -37,12 +38,13 @@ const Home = (): JSX.Element =>
                 href="https://aaron-san.github.io/cfa-notes/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline bold">financial analysis</a>, accounting and
+                className="inline text-600 italic">financial analysis</a><span className="pr-1">,</span>
+                <span className="italic">accounting</span> and
               <a
                 href="https://react.dev"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline mr-2 ml-1 w-fit bold"
+                className="inline ml-1 w-fit bold italic"
               >
                 React
               </a>.
@@ -69,11 +71,18 @@ const Home = (): JSX.Element =>
         </div>
         <div className="mx-auto mt-16 mb-8 w-[50%] text-slate-600">
           <h1 id="home-title" className="text-3xl text-center">
-            Projects
+            Analysis Projects
           </h1>
         </div>
-        <Project />
+        <Projects />
+        <div className="mx-auto mt-16 mb-8 w-[50%] text-slate-600">
+          <h1 id="home-title" className="text-3xl text-center">
+            Other Projects
+          </h1>
+        </div>
+        <OtherProjects />
       </div>
+      
     </section>
   );
 };
