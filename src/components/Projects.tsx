@@ -21,6 +21,16 @@ const projectList = [
   //   img_src: "./images/projects/investor-dashboard.png",
   // },
   {
+    title: "Apartment Analysis",
+    subtitle:
+      "Analysis of Fictitious apartment in Knoxville, TN",
+    alt: "ancient-heights-apartments",
+    descr:
+      "This project utilized Python Pandas and Matplotlib libraries for data analysis and plotting.",
+    href: "https://aaron-san.github.io/ancient-heights/",
+    img_src: "./images/projects/ancient-heights.png",
+  },
+  {
     title: "Rental Rate Growth Analyis",
     subtitle:
       "This project analyzed Zillow's ZORI rental-rate data series.",
