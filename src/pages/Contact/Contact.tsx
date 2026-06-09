@@ -2,7 +2,7 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <section className="max-w-4xl mx-auto shadow-md p-6">
+    <section className="max-w-4xl mx-auto shadow-md p-6 bg-gray-50">
       <h1 className="pt-30%">Contact</h1>
       <p className="w-500px h-40px">
         You can email me at{" "}

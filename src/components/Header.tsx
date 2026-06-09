@@ -25,11 +25,11 @@ const Header = () => {
           >
             <NavLink
               id="site-logo"
-              className="bg-clip-text bg-gradient-to-r from-slate-200 via-slate-100 to-slate-200 w-content text-transparent text-3xl"
+              className="relative bg-clip-text bg-gradient-to-r from-slate-200 via-slate-100 to-slate-200 w-content text-transparent text-3xl"
               to="/"
             >
               Aaron Hardy, CFA
-              <div className="bg-gradient-to-r from-transparent via-cyan-500 to-transparent w-[165px] h-[2px]"></div>
+              <div className="absolute -left-[60px] bg-gradient-to-r from-transparent via-cyan-500 to-transparent w-[360px] h-[2px]"></div>
             </NavLink>
           </motion.div>
 
