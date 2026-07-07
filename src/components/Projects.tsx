@@ -35,10 +35,10 @@ const projectList = [
     subtitle:
       "Indicators is a stock indicators project",
     alt: "indicators",
-    descr: "This project utilized SQL for querying the stock data.",
+    descr: "This project utilized SQL for ETL processes.",
     href: "https://aaron-san.github.io/indicators/",
     img_src: "./images/projects/indicators.png",
-    tools: ["sql"],
+    tools: ["mysql"],
   },
   {
     title: "Apartment Analysis",
@@ -93,6 +93,7 @@ const toolIcons: Record<string, { src: string; alt: string }> = {
   tableau: { src: "./images/icons/tableau.png", alt: "Tableau" },
   next: { src: "./images/icons/nextjs.png", alt: "Next.js" },
   tailwind: { src: "./images/icons/tailwind.png", alt: "Tailwind CSS" },
+  mysql: { src: "./images/icons/mysql.png", alt: "MySQL" },
 };
 
 const projects: IProjects[] = projectList.map((proj, index) => ({
