@@ -31,6 +31,16 @@ const projectList = [
     tools: ["tableau"],
   },
   {
+    title: "Indicators",
+    subtitle:
+      "Indicators is a stock indicators project",
+    alt: "indicators",
+    descr: "This project utilized SQL for querying the stock data.",
+    href: "https://aaron-san.github.io/indicators/",
+    img_src: "./images/projects/indicators.png",
+    tools: ["sql"],
+  },
+  {
     title: "Apartment Analysis",
     subtitle: "Analysis of Fictitious apartment in Knoxville, TN",
     alt: "ancient-heights-apartments",
