@@ -92,10 +92,10 @@ code {
     monospace;
 }
 
-@layer base {
-  ul {
-    @apply list-disc;
-  }
+/* @layer base { */
+  /* ul { */
+    /* @apply list-disc; */
+  /* } */
   /* h1 {
     @apply text-2xl;
   }
@@ -103,18 +103,18 @@ code {
     @apply text-xl;
   } */
   /* ... */
-}
+/* } */
 
 hr {
   margin: 15px 0;
 }
 
-@layer components {
+/* @layer components {
   .container {
     /* @apply rounded-b-lg shadow-md; */
     /* @apply bg-stone-500; */
-  }
-}
+  /* } */
+/* } */
 
 a {
   color: rgb(31, 150, 172);
@@ -155,11 +155,11 @@ li {
   font-size: large;
 }
 
-h3::before {
+/* h3::before { */
   /* content: "\021E8"; */
   /* font-size: 35px; */
   /* padding-right: 10px; */
-}
+/* } */
 
 h2,
 h3,

@@ -11,7 +11,7 @@ const Home = (): JSX.Element =>
   return (
     <section className="mx-auto max-w-[90%] sm:max-w-[95%]">
       <div className="mt-12">
-        <div className="md:flex items-center gap-4">
+        <div className="md:flex items-center gap-4 shadow-md p-2">
           <motion.img
             src="./images/profile.png"
             alt="Profile picture of Aaron Hardy"

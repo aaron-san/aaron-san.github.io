@@ -111,7 +111,7 @@ const Project = () => {
               href={proj.href}
               target="_blank"
               rel="noreferrer"
-              className="block bg-stone-100 shadow-lg my-4 p-6 border-2 border-stone-300 hover:border-1 hover:border-cyan-100 rounded text-stone-800"
+              className="block bg-stone-100 shadow-lg my-4 p-6 shadow-md hover:shadow-cyan-200 rounded text-stone-800"
             >
               <div className="flex lg:flex-row flex-col flex-wrap lg:flex-nowrap lg:justify-center gap-2 sm:gap-8 mx-auto lg:w-fit">
                 <motion.div
