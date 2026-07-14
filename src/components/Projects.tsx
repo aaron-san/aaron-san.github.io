@@ -36,8 +36,8 @@ const projectList = [
       "Indicators is a stock indicators project",
     alt: "indicators",
     descr: "This project utilized SQL for ETL processes.",
-    href: "https://aaron-san.github.io/indicators/",
-    img_src: "./images/projects/indicators.png",
+    href: "https://aaron-san.github.io/fundamentals-db-simfin-mysql/",
+    img_src: "./images/projects/fundamentals-db-simfin-mysql.png",
     tools: ["mysql"],
   },
   {
