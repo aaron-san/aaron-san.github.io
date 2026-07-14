@@ -31,10 +31,10 @@ const projectList = [
     tools: ["tableau"],
   },
   {
-    title: "Indicators",
+    title: "Fundamentals Database with SimFin Data and MySQL",
     subtitle:
-      "Indicators is a stock indicators project",
-    alt: "indicators",
+      "A database for storing and analyzing fundamental financial data.",
+    alt: "fundamentals-db",
     descr: "This project utilized SQL for ETL processes.",
     href: "https://aaron-san.github.io/fundamentals-db-simfin-mysql/",
     img_src: "./images/projects/fundamentals-db-simfin-mysql.png",
