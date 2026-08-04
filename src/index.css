@@ -152,7 +152,7 @@ h2 {
 p,
 li {
   font-family: "Roboto-Regular";
-  font-size: large;
+  /* font-size: large; */
 }
 
 /* h3::before { */
