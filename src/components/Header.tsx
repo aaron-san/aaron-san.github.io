@@ -28,7 +28,7 @@ const Header = () => {
               className="relative bg-clip-text bg-gradient-to-r from-slate-200 via-slate-100 to-slate-200 w-content text-transparent text-3xl"
               to="/"
             >
-              Aaron Hardy, CFA
+              Aaron Hardy, <em>CFA, CAIA</em>
               <div className="hidden sm:block absolute -left-[20px] bg-gradient-to-r from-transparent via-cyan-500 to-transparent w-[260px] h-[1px]"></div>
             </NavLink>
           </motion.div>

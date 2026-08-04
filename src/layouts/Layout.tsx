@@ -12,9 +12,9 @@ export default function Layout()
         <Outlet />
       </main>
 
-      <footer className="opacity-70 mt-12 py-6 border-stone-50 border-t text-center">
+      {/* <footer className="opacity-70 mt-12 py-6 border-stone-50 border-t text-center">
         © {new Date().getFullYear()} Aaron's Portfolio
-      </footer>
+      </footer> */}
     </div>
   );
 }
