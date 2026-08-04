@@ -142,7 +142,7 @@ const Project = () => {
 
         .pj-thumb-frame {
           position: relative;
-          width: 200px;
+          width: 400px;
           padding: 8px;
           border: 1px solid var(--frame);
           flex-shrink: 0;
@@ -211,7 +211,7 @@ const Project = () => {
                     <img
                       src={proj.img_src}
                       alt={proj.alt}
-                      className="w-full max-w-[200px]"
+                      className="w-full max-w-[400px]"
                     />
                   </div>
                 </motion.div>

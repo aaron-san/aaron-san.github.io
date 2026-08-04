@@ -29,7 +29,7 @@ const Header = () => {
               to="/"
             >
               Aaron Hardy, <em>CFA, CAIA</em>
-              <div className="hidden sm:block absolute -left-[20px] bg-gradient-to-r from-transparent via-cyan-500 to-transparent w-[260px] h-[1px]"></div>
+              <div className="hidden sm:block absolute -left-[20px] bg-gradient-to-r from-transparent via-cyan-500 to-transparent w-[360px] h-[1px]"></div>
             </NavLink>
           </motion.div>
 
@@ -93,9 +93,9 @@ const Header = () => {
                   >
                     X
                   </li>
-                  <li className="hover:underline uppercase">
+                  <li className="hover:underline propercase">
                     <NavLink to="/" className="flex items-baseline">
-                      <FaHome style={{ color: "#B5B9FF" }} />
+                      <FaHome style={{ color: "#B5B9FF", marginRight: "6px"  }} />
                       <p
                         className={`${
                           showSideBar ? "inline text-white" : "hidden"
@@ -105,9 +105,9 @@ const Header = () => {
                       </p>
                     </NavLink>
                   </li>
-                  <li className="hover:underline uppercase">
+                  <li className="hover:underline propercase">
                     <NavLink to="/notes" className="flex items-baseline">
-                      <FaStickyNote style={{ color: "#B5B9FF" }} />
+                      <FaStickyNote style={{ color: "#B5B9FF", marginRight: "6px" }} />
                       <p
                         className={`${
                           showSideBar ? "inline text-white" : "hidden"
@@ -117,9 +117,9 @@ const Header = () => {
                       </p>
                     </NavLink>
                   </li>
-                  <li className="hover:underline uppercase">
+                  <li className="hover:underline propercase">
                     <NavLink to="/about" className="flex items-baseline">
-                      <FaUserTie style={{ color: "palegreen" }} />
+                      <FaUserTie style={{ color: "palegreen", marginRight: "6px"  }} />
                       <p
                         className={`${
                           showSideBar ? "inline text-white" : "hidden"
@@ -129,9 +129,9 @@ const Header = () => {
                       </p>
                     </NavLink>
                   </li>
-                  <li className="hover:underline uppercase">
+                  <li className="hover:underline propercase">
                     <NavLink to="/services" className="flex items-baseline">
-                      <IoIosApps style={{ color: "peachpuff" }} />
+                      <IoIosApps style={{ color: "peachpuff", marginRight: "6px"  }} />
                       <p
                         className={`${
                           showSideBar ? "inline text-white" : "hidden"
@@ -141,9 +141,9 @@ const Header = () => {
                       </p>
                     </NavLink>
                   </li>
-                  <li className="hover:underline uppercase">
+                  <li className="hover:underline propercase">
                     <NavLink to="/contact" className="flex items-baseline">
-                      <MdContactMail style={{ color: "palegreen" }} />
+                      <MdContactMail style={{ color: "palegreen", marginRight: "6px"  }} />
                       <p
                         className={`${
                           showSideBar ? "inline text-white" : "hidden"

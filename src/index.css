@@ -6,7 +6,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
 :root {
   --bg_color: rgb(210, 210, 210);
   --main_font: rgb(65, 65, 65);
@@ -18,8 +17,9 @@
 }
 
 #site-logo em {
- font-style: italic;
-  font-weight: 450;
+  font-style: italic;
+  font-size: 1.4rem;
+  /* font-weight: 250; */
   color: var(--brass);
 }
 
@@ -459,7 +459,7 @@ a.active {
   color: var(--ink);
 }
 /* .cp-row:first-of-type { */
-  /* border-top: 1px dashed var(--ledger-line); */
+/* border-top: 1px dashed var(--ledger-line); */
 /* } */
 
 .cp-row-label {

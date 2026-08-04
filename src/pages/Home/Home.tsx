@@ -43,13 +43,13 @@ const Home = (): JSX.Element => {
 
         .hp-name {
           font-family: 'Fraunces', serif;
-          font-weight: 450;
+          font-weight: 250;
           font-size: clamp(24px, 3vw, 30px);
           line-height: 1.2;
         }
         .hp-name em {
           font-style: italic;
-          font-weight: 450;
+          font-weight: 250;
           color: var(--brass);
         }
 
@@ -126,8 +126,11 @@ const Home = (): JSX.Element => {
           </motion.div>
 
           <div className="mx-auto my-4 max-w-[400px] text-center">
+            <div className="sm:block inline mx-auto w-fit hp-name mb-2 text-[1.2rem]">
+              Hello!
+            </div>
             <div className="sm:block inline mx-auto w-fit hp-name">
-              Hello! I'm Aaron Hardy, <em>CFA, CAIA</em>
+              I'm Aaron Hardy, <em className="text-[1.3rem]">CFA, CAIA</em>.
             </div>
             <div className="mx-auto mt-2 w-fit">
               <span className="hp-role">
@@ -173,7 +176,7 @@ const Home = (): JSX.Element => {
                   >
                     CAIA
                   </a>{" "}
-                  association.
+                  Association.
                 </div>
               </div>
               <div className="sm:block inline mx-auto w-fit text-sm mt-4">
