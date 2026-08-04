@@ -21,7 +21,7 @@ const Home = (): JSX.Element => {
 
           <div className="mx-auto my-4 max-w-[400px] text-slate-600 text-center">
             <div className="sm:block inline mx-auto w-fit">
-              Hello! I'm Aaron Hardy, <span className="italic">CFA</span>,{" "}
+              Hello! I'm Aaron Hardy, <span className="italic">CFA, CAIA</span>,{" "}
             </div>
             <div className="mx-auto mt-2 border-stone-300 border-b w-fit text-lg italic">
               {" "}
