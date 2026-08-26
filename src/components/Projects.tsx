@@ -12,14 +12,14 @@ interface IProjects {
   tools?: string[];
 }
 const projectList = [
-  // {
-  //   title: "Investor Dashboard",
-  //   subtitle: "A dashboard for investors to track their portfolio and news.",
-  //   alt: "investor-dashboard",
-  //   descr: "This project is a Next website that utilizes Tailwind CSS.",
-  //   href: "https://investor-dashboard-lilac.vercel.app/",
-  //   img_src: "./images/projects/investor-dashboard.png",
-  // },
+  {
+    title: "Industry Profile Dashboard",
+    subtitle: "A dashboard for investors to quickly inspect a company's position relative to its peers.",
+    alt: "industry-profile-dashboard",
+    descr: "This project is a Next website that utilizes Tailwind CSS.",
+    href: "https://github.com/aaron-san/industry-profile-dashboard/blob/main/industry%20profile%20dashboard.mp4",
+    img_src: "./images/projects/industry-profile-dashboard.png",
+  },
   {
     title: "Buy or Rent Dashboard",
     subtitle:
