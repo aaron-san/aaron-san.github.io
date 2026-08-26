@@ -66,15 +66,15 @@ const projectList = [
     href: "https://aaron-san.github.io/react-notes/",
     img_src: "./images/projects/react-notes.png",
   },
-  {
-    title: "Dice Roller",
-    subtitle: "A dice rolling app for games and just pure fun.",
-    alt: "dice-roller",
-    descr:
-      "This project utilizes vanilla JavaScript. It's hosted on GitHub Pages.",
-    href: "https://aaron-san.github.io/dice/",
-    img_src: "./images/projects/dice-roller.png",
-  },
+  // {
+  //   title: "Dice Roller",
+  //   subtitle: "A dice rolling app for games and just pure fun.",
+  //   alt: "dice-roller",
+  //   descr:
+  //     "This project utilizes vanilla JavaScript. It's hosted on GitHub Pages.",
+  //   href: "https://aaron-san.github.io/dice/",
+  //   img_src: "./images/projects/dice-roller.png",
+  // },
 ];
 
 const projects: IProjects[] = projectList.map((proj, index) => (
