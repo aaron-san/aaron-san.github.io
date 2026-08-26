@@ -182,7 +182,7 @@ const Home = (): JSX.Element => {
               <div className="sm:block inline mx-auto w-fit text-sm mt-4">
                 See me on{" "}
                 <a
-                  href="https://www.linkedin.com/in/aaron-hardy-651b2410/"
+                  href="https://www.linkedin.com/in/aaron-hardy-cfa-caia-651b2410/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hp-mono-link"
