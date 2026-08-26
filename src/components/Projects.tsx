@@ -14,9 +14,9 @@ interface IProjects {
 const projectList = [
   {
     title: "Industry Profile Dashboard",
-    subtitle: "A dashboard for investors to quickly inspect a company's position relative to its peers.",
+    subtitle: "Dashboard for investors to quickly inspect a company's position relative to its peers.",
     alt: "industry-profile-dashboard",
-    descr: "This project is a Next website that utilizes Tailwind CSS.",
+    descr: "A PowerBI dashboard that helps analysts compare a company relative to its competitors by looking at price trends, profitability, free cash flow, and relative pricing.",
     href: "https://github.com/aaron-san/industry-profile-dashboard/blob/main/industry%20profile%20dashboard.mp4",
     img_src: "./images/projects/industry-profile-dashboard.png",
   },
@@ -25,7 +25,7 @@ const projectList = [
     subtitle:
       "Dashboard showing home prices relative to rental rates across U.S.",
     alt: "price-to-rent-dashboard",
-    descr: "This project utilized Tableau for plotting.",
+    descr: "A Tableau dashboard that helps real estate investors analyze relative attractiveness of buying versus renting in key markets.",
     href: "https://public.tableau.com/app/profile/aaron.hardy2837/viz/Price-RentDashboard/Price-RentDashboard",
     img_src: "./images/projects/price-rent-dashboard.png",
     tools: ["tableau"],
