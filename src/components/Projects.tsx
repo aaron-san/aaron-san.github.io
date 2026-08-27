@@ -17,7 +17,7 @@ const projectList = [
     subtitle: "Dashboard for investors to quickly inspect a company's position relative to its peers.",
     alt: "industry-profile-dashboard",
     descr: "A PowerBI dashboard that helps analysts compare a company relative to its competitors by looking at price trends, profitability, free cash flow, and relative pricing.",
-    href: "https://github.com/aaron-san/industry-profile-dashboard/blob/main/industry%20profile%20dashboard.mp4",
+    href: "https://github.com/aaron-san/industry-profile-dashboard/blob/main",
     img_src: "./images/projects/industry-profile-dashboard.png",
   },
   {
